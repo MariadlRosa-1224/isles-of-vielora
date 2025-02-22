@@ -26,11 +26,11 @@
 
 **level 18:**
 
-- **Great artisan :** As a dwarf become more experimented the quality of their creation increase, (increase in knowledge), they can add up to 3 abilities to a weapon and their mana infusion increase the quality of their material of the weapon by (add)
+- **Great artisan:** As a dwarf become more experimented the quality of their creation increase, (increase in knowledge), they can add up to 3 abilities to a weapon and their mana infusion increase the quality of their material of the weapon by (add)
 
 **level 25:**
 
-- **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns in .
+- **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns.
 
 **level 30:**
 
@@ -53,3 +53,15 @@ They are said to have evolved from remains after generations of creating and per
 Dwarves society considers imagination and craftsmanship to be leading qualities with prospectiveness usually encompassing some of the greatest dwarves, dwarves wish to only improve in technology and though wild in temperament there is a sort of method to their madness in their settlements. Dwarves may be stubborn and at times a bit chaotic but no one can doubt that they've made their stay. Different from the rest, they are highly regarded in society for their innovative minds and advancements to society as a whole.
 
 Still their society is a closed one that keeps the greatest secrets to themselves in small populations around the planet only for the most trusted.
+
+::: mermaid
+graph TD;
+Dwarf --> Mana_infusion;
+Mana_infusion --> Mineral_sense;
+Mineral_sense --> Weapon_invocation;
+Weapon_invocation --> Great_artisan;
+Great_artisan --> Veil_of_beyond;
+Veil_of_beyond --> One_with_the_weapon;
+:::
+
+*Return to [Remnants](./Overview.md)*
