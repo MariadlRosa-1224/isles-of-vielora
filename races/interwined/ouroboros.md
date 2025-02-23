@@ -1,0 +1,72 @@
+## Ouroboros
+
+**Origin** intertwined (Daemon + Ethereal)
+
+**Base abilities:**
+
+- **Scaled:** Ouroboros retain their iron like scales all over their body, strong enough to protect them from most physical attacks but no longer from elemental ones.
+
+- **Dragon capabilities:** Ouroboros are stronger, faster, more resilient than most races due to their draconic origin. Getting 3x to strength, 4x to defense, and 3x speed.
+
+- **Dark mana infused:** The mana that is infused in a dragonkins body has been infected with dark mana, while their attacks are still an hybrid of physical and magical ones, a direct attack of them halves mana regeneration for the next 3 turns. This only applied every 5 turns.
+
+- **Mana driven:** Ouroboros sustain themselves over mana and blood, ambient mana is enough to sustain them but biting and consuming or being hit by others mana regenerate 2 mana charges per turn.
+
+**Unlockables:**
+
+**level x:**
+
+- **Winged:** Some dragons wings eventually develop strong enough to allow them to fly, these wings tougher than the wings of other flying races like avians and Chitnoids. Ouroboros wings glow in the dark with a dim light just as the rest of their bodies.
+
+**level x:**
+
+- **Dark armor:** Rather that covering their bodies on elements Ouroboros can cover their bodies in a layer of dark mana, this armor burns at contact as if made out of acid quickly disintegrating soft materials such as fabric or even lader or wood if exposed for enough time.
+
+- **Nightmarish:** Is in a daemons nature to mess with the minds of their enemies, the target’s mind is flooded with a relentless stream of white noise and distorted thoughts, making it impossible to concentrate or form coherent ideas, eventually causing sensory overload, dizziness, and disorientation. This ability can also be used for telepathic communication with a willing target.
+
+**level x:**
+
+- **mana drakes (require nightmarish):** Some Ouroboros gain control over the mana they feed on tripling their magic output and allowing them to create and control mana structures in the form of semi-conscious drakes that follow the commands of their master.
+
+- **Draconic blood (Requires winged and dark armor):** By tapping into the dormant aspects of their draconic blood some Dragonkin become capable of transforming into a dragon form, this form is large in size and has stronger breath and flight. Their wings are large and give them a 10x boost to speed when on flight. It takes 5 turns to shift back into normal form once they transform.
+
+**level x:**
+
+- **Darkness realm (Requires Nightmarish and mana drakes):** A powerful and feared but greatly draining attack, an area 50 meters around the ouroboros becomes pitch black silencing all sound, snuffing out light, and temporarily severing the target’s senses, in the darkness the ouroboros becomes one with it, black tendrils of darkness wrap around the target, leeching warmth, emotion, and willpower. Exposed flesh start to wither, magical constructs to unravel and mana depleted in 3 charges per turn.
+On its duration the ouroboros is unable to move their body and 5 charges are consumed per turn. It can last up to 10 turns and the ouroboros will collapse unconscious and depleted of mana when is over, unable to use this again for 10 rps.
+
+- **Darkness spread:** Strong Ouroboros can infect other creatures while feeding of their mana turning them into a compatible daemon race if so they wish.
+
+**Description:** At first glance an ouroboros doesn't look different from a black dragonkin until you search for closer signs, their very long tails, sharper claws, fangs and horns, the dim light under their their darkened scales, glowing bloody eyes and overall sharper and vampiric looking characteristics.
+
+**weaknesses:**
+
+- **Hungry:** Just as their normal counterparts their need to feed constantly. Places low on ambient mana makes them feel weak quickly.
+
+- **Light sensitive:** They can be blinded with bright flashing lights.
+
+- **Blunt force:** Blunt force attacks go through their scales in addition to damaging the area after they take blunt damage.
+
+- **Harmonic mana:** Due to their Daemon heritage Ouroboros are weak to harmonic mana.
+
+- **Draconic:** Being a dragon which is still a type of animal/monster they have the common weaknesses one would assume a dragon to have.
+
+- **Dark draconic nature:** having draconic and daemon inheritance they still sometimes struggle with the unruly nature of having monster blood, They are possessive over anything they consider their treasure, are aggressive in nature and many lack of empathy. although this doesn't necessarily make them evil.
+
+**History:** Ouroboros wasn't a race born but a race that was created in the long past by a lone dragonkin scientist searching to utilize dark mana power.
+
+The result after experimenting on his own body was a mutation that invade their body and changed him physically and mentally, (to be finished) 
+
+::: mermaid
+graph TD;
+
+Ouroboros --> Winged;
+Winged --> Dark_armor;
+Winged --> Nightmarish;
+Nightmarish --> mana_drakes;
+Dark_armor --> Draconic_blood;
+mana_drakes --> Darkness_spread;
+mana_drakes --> Darkness_realm;
+Draconic_blood --> Darkness_spread;
+
+:::
