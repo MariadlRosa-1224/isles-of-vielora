@@ -36,6 +36,10 @@
 
 - **One with the weapon:** Once unlocked a dwarf must choose or make a weapon to call their vessel (increase in stats and weapon abilities temporarily while expending mana per level)
 
+**level 35:**
+
+- **Master artizan:** 
+
 **Description:**
 
 Short and dense dwarves are one of the races that are highly similar to remains. Resembling a humanoid with the tallest dwarves being 4,10 feet tall to 4 feet tall. They have markings on their body around the arms and hands which channel mana into their physical form. They are usually also rather gruff and tough looking, making them look grown even for their size, but also a little messy. Their bodies are usually being wider and well built with plenty of strength.
@@ -62,6 +66,7 @@ Mineral_sense --> Weapon_invocation;
 Weapon_invocation --> Great_artisan;
 Great_artisan --> Veil_of_beyond;
 Veil_of_beyond --> One_with_the_weapon;
+One_with_the_weapon --> Master_artizan
 :::
 
 *Return to [Remnants](./Overview.md)*
