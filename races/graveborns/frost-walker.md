@@ -22,14 +22,14 @@
 
 - **Snow body:** frost walkers with a snow body become light and faster, enough to fly on their own and gain a speed and reaction speed 8 times better than a human. These come with the cost of durability. Their bodies break as easily as snow breaks and they start to melt at 1200 degrees.
 
-- **Crystallization:** Crystalized frost walkers are heavier and slower only as fast as a human, in compensation to this their bodies become a lot more resistant, durability and magic defense 6 times better than a human and they won’t start melting till the temperatures around them are 2500 degrees.
+- **Crystallization:** Crystallized frost walkers are heavier and slower only as fast as a human, in compensation to this their bodies become a lot more resistant, durability and magic defense 6 times better than a human and they won’t start melting till the temperatures around them are 2500 degrees.
 
 **level x:**
 
 - **Snowstorm (requires snow body):** Snowstorm frost walkers bodies are shaped like a cloud of small but very sharp shards of ice and snow they can control into any shape in a 50 meter distance and cast magic from anywhere on it.
 They have a great magic output, ice magic being 7 times better and other kinds 4.
 
-- **Glaciar (requires crystallization):** Glaciar frost walkers can form ice around their bodies to grow in size from normal to massive, their ice is also stronger, their physical strength 2 times stronger than a human and their ice formations as strong as titanium can be controlled in a 50 meter distance.
+- **Glacial (requires crystallization):** Glacial frost walkers can form ice around their bodies to grow in size from normal to massive, their ice is also stronger, their physical strength 2 times stronger than a human and their ice formations as strong as titanium can be controlled in a 50 meter distance.
 
 **level x:**
 
@@ -58,16 +58,13 @@ Shards of ice usually float around them with shapes and patterns changing to the
 One of the oldest races in Vielora appearing before the coming of the 7 gods when the world was still covered in ice, legends say they were created when a talented magician enchanted a frozen river so he could bring his daughter back to life. turning her into a being of ice able to survive the frozen landscape, That’s what the legends say at least, no one is sure why the bodies placed in the northern frozen water are revived, it doesn’t always work but is a miracle no one dares to question.
 
 ::: mermaid
-graph TD;
-Frost_walker --> Regeneration;
-Regeneration --> Snow_body;
-Regeneration --> Crystallization;
-Snow_body --> Snowstorm;
-Crystallization --> Glaciar;
-Snowstorm --> blizzard;
-Glaciar --> blizzard;
-Snowstorm --> aurora_prims;
-Glaciar --> aurora_prims;
+graph LR;
+BASE[Frost walker] --> REG[Regeneration];
+REG --> SB[Snow body] & CRYS[Crystallization];
+SB --> SS[Snowstorm];
+CRYS --> G[Glacial];
+SS --> BLI[blizzard] & AP[aurora prims];
+G --> BLI[blizzard] & AP;
 :::
 
 return to [Graveborns](./Overview.md)

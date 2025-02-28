@@ -14,6 +14,6 @@
 
 - The caster doesn’t become able to see through the dark.
 
-**Requirements:** 
+**Requirements:**
 
 None

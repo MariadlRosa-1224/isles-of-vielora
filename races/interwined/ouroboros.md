@@ -58,15 +58,13 @@ On its duration the ouroboros is unable to move their body and 5 charges are con
 The result after experimenting on his own body was a mutation that invade their body and changed him physically and mentally, (to be finished) 
 
 ::: mermaid
-graph TD;
+graph LR;
 
-Ouroboros --> Winged;
-Winged --> Dark_armor;
-Winged --> Nightmarish;
-Nightmarish --> mana_drakes;
-Dark_armor --> Draconic_blood;
-mana_drakes --> Darkness_spread;
-mana_drakes --> Darkness_realm;
-Draconic_blood --> Darkness_spread;
+BASE[Ouroboros] --> W[Winged];
+W --> DA[Dark armor] & Ni[Nightmarish];
+Ni --> M[Mana drakes];
+DA --> DB[Draconic blood];
+M --> DS[Darkness spread] & DR[Darkness realm];
+DB --> DS[Darkness spread];
 
 :::
