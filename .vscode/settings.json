@@ -1,10 +1,13 @@
 {
     "cSpell.words": [
         "Aereal",
+        "Akuma",
         "aromantic",
         "Chitnoids",
+        "Chronos",
         "CRYS",
         "demoman",
+        "Deyanira",
         "dragonkin",
         "dragonkins",
         "Graveborn",
@@ -17,5 +20,9 @@
         "Unlockables",
         "Vielora",
         "Wolfrayet"
-    ]
+    ],
+    "cSpell.enabledFileTypes": {
+        "markdown": true
+    },
+    "cSpell.enabled": true
 }
