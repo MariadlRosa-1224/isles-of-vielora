@@ -7,9 +7,10 @@
 **cost:** 1 charge.
 
 **limitations & side effects:**
-
 - Its range is just 5 meters away from the caster.
+  
+  **cooldown:** none
+  
+  **requirements:** n/a
 
-**cooldown:** none
-
-**requirements:** n/a
+  tags:: world_book/magic/spells/elemental/fire/D_rank

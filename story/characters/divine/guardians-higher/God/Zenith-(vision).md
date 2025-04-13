@@ -1,65 +1,62 @@
 # Zenith, The vision of God
-
-## Basic info
-
-**Nicknames:** It, Vision, Zenith
-
-**Age:** age
-
-**Birthdate:** birthdate
-
-**Gender:** gender
-
-**Race:** race
-
-**Job:** job
-
-## Physical description (humanoid form)
-
-**Height:** height
-
-**Weight:** weight
-
-**Eye color:** eye color
-
-**Hair:** hair
-
-**Skin:** skin
-
-**Markings:** markings
-
-**Typical clothing:** clothing
-
-## Personality
-
-**Description:**
-
-**Positive traits:** positive traits
-
-**Negative traits:** negative traits
-
-**Quirks:** quirks
-
-**Sexuality:** sexuality
-
-**Motivations:** motivations
-
-## Talents
-
-**Skills:** skills
-
-**Abilities:** abilities
-
-**Equipment:** equipment
-
-## Relationships
-
-**Family:** family
-
-**Friends:** friends
-
-**Enemies:** enemies
-
-## Additional information
-
-## Background
+- Characters:: Divine
+  affiliation:: God
+- ## Basic info
+  
+  **Nicknames:** It, Vision, Zenith
+  
+  **Age:** age
+  
+  **Birthdate:** birthdate
+  
+  **Gender:** gender
+  
+  **Race:** race
+  
+  **Job:** job
+- ## Physical description (humanoid form)
+  
+  **Height:** height
+  
+  **Weight:** weight
+  
+  **Eye color:** eye color
+  
+  **Hair:** hair
+  
+  **Skin:** skin
+  
+  **Markings:** markings
+  
+  **Typical clothing:** clothing
+- ## Personality
+  
+  **Description:**
+  
+  **Positive traits:** positive traits
+  
+  **Negative traits:** negative traits
+  
+  **Quirks:** quirks
+  
+  **Sexuality:** sexuality
+  
+  **Motivations:** motivations
+- ## Talents
+  
+  **Skills:** skills
+  
+  **Abilities:** abilities
+  
+  **Equipment:** equipment
+- ## Relationships
+  
+  **Family:** family
+  
+  **Friends:** friends
+  
+  **Enemies:** enemies
+- ## Additional information
+- ## Background
+  
+  #Story/Characters/divine/guardians/God

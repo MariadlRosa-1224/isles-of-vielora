@@ -1,5 +1,7 @@
 ## Telepathy 
 
+tags:: world_book/magic/runes/A-rank
+
 **Rune rank:** A
 
 **Type of Rune:** body -> heads of multiple people
@@ -14,3 +16,4 @@
 **Requirements:**
 
 Requires all parties involved to agree.
+

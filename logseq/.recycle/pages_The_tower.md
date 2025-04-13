@@ -1,0 +1,17 @@
+# The Tower
+-
+- Story:: Brainstorm
+-
+- ## Brainstorm
+-
+- The Tower is an event that may be unlocked way after or may be unlocked earlier. It's an event that introduces [Zenith]([[Zenith-(vision)]]). And it's the other half of Alex and the character I call **it** when I'm talking to others without spoiling.
+-
+- Zenith shows herself as a mirror, hidden within the tower. The tower is on a small island on top of one of the highest lands right before space.
+-
+- Before [core island]([[Core island]]), trying to get near there will trigger the barrier so it's impossible to get there before thay event. The mirror is intricate and beautiful but broken. Broken glass, missing parts. But even without the missing parts, Zenith can talk to the person that finds the mirror. She will ask for them to get the missing pieces so she can be complete. And in getting the pieces, we'll try to manipulate the character into doing her objetive.
+-
+- This will try to not be obvious. It will be more like suggestions for them. Ideas to get something they want. She has nearly all the answers. She just needs you to help her, and in helping her tying you to her, eventually, she tells you to bring Alex to her. Is her missing piece, the one she truly wants.
+-
+- Zenith is the mind behind the cult of the eye of wisdom, the one that gave The leader the void necklace
+-
+- #Story/BrainStorm

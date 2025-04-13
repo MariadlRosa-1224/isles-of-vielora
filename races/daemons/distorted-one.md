@@ -1,17 +1,49 @@
 ## Distorted one
 
-**Origin** 
+race:: [[Race/Daemons]] 
+
+**Origin** Daemon
 
 **Base abilities:** 
+
+Shapeshift - Distorted ones are adept at shapeshift their appearance into something they had eaten that last for weeks if they want to keep the appearance in order to trick their preys
+
+Unhinged Devourer - They can open their mouth wide large enough to fit an average fully grown pig inside (add)
+
+Adept Hunter - Distorted ones are 5x faster and stronger than a human and have 5x of their stamina with sharp claws capable of cutting through 2 inch thick stone slab cleanly
 
 **Unlockables:**
 
 **level x:** 
 
+Gluttony  - Some distorted ones can project the madness and hunger they constantly feel into an aura that causes those within the range of 10 meter radius around them to see hallucinations and be in constant hunger, this last for 5 turns and have cooldown of 10 turns after it ended.
+
+Absolute Predator - Other distorted once developed the capability to put a mark on their prey and able locate them wherever their prey is, along with the physical capabilities that is 2x of a normal distorted ones
+
 **level x:** 
 
-**Description:** 
+**level x:**
 
-**weaknesses:** 
+never ending
+
+**level x:**
+
+Pseudo Immortality - As a distorted grows stronger their body accumulate higher amounts of dark mana, and it turns them nigh immortal with the only known way to truly kill them is by completely destroying their heart and unlike others they do not a lifespan limit nor die as long their heart aren't destroyed.
+
+**Description:**
+
+Distorted ones are often described as grotesque beings. They somewhat resemble a humanoid. But all the traits are wrong. Distorted in impossible ways for a race with apparent normal biology. A variant amount of arms, legs and other limbs of different size and shapes, all with long and elongated claws, A never fading smile plastered on their faces reaching from ear to ear. Glowing cracks run all around their bodies and their eyes are glowing pure white.
+
+**weaknesses:**
+
+Constant Hunger - they constantly feel hungry that if they hadn't eaten for a week they die
+
+Damnation - silver and blue hydrangea burns their flesh
+
 
 **History:**
+
+As it is with daemos, no one is really sure of the origin of this race, as it wasn't one the seven gods created, but there seems to be a relation between them and the dark mana of the ruins. Daemons appeared suddenly thousands of years ago. Many then, and even to this day, confuse them with monsters for the appearance and overall attitude and instincts. But it's been long since known that they are able of conscious thoughts and feelings
+-
+- #Race/Daemons
+-

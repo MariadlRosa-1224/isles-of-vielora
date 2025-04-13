@@ -12,11 +12,16 @@
         "dragonkins",
         "Graveborn",
         "Graveborns",
+        "mdef",
+        "mout",
+        "mren",
         "Neutronium",
         "Nyphen",
         "Nyxkins",
         "racials",
+        "rspd",
         "taned",
+        "truesight",
         "Unlockables",
         "Vielora",
         "Wolfrayet"
@@ -24,5 +29,8 @@
     "cSpell.enabledFileTypes": {
         "markdown": true
     },
-    "cSpell.enabled": true
+    "cSpell.enabled": true,
+    "files.exclude": {
+        "logseq/*": true
+    }
 }

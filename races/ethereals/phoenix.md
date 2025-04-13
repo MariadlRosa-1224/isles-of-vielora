@@ -1,17 +1,20 @@
-# Phoenix
+Race:: Ethereals
 
-**Origin** Ethereal
-
-**Base abilities:**
-
-**Unlockables:**
-
-**level x:**
-
-**level x:**
-
-**Description:**
-
-**weaknesses:**
-
-**History:**
+- # Phoenix
+- **Origin** Ethereal
+  
+  **Base abilities:**
+  
+  **Unlockables:**
+  
+  **level x:**
+  
+  **level x:**
+  
+  **Description:**
+  
+  **weaknesses:**
+  
+  **History:**
+  
+  #Race/Ethereals

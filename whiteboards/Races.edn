@@ -1,0 +1,185 @@
+{:blocks (
+{:block/created-at 1744408605740
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "race"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [744 265.00006583763394]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "68677b60-16fb-11f0-99ba-19d7b2819df0"
+:noFill false
+:point [624 424]
+:parentId "67f952e8-250c-450b-827e-e637fc433244"
+:collapsedHeight 0
+:nonce 1744392949373}}
+:block/updated-at 1744408605740} 
+{:block/created-at 1744393155952
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Race/Remnants"
+:scaleLevel "lg"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [248 60]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b63f00b0-16fb-11f0-99ba-19d7b2819df0"
+:noFill false
+:point [1880 -256]
+:parentId "67f952e8-250c-450b-827e-e637fc433244"
+:collapsedHeight 7761.000317525709
+:nonce 1744393080158}}
+:block/updated-at 1744393155952} 
+{:block/created-at 1744393229835
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "masked"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 625.984408148968]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e7056c20-16fb-11f0-99ba-19d7b2819df0"
+:noFill false
+:point [2936 -584]
+:parentId "67f952e8-250c-450b-827e-e637fc433244"
+:collapsedHeight 0
+:nonce 1744393162083}}
+:block/updated-at 1744393229835} 
+{:block/created-at 1744393207774
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:id "009f1280-16fc-11f0-99ba-19d7b2819df0"
+:noFill true
+:point [4046.5482443358133 -773.8423364149608]
+:parentId "67f952e8-250c-450b-827e-e637fc433244"
+:nonce 1744393204651
+:isComplete true}}
+:block/updated-at 1744393207774} 
+{:block/created-at 1744393211356
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "02ce75a0-16fc-11f0-99ba-19d7b2819df0"
+:noFill true
+:point [4705.686040725101 277.39651652821067]
+:parentId "67f952e8-250c-450b-827e-e637fc433244"
+:nonce 1744393208317
+:isComplete true}}
+:block/updated-at 1744393211356} 
+{:block/created-at 1744393212121
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [0 0.36949533213396535 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "046fa280-16fc-11f0-99ba-19d7b2819df0"
+:noFill true
+:point [4971.143803841187 -18.667776599636]
+:parentId "67f952e8-250c-450b-827e-e637fc433244"
+:nonce 1744393211051
+:isComplete true}}
+:block/updated-at 1744393212121} 
+{:block/created-at 1744398841904
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "xxl"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 6
+:opacity 1
+:id "0d1699c0-16fc-11f0-99ba-19d7b2819df0"
+:noFill true
+:point [5298.898479955053 625.4980689315853]
+:parentId "67f952e8-250c-450b-827e-e637fc433244"
+:nonce 1744393225567
+:isComplete true}}
+:block/updated-at 1744398841904})
+:pages (
+{:block/uuid #uuid "67f952e8-250c-450b-827e-e637fc433244"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "67f952e8-250c-450b-827e-e637fc433244"
+:name "races"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("68677b60-16fb-11f0-99ba-19d7b2819df0" "b63f00b0-16fb-11f0-99ba-19d7b2819df0" "e7056c20-16fb-11f0-99ba-19d7b2819df0" "009f1280-16fc-11f0-99ba-19d7b2819df0" "02ce75a0-16fc-11f0-99ba-19d7b2819df0" "046fa280-16fc-11f0-99ba-19d7b2819df0" "0d1699c0-16fc-11f0-99ba-19d7b2819df0")}}
+:block/updated-at 1744411476644
+:block/created-at 1744392936003
+:block/type "whiteboard"
+:block/name "races"
+:block/original-name "Races"})}
