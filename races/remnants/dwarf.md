@@ -23,7 +23,7 @@
 - **weapon invocation:** Some dwarves are capable of summoning equipment of their own creation regardless of distance and even interchange the weapon they currently have for another. This action cannot increase the max number of equipment and will consume 5 charges per use. and has a cooldown of 7 turns.
   
   **level 18:**
-- **Great artisan:** As a dwarf become more experimented the quality of their technique increases to 4, they can add up to 3 abilities to a weapon, they can now merge any rune into their creation, 
+- **Great artisan:** As a dwarf become more experimented the quality of their technique increases to 4, they can add up to 3 abilities to a weapon, 
   
   **level 25:**
 - **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns.
