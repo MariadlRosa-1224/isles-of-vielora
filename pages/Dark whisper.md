@@ -40,7 +40,7 @@ Race:: Daemons
 	-
 	- **The deceiver** They are convincing, whispering into the minds of others ideas that sound as if they were theirs, making suggestion people just feel inclined to accept.
 	-
-	- (level 30:)
+	- **(level 30:)**
 	-
 	- **The wither** Everything around them in a 10-meter radius starts to wither and decompose. This ability can be activated at any time, but will consume five mana charges per turn it is active. Any non-magical material will start to decompose, disappearing into ash. People and fauna around them get damaged over the course of turns, and during its duration and 5 turns after, regeneration becomes useless. If they physically touch something or someone while this is active, they will burn them, and the wound cannot be healed until the end of the RP.
 	  id:: 683f8b23-ad20-40fa-94d7-fe2eeaaceb5d
