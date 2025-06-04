@@ -41,7 +41,7 @@ Race:: Daemons
 	-
 	- (level x:)
 	-
-	- **The wither**
+	- **The wither** Everything around them in a 10 meter radius starts to wither and discompose. this  ability can be activated at any time, but will consume five mana charges per turn active. Any non-magical material will start to discompose, dissapearing into ash, people and fauna around them get damaged over the course of turns And during its duration and 5 turns after, regeneration becomes useless. If they physically touch someone while this is active they will burn them, and the wound cannot be healed till the end of the rp.
 	  id:: 683f8b23-ad20-40fa-94d7-fe2eeaaceb5d
 	-
 	- **(Level x)**
