@@ -6,8 +6,9 @@
 - **Astute:** Dwarves are quite astute when it comes to the vibe of others. Easily being able to tell things as they are. This racial usually manifests as a gut feeling or hunch about something whether it be a person's nature or if something is wrong, a sense which many dwarfs follow.
 - **tough body:** Dwarves body despite being small has a strength, physical resistance and stamina 3 times higher compared to a human, they are capable of working for many hours without needing to rest.
 - **Artisan:** Dwarves have a natural ability to create all kinds of craft, from art to weapons and intricate magic artifacts with up to 2 abilities, this is an action that will consume half their mana and cannot be done in the middle of a battle. A weapon made by a dwarf will have (increase in knowledge).
-  
-  **Unlockables:**
+- **Mana attune** Dwarves get a x2
+-
+- **Unlockables:**
   
   **level 5:**
 - **Mana infusion:** the marks on their body absorb and infuse mana into their form, allowing them to blast mana into something they strike both offensively and for crafting purposes. This strike has a power equivalent to a c rank spell when used offensively and can be infused into crafts to improve their capabilities granting (increase in material) but only the first time used on a weapon . Regardless of use 2 mana charges will always be consumed.
