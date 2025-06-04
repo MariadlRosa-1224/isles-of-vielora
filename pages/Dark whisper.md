@@ -25,7 +25,7 @@ Race:: Daemons
 	-
 	- **darkness manipulation**
 	-
-	- **(level x:)**
+	- **(level 15:)**
 	-
 	- **abi**
 	-
@@ -33,18 +33,18 @@ Race:: Daemons
 	-
 	- **Dark sense** Some dark whispers  perceive beyond themselves, as long as they are in the dark they don't need to perceive with sense to know what's happening around them, and they will know what hides behind walls and under b rank magic, but any sort of light source will mess with this ability,  Blinding the area around the light.
 	-
-	- **(level x:)**
+	- **(level 25:)**
 	-
 	- **Shadow puppets**
 	-
 	- **The deveiver**
 	-
-	- (level x:)
+	- (level 30:)
 	-
 	- **The wither** Everything around them in a 10-meter radius starts to wither and decompose. This ability can be activated at any time, but will consume five mana charges per turn it is active. Any non-magical material will start to decompose, disappearing into ash. People and fauna around them get damaged over the course of turns, and during its duration and 5 turns after, regeneration becomes useless. If they physically touch something or someone while this is active, they will burn them, and the wound cannot be healed until the end of the RP.
 	  id:: 683f8b23-ad20-40fa-94d7-fe2eeaaceb5d
 	-
-	- **(Level x)**
+	- **(Level 45)**
 	  
 	  **Call to the darkness** A strong enough whisper is a scream, a scream so loud that stuns anyone in a kilometer and steals everything from its light, as they invoke the power of purest of darknesses for a deal to aid them in an objective, the darkness takes over their bodies and grants them power, it damages a small part of their souls each time and each time they get more interwoven with them.
 	-
