@@ -27,13 +27,15 @@ Race:: Daemons
 	-
 	- **(level 15:)**
 	-
-	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can
+	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be dama
 	-
 	- **The mischief** abc
 	-
 	- **Dark sense** Some dark whispers  perceive beyond themselves, as long as they are in the dark they don't need to perceive with sense to know what's happening around them, and they will know what hides behind walls and under b rank magic, but any sort of light source will mess with this ability,  Blinding the area around the light.
 	-
 	- **(level 25:)**
+	-
+	- **The **
 	-
 	- **Shadow puppets** They can created shadow puppets that move and acts on their order
 	-
