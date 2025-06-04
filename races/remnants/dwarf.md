@@ -27,10 +27,10 @@
   **level 25:**
 - **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns.
 -
-- **level 35:**
+- **level 30:**
 - **Master artizan:**
 -
-- **level 40:**
+- **level 35:**
 - **One with the weapon:** Once unlocked a dwarf must choose or make a weapon, armor or artifact that will be tied to their very soul, the chosen artifact have its abilities with a permanent x4 boost and won't take equipment slots. This artifact acts as an extension of the dwarf, they can sense through it and control it no matter the distance, able to execute one of the dwarf abilities.
 -
 - **Description:**
