@@ -54,7 +54,10 @@
 		  CLOCK: [2025-04-11 Fri 13:43:05]--[2025-04-11 Fri 13:43:44] =>  00:00:39
 		  :END:
 		- TODO [[distorted-one]]
-		- TODO [[Dark whisper]]
+		- DOING [[Dark whisper]]
+		  :LOGBOOK:
+		  CLOCK: [2025-06-04 Wed 01:13:52]
+		  :END:
 		- DOING [[ghost]]
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 14:18:43]
