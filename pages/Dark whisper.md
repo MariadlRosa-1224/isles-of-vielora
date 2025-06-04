@@ -34,7 +34,7 @@ Race:: Daemons
 	-
 	- **(level 25:)**
 	-
-	- **The mischief** Some dark whisper can manipulate how others perceive reality, making it seem like the laws of reality were twisted,  disguise like someone else, making feel like the other moved when they did not,
+	- **The mischief** Some dark whisper can manipulate how others perceive reality, making it seem like the laws of reality were twisted,  disguise like someone else, making feel like the other moved when they did not, causing phantom pains, etc. But all is just an illussion
 	-
 	- **Shadow puppets** They can created shadow puppets that move and acts on their order, unable to talk but able to interact with the world and execute most task. They can float, move and hide in shadows and use spells up to c rank the dark whisper knows.
 	-
