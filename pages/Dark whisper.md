@@ -27,7 +27,7 @@ Race:: Daemons
 	-
 	- **(level 15:)**
 	-
-	- **dark magician**
+	- **They can teleport to the nearest shadow **
 	-
 	- **The mischief** abc
 	-
@@ -35,7 +35,7 @@ Race:: Daemons
 	-
 	- **(level 25:)**
 	-
-	- **Shadow puppets** They
+	- **Shadow puppets** They can created shadow puppets that move and acts on their order
 	-
 	- **The deveiver**
 	-
