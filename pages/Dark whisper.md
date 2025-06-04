@@ -21,7 +21,7 @@ Race:: Daemons
 	-
 	- **Broken telepathy** They can display images into the minds of other people, hyperrealistic scenes filled with sounds and sensations but that cannot include words nor spoken nor written.
 	-
-	- **The Empath** Dark whispers just know what those in front of them are truly feeling, no matter how if they try to hide it.
+	- **The Empath** Dark whispers just know what those in front of them are truly feeling, no matter how if they try to hide it. understands people’s habits, likes, dislikes, and motives to gauge their thoughts and feelings.
 	-
 	- **darkness manipulation**
 	-
