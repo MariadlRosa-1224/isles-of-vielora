@@ -23,13 +23,13 @@ Race:: Daemons
 	-
 	- **The Empath** Dark whispers just know what those in front of them are truly feeling, no matter how if they try to hide it. They are incredibly good interpreting people’s habits, likes, dislikes, and motives to gauge their thoughts.
 	-
-	- **darkness manipulation**
+	-
 	-
 	- **(level 15:)**
 	-
-	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be damaged with
+	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be damaged with magic and they will be inmediately be forced out with magic
 	-
-	-
+	- **darkness manipulation**
 	-
 	- **Dark sense** Some dark whispers  perceive beyond themselves, as long as they are in the dark they don't need to perceive with sense to know what's happening around them, and they will know what hides behind walls and under b rank magic, but any sort of light source will mess with this ability,  Blinding the area around the light.
 	-
