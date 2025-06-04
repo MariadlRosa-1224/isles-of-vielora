@@ -27,7 +27,7 @@ Race:: Daemons
 	-
 	- **(level 15:)**
 	-
-	- **abi**
+	- **dark magician**
 	-
 	- **The mischief** abc
 	-
