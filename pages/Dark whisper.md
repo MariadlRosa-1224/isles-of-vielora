@@ -35,7 +35,7 @@ Race:: Daemons
 	-
 	- **(level 25:)**
 	-
-	- **Shadow puppets**
+	- **Shadow puppets** They
 	-
 	- **The deveiver**
 	-
@@ -62,6 +62,6 @@ Race:: Daemons
 	- There are many reasons why people fear the ruins. They are dangerous per se, with monsters and collapsing structures and the dark mana that alone can kill someone. But maybe the biggest reason why people avoid this place is the possibility of becoming a dark whisperer. No one is sure how it happens. But sometimes when someone is infected with enough dark mana, it doesn't kill them, it destroys their bodies and traps their souls into a new figure that barely resembles a silhouette of their old self a Dark Whisper of themselves. They do not remember the person who they were before. Wandering the world in search for answers. They are mischievous at best, evil at worst, in in their nature, you should no trust them, even when behind their silence there seems to be great knowledge.
 	-
 	-
-	- **Lifespan:**
+	- **Lifespan:** undefined
 -
 - tags:: Race/Daemons
