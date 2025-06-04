@@ -24,14 +24,11 @@
   
   **level 25:**
 - **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns.
-  
-  **level 30:**
-- **One with the weapon:** Once unlocked a dwarf must choose or make a weapon, armor or artifact that will be tied to their very soul, the chosen artifact have its abilities with a permanent x4 boost and won't take equipment slots. This 
-  
-  **level 35:**
-- **Master artizan:** 
-  
-  **Description:**
+-
+- **level 35:**
+- **Master artizan:**
+- **
+- Description:**
   
   Short and dense dwarves are one of the races that are highly similar to remains. Resembling a humanoid with the tallest dwarves being 4,10 feet tall to 4 feet tall. They have markings on their body around the arms and hands which channel mana into their physical form. They are usually also rather gruff and tough looking, making them look grown even for their size, but also a little messy. Their bodies are usually being wider and well built with plenty of strength.
   
