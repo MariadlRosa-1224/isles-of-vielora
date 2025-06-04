@@ -1,4 +1,4 @@
-# Dwarf
+- # Dwarf
 - race:: Remnants
 - **Origin:** Remnant
   
@@ -25,7 +25,7 @@
 - **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns.
   
   **level 30:**
-- **One with the weapon:** Once unlocked a dwarf must choose or make a weapon to call their vessel (increase in stats and weapon abilities temporarily while expending mana per level)
+- **One with the weapon:** Once unlocked a dwarf must choose or make a weapon that will
   
   **level 35:**
 - **Master artizan:** 
