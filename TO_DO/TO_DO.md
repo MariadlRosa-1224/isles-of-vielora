@@ -84,17 +84,17 @@
 		  CLOCK: [2025-06-04 Wed 01:16:32]--[2025-06-04 Wed 01:16:34] =>  00:00:02
 		  CLOCK: [2025-06-04 Wed 01:16:34]--[2025-06-04 Wed 01:16:35] =>  00:00:01
 		  :END:
-		- DOING [[ghost]]
-		  :LOGBOOK:
-		  CLOCK: [2025-04-11 Fri 14:18:43]
-		  :END:
-	- DONE [Graveborns]([[Race/Graveborns]])
+	- LATER [Graveborns]([[Race/Graveborns]])
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:55]--[2025-06-04 Wed 11:18:39] =>  671:42:44
 	  :END:
 		- DONE [[frost-walker]]
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:43:48]--[2025-06-04 Wed 11:18:36] =>  1293:34:48
+		  :END:
+		- DOING [[ghost]]
+		  :LOGBOOK:
+		  CLOCK: [2025-06-04 Wed 15:40:33]
 		  :END:
 	- LATER [Nyxkins]([[Race/Nyxkins]])
 	  :LOGBOOK:
