@@ -34,9 +34,11 @@ Race:: Daemons
 	-
 	- **(level 25:)**
 	-
-	- **The mischief** They can
+	- **The mischief** abc
 	-
 	- **Shadow puppets** They can created shadow puppets that move and acts on their order, unable to talk but able to interact with the world and execute most task. They can float, move and hide in shadows and use spells up to c rank the dark whisper knows.
+	-
+	- **The deveiver** They are convincing, whispering into the minds of others ideas that sound as if w
 	-
 	- (level 30:)
 	-
