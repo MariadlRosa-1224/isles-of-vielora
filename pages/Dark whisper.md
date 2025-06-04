@@ -10,7 +10,7 @@ Race:: Daemons
 	  
 	  **Light devour** Dark Whispers only feed on two things. Dark Mana and Light. they can turn off any sort of artificial light source, light bulbs, fire, etc, as long as there is no magic property preventing it. When consuming light they recover 8% of their mana charges, .
 	-
-	- **Dark entity** Dark whispers are beings of darkness moving and perceiving  through it like no other, they can perfectly in the dark, their overall senses are x4 times better compare to a human. And darkness related magic used by them is x2 times more powerful
+	- **Dark entity** Dark whispers are beings of darkness moving and perceiving  through it like no other, they can perfectly in the dark, their overall senses are x4 times better compare to a human. And darkness related magic used by them is x3 times more powerful
 	-
 	- **The dread** Their sole presence is enough to mess with people's minds. Anxiety and fear, the dread of something coming. People find it harder to make rational decisions around them, and they can focus this aura into being stronger for a specific target. It can be overcome if you have a strong enough will and know what's trying to mess with your mind. But it is known that the stronger the dark whisper, the harder it is to overcome this trick.
 	  id:: 683e59a4-60ff-4868-8bfa-69ca577c08ad
@@ -27,9 +27,9 @@ Race:: Daemons
 	-
 	- **(level 15:)**
 	-
-	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be dama
+	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be damaged with
 	-
-	- **The mischief** abc
+	-
 	-
 	- **Dark sense** Some dark whispers  perceive beyond themselves, as long as they are in the dark they don't need to perceive with sense to know what's happening around them, and they will know what hides behind walls and under b rank magic, but any sort of light source will mess with this ability,  Blinding the area around the light.
 	-
