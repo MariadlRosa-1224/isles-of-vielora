@@ -34,14 +34,14 @@ Race:: Daemons
 	-
 	- **(level 25:)**
 	-
-	- **The mischief** Some dark whisper can manipulate how others perceive reality, making it seem like the laws of reality were twisted,  disguise like someone else, making feel like the other moved when they did not, causing phantom pains, etc. But all is just an illussion
+	- **The mischief** Some dark whisper can manipulate how others perceive reality, making it seem like the laws of reality were twisted,  disguise like someone else, making feel like the other moved when they did not, causing phantom pains, making the landscape around them change, etc. But all is just an illusion a good one, compare to b rank magic
 	-
 	- **darkness magician** They can create and manipulate darkness, stripping light from an area and shaping dark mana into formations of darkness that exist for as long as they are supply with mana, these can take the shape of projectiles or small weapons and tools than when hitting a target weakens in 20% their physical attacks and speed.
 	-
 	- **The deceiver**
 	-
 	- In their silence a dark whisper is constantly absorbing and processing information from their surroundings – conversations, written words, observed interactions, even the unspoken anxieties and desires of those nearby. They understand
-	- They are convincing, whispering into the minds of others ideas that sound as if they were theirs, making suggestion people just feel inclined to accept.When the user wishes to influence someone, the aura subtly projects carefully crafted ideas directly into the target's subconscious. These aren't forceful commands, but rather gentle nudges, presenting the user's suggestions as if they were epiphanies originating within the target's own mind. The suggestions resonate so perfectly with the target's existing mental framework that they feel intrinsically logical and desirable, leading to a strong inclination to accept. The more the user understands the target, the more potent and irresistible these "self-generated" ideas become. It's not mind control, but a masterful art of suggestion, leveraging the target's own mental landscape.
+	- They are convincing, whispering into the minds of others ideas that sound as if they were theirs, making suggestion people just feel inclined to accept.When the user wishes to influence someone, the aura subtly projects carefully crafted ideas directly into the target's subconscious. These aren't forceful commands, but rather gentle nudges, presenting the user's suggestions as if they were epiphanies originating within the target's own mind.
 	-
 	- **(level 30:)**
 	-
