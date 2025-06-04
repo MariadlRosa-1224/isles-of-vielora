@@ -65,13 +65,13 @@
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 14:18:43]
 		  :END:
-	- DOING [Graveborns]([[Race/Graveborns]])
+	- DONE [Graveborns]([[Race/Graveborns]])
 	  :LOGBOOK:
-	  CLOCK: [2025-05-07 Wed 11:35:55]
+	  CLOCK: [2025-05-07 Wed 11:35:55]--[2025-06-04 Wed 11:18:39] =>  671:42:44
 	  :END:
-		- DOING [[frost-walker]]
+		- DONE [[frost-walker]]
 		  :LOGBOOK:
-		  CLOCK: [2025-04-11 Fri 13:43:48]
+		  CLOCK: [2025-04-11 Fri 13:43:48]--[2025-06-04 Wed 11:18:36] =>  1293:34:48
 		  :END:
 	- TODO [Nyxkins]([[Race/Nyxkins]])
 		- TODO [[shadowed]]
