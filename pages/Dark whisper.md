@@ -27,7 +27,7 @@ Race:: Daemons
 	-
 	- **(level 15:)**
 	-
-	- **Shadow sneaker** They can teleport to the nearest shadow and hide wi
+	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can
 	-
 	- **The mischief** abc
 	-
