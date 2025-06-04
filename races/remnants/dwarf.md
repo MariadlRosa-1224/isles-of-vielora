@@ -17,13 +17,13 @@
 - **Mana infusion:** the marks on their body absorb and infuse mana into their form, allowing them to blast mana into something they strike both offensively and for crafting purposes. This strike has a power equivalent to a c rank spell when used offensively and can be infused into crafts to improve their capabilities being the equivalent to a mana crystal. Even when no other valable material was used, but only when used the first time. Regardless of use 2 mana charges will always be consumed.
   
   **level 8:**
-- **Mineral sense:** Talented dwarves have the ability to sense minerals in the vicinity making it easier for them to find what they are looking for, being in the wild in a market, if the mineral is one they have worked on they can pinpoint their location within 100 meters. Otherwise they can just feel it in a general direction.
+- **Mineral sense:** Talented dwarves have the ability to sense minerals in the vicinity making it easier for them to find what they are looking for, being in the wild in a market, if the mineral is one they have worked on they can pinpoint their location within 300 meters. Otherwise they can just feel it in a general direction.
   
   **level 12:**
 - **weapon invocation:** Some dwarves are capable of summoning equipment of their own creation regardless of distance and even interchange the weapon they currently have for another. This action cannot increase the max number of equipment and will consume 5 charges per use. and has a cooldown of 7 turns.
   
   **level 18:**
-- **Great artisan:** As a dwarf become more experimented the quality of their creation increase, (increase in knowledge), they can add up to 3 abilities to a weapon and their mana infusion increase the quality of their material of the weapon by (add)
+- **Great artisan:** As a dwarf become more experimented the quality of their technique increases to 4, they can add up to 3 abilities to a weapon and their mana infusion increase the quality of their material of the weapon by (add)
   
   **level 25:**
 - **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns.
