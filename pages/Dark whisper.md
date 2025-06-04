@@ -36,7 +36,7 @@ Race:: Daemons
 	-
 	- **The mischief** abc
 	-
-	- **Shadow puppets** They can created shadow puppets that move and acts on their order, unable to talk but able to interact with the world and execute most task. They can float, move and hide in shadows
+	- **Shadow puppets** They can created shadow puppets that move and acts on their order, unable to talk but able to interact with the world and execute most task. They can float, move and hide in shadows and use spells up to c rank the dark whisper knows.
 	-
 	- **The deveiver**
 	-
