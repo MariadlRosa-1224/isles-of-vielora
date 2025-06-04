@@ -28,7 +28,7 @@
 - **Blizzard:** an area 100 meters around them is filled with a storm of ice and snow, in this area temperatures are reduced to -20 degrees Celsius, vision becomes very limited and the enemies are blasted each turn with the equivalent of a c rank spell of ice and wind damage.
   The user’s speed and ice magic is doubled while the blizzard is active.
   Last 5 turns and can once used cannot be activated in the next 2 rps.
-- **Aurora prims:** An area 100 meters around the user gains beautiful colors similar to an Aurora on Earth. The highlights inside this area will receive a buff in the resistance. (Mini area)
+- **Aurora prims:** An area 100 meters around the user gains beautiful colors similar to an Aurora those inside
   
   **Description:**
   
