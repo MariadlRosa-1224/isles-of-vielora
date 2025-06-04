@@ -29,7 +29,7 @@
 - **Master artizan:**
 -
 - **level 40:**
-- **One with the weapon:** Once unlocked a dwarf must choose or make a weapon, armor or artifact that will be tied to their very soul, the chosen artifact have its abilities with a permanent x4 boost and won't take equipment slots. This artifact acts as an extention to the dwarf
+- **One with the weapon:** Once unlocked a dwarf must choose or make a weapon, armor or artifact that will be tied to their very soul, the chosen artifact have its abilities with a permanent x4 boost and won't take equipment slots. This artifact acts as an extension of the dwarf, they can sense through it and control it no matter the distance,
 -
 - **Description:**
   
