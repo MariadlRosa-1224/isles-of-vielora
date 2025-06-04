@@ -1,11 +1,11 @@
-# Alex, The power of God
+- # Alex, The power of God
 - Characters:: Divine
   affiliation:: God
 - ## Basic info
   
-  **Nicknames:** nicknames
+  **Nicknames:** Alex, God, that strange child
   
-  **Age:** age
+  **Age:** As old as the universe
   
   **Birthdate:** birthdate
   
@@ -58,5 +58,7 @@
   **Enemies:** enemies
 - ## Additional information
 - ## Background
-  
-  tags:: Story/Characters/divine/guardians/God
+-
+- ![Ilustración_sin_título.png](../../../../../assets/Ilustración_sin_título_1745380833949_0.png)
+-
+- #Story/Characters/divine/guardians/God

@@ -1,21 +1,21 @@
-# Frost walker
-
-Race:: Graveborns
-
-**Origin:**  Graveborn
-
-**Base abilities:**
-**ice body:** Frost walkers bodies are made out of a magical type of ice that won’t start melting on temperatures below 1800 degrees celsius and can be manipulated by the frost walker on it’s entirety, even while parts are  broken and separated from the rest of the body, as long as this pieces remain on a 50 meter distance from the user and aren’t smaller than 3 inches.
-**Agility:** despite being made out of ice frost walkers, known for something is their speed and quickness in reacting to changes, having a speed and stamina 3 times better than a human and a reaction speed 5 times better.
-**Ice affinity:** Frost walkers are one of the best races when it comes to ice magic getting a x4 boost of any ice related magic. As well they are able to create and control the natural elements around them at a 15 meter distance.
-**Painless:** They won’t feel physical pain when hit, not even after losing whole limbs.
-
-**Unlockables:**
-
-**level 5:**
-**regeneration:**  Ice walkers can regenerate their bodies fully as long as the temperature around them is cold enough, starting at 0 degrees. They can regenerate a whole limb in 5 turns and at -15 degrees they regenerate in 2 turns. Cold water also activates the regeneration 
-
-**level x:**
+- # Frost walker
+  
+  Race:: Graveborns
+  
+  **Origin:**  [Graveborn]([[Race/Graveborns]])
+  
+  **Base abilities:**
+  **ice body:** Frost walkers bodies are made out of a magical type of ice that won’t start melting on temperatures below 1800 degrees celsius and can be manipulated by the frost walker on it’s entirety, even while parts are  broken and separated from the rest of the body, as long as this pieces remain on a 50 meter distance from the user and aren’t smaller than 3 inches.
+  **Agility:** despite being made out of ice frost walkers, known for something is their speed and quickness in reacting to changes, having a speed and stamina 3 times better than a human and a reaction speed 5 times better.
+  **Ice affinity:** Frost walkers are one of the best races when it comes to ice magic getting a x4 boost of any ice related magic. As well they are able to create and control the natural elements around them at a 15 meter distance.
+  **Painless:** They won’t feel physical pain when hit, not even after losing whole limbs.
+  
+  **Unlockables:**
+  
+  **level 5:**
+  **regeneration:**  Ice walkers can regenerate their bodies fully as long as the temperature around them is cold enough, starting at 0 degrees. They can regenerate a whole limb in 5 turns and at -15 degrees they regenerate in 2 turns. Cold water also activates the regeneration 
+  
+  **level x:**
 - **Snow body:** frost walkers with a snow body become light and faster, enough to fly on their own and gain a speed and reaction speed 8 times better than a human. These come with the cost of durability. Their bodies break as easily as snow breaks and they start to melt at 1200 degrees.
 - **Crystallization:** Crystallized frost walkers are heavier and slower only as fast as a human, in compensation to this their bodies become a lot more resistant, durability and magic defense 6 times better than a human and they won’t start melting till the temperatures around them are 2500 degrees.
   

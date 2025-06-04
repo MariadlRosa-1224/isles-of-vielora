@@ -1,9 +1,6 @@
 index:: [[Race]]
 
 - # Remnants
-- {{query (property :race "Remnants")}}
-  query-table:: true
-  query-properties:: [:page :race]
 - The universe was used to beings without a soul, golems, dolls and artifacts that with magic alone were given the ability to feel and have a will, but not a soul.
   
   A [soul]([[Souls]]) is a thing that only gods can grant and a soul created by a god is eternally bound to its creator.

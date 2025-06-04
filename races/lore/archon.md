@@ -1,4 +1,4 @@
-Race:: [[Lore Race]], [[Ethereals]]
+Race:: [[Lore]], [[Ethereals]]
 
 -
 - # Name

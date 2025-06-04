@@ -1,1 +1,0 @@
-tags:: Story/Setting/Locations/Ruins

@@ -1,4 +1,4 @@
-# Andrew, Guardian of Time
+- # Andrew, Guardian of Time
 - Characters:: Divine
   affiliation:: Guardian
 - ## Basic info
@@ -65,4 +65,4 @@
   
   if you know the character his personality can be described as 
   
-  tags:: Story/Characters/divine/guardians
+  #Story/Characters/divine/guardians

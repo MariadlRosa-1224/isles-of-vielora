@@ -1,5 +1,5 @@
-# stats
-title:: Mechanics/stats
+- # stats
+  title:: Mechanics/stats
 - index:: [[Mechanics]]
 - Stats dictates how can an oc perform in certain aspects.
 - ## Types of stats
@@ -18,7 +18,7 @@ title:: Mechanics/stats
   Stats are divided in three categories physical, mental and magic
 - ### physical stats
 - (str) strength (multiplier): Physical strength
-- (spd) speed (multiplier): speed and agility
+- (spd) [[Speed]] (multiplier): speed and agility
 - (dur) Durability(multiplier): How much physical damage can someone handle.
 - ### mental stats *More info in: [mental_stats](./mental-stats.md)*
 - (sens) senses (multiplier): Can either cover only one or all five senses
@@ -83,6 +83,8 @@ title:: Mechanics/stats
   At the end we have this.
   
   (1)x(2x2+3+0) = 15 Ghost have x15 speed compared to a human.
+-
+-
 -
 - #Mechanics/stats
 -

@@ -1,7 +1,7 @@
-# Ghost
-- Race:: [[Race/Graveborns]]
+- # Ghost
+- Race:: Graveborns
 -
-- **Origin:** Graveborn
+- **Origin:**  [Graveborn]([[Race/Graveborns]])
   
   **size:** Normal
   

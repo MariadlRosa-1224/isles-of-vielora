@@ -1,0 +1,11 @@
+- After [Soul chase]([[6_Soul-chase]]) in the first arc, the timeline fragments in three distinct possibilities. possibilities will center the history around specific guardian. These three timelines are:
+  id:: 683c9447-fe9f-4f94-a4c3-0d174f24b07b
+-
+- ## [[The timeline of order]]
+-
+- ## [[The timeline of Soul]]
+- And
+- ## [[The timeline of chaos]]
+-
+-
+-

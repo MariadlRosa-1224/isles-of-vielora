@@ -1,5 +1,6 @@
-# Name
-template:: Race
+- # RaceName
+  template:: Race
+  collapsed:: true
 	- **Origin:** origin 
 	  
 	  **Base abilities:**
@@ -27,13 +28,18 @@ template:: Race
 	  **History:**
 	  
 	  **Lifespan:**
+	-
+	- ## Characters of this race
+	  background-color:: purple
 -
-- ## Name
+- ## CharacterName
   template:: Character
 	- characters::
-	- Affiliation::
+	  Affiliation::
+	-
 	-
 	- ## Basic info
+	  background-color:: purple
 		- **Nicknames:** nicknames
 		  
 		  **Age:** age
@@ -47,6 +53,7 @@ template:: Race
 		  **Job:** job
 		-
 	- ## Physical description (humanoid form)
+	  background-color:: purple
 		- **Height:** height
 		  
 		  **Weight:** weight
@@ -62,6 +69,7 @@ template:: Race
 		  **Typical clothing:** clothing
 		-
 	- ## Personality
+	  background-color:: purple
 		- **Description:**
 		  
 		  **Positive traits:** positive traits
@@ -75,22 +83,149 @@ template:: Race
 		  **Motivations:** motivations
 		-
 	- ## Talents
+	  background-color:: purple
+		- **Danger level:**
+		-
+		- **Special conditions:**
+		-
 		- **Skills:** skills
 		  
 		  **Abilities:** abilities
 		  
 		  **Equipment:** equipment
 		-
-	- ## Relationships
+	- ## Connections
+	  background-color:: purple
 		- **Family:** family
-		  
-		  **Friends:** friends
-		  
-		  **Enemies:** enemies
+		-
+		- **Friends:** friends
+		-
+		- **Enemies:** enemies
+		-
+		- **Organizations/groups:** group - relationship with group
+		-
+		- **Origin town/kingdom:** town/kingdom
 		-
 	- ## Additional information
+	  background-color:: purple
 	- ## Background
+	  background-color:: purple
 	- ## Relevant lore
-	- tags:: Story/Characters/
+	  background-color:: purple
+	- ## Spoiler notes
+	  background-color:: purple
 -
+- # Event name
+  template:: Event
+  collapsed:: true
+	- Description
+	-
+	- ## Characters
+	  background-color:: purple
+		- List of important characters
+	- ## objective
+	  background-color:: purple
+		- What the event search to accomplish
+	- ## Story
+	  background-color:: purple
+		- ### Prelude
+		  background-color:: pink
+			- Important past information for the event
+		- ### Main part
+		  background-color:: pink
+			- Overview of the occurrences
+			- #### Divider subtittle
+			  background-color:: gray
+				- Information
+				- ##### subtittle
+					- information
+				- ##### Subtittle
+					- **Smallest tittle:**
+						- Information
+		- ### Post
+		  background-color:: pink
+			- Consecuences
+	- ## Lore Notes
+	  background-color:: purple
+		- An important concept
+		  background-color:: pink
+			- description
+	-
+-
+- # Fauna name
+  template:: fauna
+  collapsed:: true
+	- **Monster name:**
+	- **Aspect:** (up to 3)
+	- **Temperament:**
+	- **Danger level:** (0-20)
+	- **Region:**
+	- **Rarity:**
+	-
+	- **Strength:** (1-5) ⭐
+	  **Speed:** (1-5) 
+	  **Durability:** (1-5)
+	  **Magic:** (1-5)
+	  **Intellect:** (1-5)
+	  **Senses:** (1-5)
+	-
+	- **Abilties:**
+	-
+	- **Information:**
+-
+- # Location Name
+  template:: location
+  collapsed:: true
+	- location::
+	  location_type::
+	  Goverment_god::
+	-
+	- # Basic information
+	  background-color:: purple
+		- ## Location type
+			-
+		- ## Population
+			-
+		- ## Size
+			-
+		- ## Local Resources/Materials
+			-
+		- ## Neighbouring Locations
+			-
+		- ## Other connected Locations
+			-
+		- ## Description & History
+		-
+		- ## Traditions & Customs
+	-
+	- ---
+	- # Resident information
+	  background-color:: purple
+		- ## Characters originated from the location
+			-
+		- ## Other connected Characters
+			-
+		- ## Local Species/Races/Flora/Fauna
+	- ---
+	- # Connections - Story/Lore
+	  background-color:: purple
+		- ## Connected to Myths, legends and stories
+		- ---
+	- # Connections - World & Details
+	  background-color:: purple
+		- ## Connected to Events
+			-
+		- ## Affected by Boons
+			-
+		- ## Affected by Afflictions
+			-
+		- ## Affected by Other conditions
+		-
+		- ---
+	- # Connections - Groups/Teachings
+	  background-color:: purple
+		- ## Governing Teachings/Religious groups
+			-
+	-
+	-
 -

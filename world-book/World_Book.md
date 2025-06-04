@@ -1,1 +1,11 @@
 - #index
+-
+- ## [Magic]([[world_book/magic]])
+-
+- ## [Fauna]([[World_Book/Fauna]])
+-
+- ## [Flora]([[world_book/flora]])
+-
+- ## [Minerals]([[World_Book/Minerals]])
+-
+- ## [Items]([[World_Book/items]])

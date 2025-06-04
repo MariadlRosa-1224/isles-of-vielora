@@ -1,4 +1,4 @@
-race:: [[Race/Daemons]]
+race:: Daemons
 
 - ## Abhorrent
   

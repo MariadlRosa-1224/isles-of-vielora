@@ -57,8 +57,8 @@
   In a matter of days, their sole power was enough to turn the tide of war. No human weapon was able to withstand their unchained power. And the ruins of human cities were the sole thing to be found.
   
   Technical speaking, angels won the war, but there was no celebration, darkness covered the ruins of civilization and even angels had to hide in fear from the monsters the war created. No more deaths happened on their side, but no one knew what would happen the moment the last human died, if their lust would end. Or if might also be their end.
-  
-  Chapter 7: the end of the world
+-
+- ## Chapter 6: the end of the world
   
   But they didn't even have to wait to know. As only a few small groups of humans were left, a light filled the sky. They gods appeared once more, but not to save them. Their coming marked an attack to eradicate the fallen.
   
@@ -83,3 +83,5 @@
   Chapter 9:
   
   Chapter 10:
+-
+- tags:: Story/Timeline/Pre_lore

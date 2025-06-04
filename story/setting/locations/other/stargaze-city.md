@@ -1,1 +1,48 @@
-tags:: Story/Setting/Locations/Other
+- # Location Name
+	- location:: Other
+	  location_type:: Poblation
+	  Goverment_god:: [[The mayor of stargaze city]]
+	-
+	- # Basic information
+	- ## Location type
+		-
+	- ## Population
+		-
+	- ## Size
+		-
+	- ## Local Resources/Materials
+		-
+	- ## Neighbouring Locations
+		-
+	- ## Other connected Locations
+		-
+	- ## Description & History
+	-
+	- ## Traditions & Customs
+	-
+	- ---
+	- # Resident information
+	- ## Characters originated from the location
+		-
+	- ## Other connected Characters
+		-
+	- ## Local Species/Races/Flora/Fauna
+		- ---
+	- # Connections - Story/Lore
+	- ## Connected to Myths, legends and stories
+		- ---
+	- # Connections - World & Details
+	- ## Connected to Events
+		-
+	- ## Affected by Boons
+		-
+	- ## Affected by Afflictions
+		-
+	- ## Affected by Other conditions
+		- ---
+	- # Connections - Groups/Teachings
+	- ## Governing Teachings/Religious groups
+		-
+	-
+	-
+- #Story/Setting/Locations/Other

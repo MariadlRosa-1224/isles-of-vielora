@@ -1,6 +1,6 @@
 ## Distorted one
 
-race:: [[Race/Daemons]] 
+race:: Daemons 
 
 **Origin** Daemon
 

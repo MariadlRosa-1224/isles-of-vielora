@@ -1,0 +1,50 @@
+- # Location Name
+	- location:: Other
+	  location_type:: Poblation
+	  Goverment_god::
+	-
+	- # Basic information
+	- ## Location type
+		-
+	- ## Population
+		-
+	- ## Size
+		-
+	- ## Local Resources/Materials
+		-
+	- ## Neighbouring Locations
+		-
+	- ## Other connected Locations
+		-
+	- # Description & History
+		- Warden cities are locations that are made within the lore specifically for people who doesn’t want to be involved into lore. They are safe places unaffected by most events. This is because of an important kind of fauna the [[Warden]]
+	-
+	- ## Traditions & Customs
+	-
+	- ---
+	- # Resident information
+	- ## Characters originated from the location
+		-
+	- ## Other connected Characters
+		-
+	- ## Local Species/Races/Flora/Fauna
+		- ---
+	- # Connections - Story/Lore
+	- ## Connected to Myths, legends and stories
+		- ---
+	- # Connections - World & Details
+	- ## Connected to Events
+		-
+	- ## Affected by Boons
+		-
+	- ## Affected by Afflictions
+		-
+	- ## Affected by Other conditions
+		- ---
+	- # Connections - Groups/Teachings
+	- ## Governing Teachings/Religious groups
+		-
+	-
+	-
+-
+- #Story/Setting/Locations/Other

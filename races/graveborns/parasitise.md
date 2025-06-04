@@ -1,4 +1,34 @@
-Race:: [[Race/Graveborns]]
+Race:: Graveborns
 
+-
+- # RaceName
+	- **Origin:**  [Graveborn]([[Race/Graveborns]])
+	  
+	  **Base abilities:**
+	  
+	  **(Ability1)** abc
+	  
+	  **(Ability2)** abc
+	  
+	  **Unlockables:**
+	  
+	  **(level x:)** 
+	  
+	  **(Ability)** abc
+	  
+	  **level x:**
+	  
+	  **(Ability)** abc
+	  
+	  **Description:** description
+	  
+	  **weaknesses:**
+	  
+	  **(Weakness)** abc
+	  
+	  **History:**
+	  
+	  **Lifespan:**
+-
 - #Race/Graveborns
 -

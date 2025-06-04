@@ -27,7 +27,7 @@
   
   My first body, my human body was made with that in mind, crafted with a perfect equilibrium of physical matter and essence so it won't fall apart. This is something only mom could achieve. And that is because rules just don't apply to her. Pure Essence is no meant to be retained in a single body, it will either dissipate or the body would collapse. But in doing so she awaken me, the whole and pure will of the universe, of her creation in a single place and a single time.
   
-  After that one many had and many more vessels will come, some might last, some might not, I'm not time, I can speak only from eyes that are everywhere at any time, till present arrives everything is a changing possibility.
+  After that one many more vessels will come, some might last, some might not, I'm not time, I can speak only from eyes that are everywhere at any time, till present arrives everything is a changing possibility.
   
   The only thing I know, my future vessels are unfortunate, souls on one way or another damaged, but so full of essence, I could be awoken.
 - ## Personality
@@ -52,7 +52,7 @@
   The old painting is destine to affect the new one. Just me existing as a single consciousness, learning and living a story I was not meant to live was slowly but surely affecting every being that came after me, my opinions moved the course of wars, my will destroyed and created civilizations, and if I believed someone, or some civilization was to become great or disappear, it would. Their will didn't matter, because I am the will.
 - ## Relationships
   
-  Order was the only one who noticed something. Is in her nature after all, chaos keep things moving, even if they are abnormal, time and space seeks over their domains, not every single life on it, and mom... She didn't want to look, understand or acknowledge what was happening. Order knew the second something that shouldn't was changing, she didn't see the subtle influence of my will in every single soul, but the impact that subtle influence was having in the whole universe.
+  [Order]([[Nisha-(Order)]]) was the only one who noticed something. Is in her nature after all, chaos keep things moving, even if they are abnormal, time and space seeks over their domains, not every single life on it, and mom... She didn't want to look, understand or acknowledge what was happening. Order knew the second something that shouldn't was changing, she didn't see the subtle influence of my will in every single soul, but the impact that subtle influence was having in the whole universe.
   
   She wouldn't point it out at me at first, what she saw is the overgrowth of the human race, how an overly quick development that would lead to them to conquest the whole universe affecting or even eradicating hundreds of civilizations on their way. The imbalance was too big, the price too high.
   
@@ -67,15 +67,15 @@
   Or in other words, me.
 - ## Background
   
-  I don't know if mom knew or understood what I was. Only she understands how she works, maybe is because I'm her child, maybe it was a conscious decision when I was born, but I can imagine a world, when she really knew what I was and was meant to be, not with how things turned out after Order came to me to resolve what would happen to humanity.
+  I don't know if mom knew or understood what I was. Only she understands how she works, maybe is because I'm her child, maybe it was a conscious decision when I was born, but I can't imagine a world, when she really knew what I was and was meant to be, not with how things turned out after Order came to me to resolve what would happen to humanity.
   
-  You all know by know that humanity is long since gone. I already told you that I technically don't or shouldn't exist.
+  You all know by now that humanity is long since gone. I already told you that I technically don't or shouldn't exist.
   
-  All [guardians](../../../../races/lore/guardians.md) but me have a trust, is the equivalent of a soul for them, their very being centered in a gem that holds the power mom gave them. The trust, just as the name might imply, let them take decisions over what mom or the others would say, if a guardian pulled into their trust to do something, no even mom would know, not unless she specifically looks into what knowledge she is missing, and is because of trust, that she will not look.
+  All [[guardians]] but me have a trust, is the equivalent of a soul for them, their very being centered in a gem that holds the power mom gave them. The trust, just as the name might imply, let them take decisions over what mom or the others would say, if a guardian pulled into their trust to do something, no even mom would know, not unless she specifically looks into what knowledge she is missing, and is because of trust, that she will not look.
   
   Order used her trust to have a private discussion with me, she figured out what I was and meant, she knew she couldn't stop humanity if she couldn't stop me, because I believed humanity to be grander, their will, will eventually lead them there, grander than any other.
   
-  Five thousand years we fought, an infinite amount of possibilities were explored on how to prevent human overgrowth without eradicating them.
+  eight thousand years we fought, an infinite amount of possibilities were explored on how to prevent human overgrowth without eradicating them.
   
   >“Humanity is uncontrollable, I tried to give them magic, they conquered the universe with it, I gave them a perfect life and they wanted more, I offered them gods to serve them and they wouldn’t accept it. Even now, isolated and without magic, they are on their way to destroy everything we built since the start of time. Chaos is too into this to care, space and time wouldn’t understand, and we all know you are mother’s golden child. They must be ended, there’s no turning back on this, I ran out of options.”
   >
@@ -91,17 +91,17 @@
   >
   >“We both know it will fail… But I will listen to you, one last time and then we’ll stop avoiding the inevitable.
   
-  And it failed. Again, humans were given angels to love and protect them and they were in a process to genocide them.
+  And it failed. Again, humans were given angels to love and protect and they were in a process to genocide them.
   
-  Mom didn’t know of our eternal discussion of the destiny they discussed for humanity. That was the trust she put into order, to keep her decisions and liberty secret, to not peek nor know. Nor her, no Chaos, no Space, no even Time and his oversee over all timelines
+  Mom didn’t know of our eternal discussion of the destiny of humanity. That was the trust she put into order, to keep her decisions and liberty secret, to not peek nor know. Nor her, no Chaos, no Space, no even Time and his oversee over all timelines
   
   And as long as order held the yin yang gem that contained that trust, I couldn’t ask for help. I begged, screamed and did everything to try and convince Order to change her mind, but after that being useless I only stalled any time she could while trying to figure out what to do, millennial outside of time in which we both were trapped trying to prevent the other from achieving what they wanted.
   
-  Millennial became a toll on my head, young and innocent, I became  tired of a game only Order had the patience to play.
+  Millennial became a toll on my head, young and innocent compared to the first being ever created, I became tired of a game only Order had the patience to play.
   
-  Order expected me to just give up, either because she finally saw the damage humanity was able to bring, or because the waiting game became too much.
+  Order expected me to just give up, either because I finally saw the damage humanity was able to bring, or because the waiting game would become too much.
   
-  But I was nothing if not but determined. I was nothing but human, I wouldn’t give up even if the eternal repetition of the same events that brought humanity to conquer or destruction repeated over and over again, even when my own existence started to feel like a lost meaning after the first million of no-years.
+  But I was nothing if not but determined. I was nothing but human, I wouldn’t give up even if the eternal repetition of the same events that brought humanity to conquer or destruction repeated over and over again, even when my own existence started to feel like a lost meaning after unccountable no-years.
   
   I was nothing but human.
   
@@ -109,13 +109,15 @@
   
   Order never understood that, she couldn’t, she was a great creation, born to oversee and protect the order of the universe, whatever was the cost. She could never understand what actually meant being part of the general population, one of the many countless races with a home, a family, culture and identity, she never could understand to what lengths someone was able to go if it meant protecting their home.
   
-  I in a timeless Godly fashion was born daughter of a human and God, I grew my first years of life among mortals, just as another one of them, not a ruler, no a queen, I understood, pain, hunger, the rush to grow, the compassion, the dreams of freedom and better future, culture, dances and what grows true loyalty.
+  I in a timeless Godly fashion was born daughter of a human and God, I grew my first years of life among mortals, just as another one of them, not a ruler, no a monarch, I understood, pain, hunger, the rush to grow, the compassion, the dreams of freedom and better future, culture, dances and what grows true loyalty.
   
-  All before I was Soul
+  I was Alma, the human girl before I was Soul the guardian, the very will of the universe.
   
   I was deprived of that for who knows how many years before I finally broke, or more like, I finally decided to understand what Order meant, when she told me my will was the unstoppable wave tumbling the universe around.
-  
-  Till the end Order had patience of someone who existed since the near start of all, she never understood, not why was I doing this, nor how much I truly suffered.
+-
+- My sole existence stole their freedom, I was never meant to exist, I should have never existed. My very existence hurts them.
+-
+- Till the end Order had patience of someone who existed since the near start of all, she never understood, not why was I doing this, nor how much I truly suffered.
   
   She dared to show one on her one in millennia smiles when I came to her telling her to just end this.
   
@@ -144,8 +146,18 @@
   >"You also don't understand it, even when you said it to my face, my will is their will, I their soul, I will never stop existing just because I broke this body. I'm all around. So don't cry, I not dead, I-"
   
   And light filled the place, mom should have felt what happened because suddenly she was there and she was wrathful beyond what I ever saw.
-  
-  [I didn't wanted anything to end as it did, Order's broken trust, mom's shattered self](../../../timeline/pre-lore/the-end-of-humanity.md)
-  
-  #Story/Characters/divine/guardians
+-
+- From Order's eyes, there was also surprise and fear.
+-
+- I wasn't the only one who forgot about her.
+-
+- [I didn't wanted anything to end as it did, Order's broken trust, mom's shattered self](../../../timeline/pre-lore/the-end-of-humanity.md)
+-
+- ## Relevant appearances
+-
+- [[6_Soul-chase]]
+-
+- [[EmeraldOfSoul]]
+-
+- #Story/Characters/divine/guardians
 -

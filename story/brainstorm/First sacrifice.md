@@ -1,6 +1,7 @@
-# First sacrifice
-
-tags:: Story/Brainstorm
+- # First sacrifice
+- story:: Brainstorm
+-
+-
 - The dragon of shadows, the guardian of chaos smirks as she spy the lives of those touched by the light, she watches as their silly short lives run with an illusion of control, as if their lives weren't the result of something way beyond them.
 - They are characters to her, playing a plot that repeats infinitely, everytime with different voices and faces.
 - Sometimes thought the characters did something unexpected, and suddenly the characters became people, people she learned to cherish.
@@ -24,3 +25,4 @@ tags:: Story/Brainstorm
 - you continue and the beach disappears, thousands of eyes stare back at you judging, and a smile approaches you, another woman, or so she looks like, you know is not real, the shadows surrounds her, paper white skin turns into pitch black scales, black and sharp claws turn into thin and delicate fingers. Her red lips grow fangs. Only the smile is constant.
 - "Welcome to my home."
 -
+- #Story/Brainstorm

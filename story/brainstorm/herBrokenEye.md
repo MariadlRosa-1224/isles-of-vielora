@@ -1,5 +1,7 @@
-# Her broken eye
-- tags:: Story/BrainStorm
+- # Her broken eye
+- story:: Brainstorm
+-
+-
 - "I left you alone as you asked. what right did you think yu had
   to come and touch what's mine"
   
@@ -35,4 +37,4 @@
   
   The ever-changing, Eos recognized it, but it shouldn't be possible, right? They had no souls, all they had was a... a pause.  Her hand glowed, this time not in black, but in a set of colors changing every time.  Her hand pushed inside the body of the ever-light.  And pulled something out.  The ever-light screamed at the action, but was unable to do anything.  It was as if she was paralyzed, unable to control her body.  In the ever-changing hand, there seemed to be a jewel.  A gem, white in color, with a small circle painted black.  It was cracked, as if a whole chunk of it was missing.  The ever-changing stared, she was trembling. Something that she didn't feel in so long.  Not since the first time her sister came and attacked her and her realm too many years ago.
 -
--
+- #Story/BrainStorm

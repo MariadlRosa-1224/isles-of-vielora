@@ -14,5 +14,17 @@ Mechanics:: Soul
 - At 90% they are gone in any way aside from the few bits of soul that hang their existence by a thread. Bodies are no longer recognizable and they are unable recognize anyone around them, they are intelligent enough to act on will but animal enough that only your instincts matter. At this point it is considered there’s nothing to be done to save them. Every not fatal encounter with one these beings recorded is encountered with a constant incoherent muttering and screams of pain and anger. They are dangerous despite the complete loss of old abilities, hundreds may die before the soul finally breaks and when the soul breaks, they are gone, no god will be able to save them, no artifact, no magic, nothing, they are gone for good and forever.
   
   A shattered monster is not a race, but scientists tend to classify them as daemons when talking about their biology and abilities. They are a mystery, but if it is not to find a way to save them, is not a mystery worth solving...
-  
-  tags:: Souls
+-
+- ## When interacting with a shattered soul
+- Do not antagonize them. Most of the time it wasn't their fault that they got into that state. And if it was, that's another different crime. Shattered souls are unable to make a difference between survival and anything else. If it is between fixing their soul and anything else, that includes someones life.
+-
+- You should not engage in a fight with them, especially if they are over 70% damaged. The more damaging that soul is the more dangerous is the monster they become.
+-
+- You must inform about the state and/or find a way to contain them and bring their soul to someone who might be able to fix the damage if possible.
+-
+- If a soul is over 90% damaged. There's no use. Contain them. so they won't harm anyone else. But the best it can be done is just feed them with mana to stop the pain until they die or stop the suffering earlier.
+-
+-
+-
+-
+- tags:: Souls

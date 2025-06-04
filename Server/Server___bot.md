@@ -4,7 +4,7 @@
 	- TODO Mana calculation
 	- TODO RP channel announcement spam
 	- TODO Mod team work summision
-	- TODO GM request
+	- TODO [[GM request]]
 	- TODO GM event list
 	-
 -

@@ -1,0 +1,66 @@
+Race:: Daemons
+
+- # Dark whisper
+	- **Origin:** [Daemon]([[Race/Daemons]]) 
+	  id:: 683bc36a-3254-4a34-aab6-ba683b3df468
+	  
+	  **Base abilities:**
+	  
+	  **Ghostly makeup** Dark Whispers aren't ghosts, but they share some features with them, like their ability to float face through no magical walls. And their ghostly looks, however, they are not completely incorporeal. The dark mana that engulfs their bodies allows them to interact with the physical world, and thus, they can still be physically damaged. However, any physical damage they receive is halved.
+	  
+	  **Light devour** Dark Whispers only feed on two things. Dark Mana and Light. they can turn off any sort of artificial light source, light bulbs, fire, etc, as long as there is no magic property preventing it. When consuming light they recover 8% of their mana charges, .
+	-
+	- **Dark entity** Dark whispers are beings of darkness moving and perceiving  through it like no other, they can perfectly in the dark, their overall senses are x4 times better compare to a human. And darkness related magic used by them is x2 times more powerful
+	-
+	- **The dread** Their sole presence is enough to mess with people's minds. Anxiety and fear, the dread of something coming. People find it harder to make rational decisions around them, and they can focus this aura into being stronger for a specific target. It can be overcome if you have a strong enough will and know what's trying to mess with your mind. But it is known that the stronger the dark whisper, the harder it is to overcome this trick.
+	  id:: 683e59a4-60ff-4868-8bfa-69ca577c08ad
+	-
+	- **Unlockables:**
+	  
+	  **(level 8:)**
+	-
+	- **Broken telepathy** They can display images into the minds of other people, hyperrealistic scenes filled with sounds and sensations but that cannot include words nor spoken nor written.
+	-
+	- **The Empath** Dark whispers just know what those in front of them are truly feeling, no matter how if they try to hide it.
+	-
+	- **darkness manipulation**
+	-
+	- **(level x:)**
+	-
+	- **abi**
+	-
+	- **The mischief** abc
+	-
+	- **Dark sense** Some dark whispers  perceive beyond themselves, as long as they are in the dark they don't need to perceive with sense to know what's happening around them, and they will know what hides behind walls and under b rank magic, but any sort of light source will mess with this ability,  Blinding the area around the light.
+	-
+	- **(level x:)**
+	-
+	- **Shadow puppets**
+	-
+	- **abi 2**
+	-
+	- (level x:)
+	-
+	- **abi**
+	-
+	- **(Level x)**
+	  
+	  **Call to the darkness** A strong enough whisper is a scream, a scream so loud that stuns anyone in a kilometer and steals everything from its light, as they invoke the power of purest of darknesses for a deal to aid them in an objective, the darkness takes over their bodies and grants them power, it damages a small part of their souls each time and each time they get more interwoven with them.
+	-
+	- **Description:** Of all the daemons, people consider the dark whispers to be the most normal-looking ones. But they are still strange. They are dark, ghostly creatures, but they are not ghosts. They look like shadows standing in place, but they not shadoweds. Their bodies are made purely out of dark mana, one that barely covers the glowing of their vulnerable souls behind the darkness, visible through eyes and mouth. Some people call them dark ghosts, not because they come from the dead, but because they are the only thing they can be compared to.
+	  
+	  **weaknesses:**
+	  
+	  **Torture of words** Dark whispers aren't mute, but for them talking in extremely painful, a pain none of them are able to describe, but that is enough to cause them to faint if they force themselves to talk for long periods of time. They can't scream and are unable to use voice based magic.
+	-
+	- **Torture of sound** They are very sensible to loud and sudden noices, attacks related to sound makes double the damage to them.
+	-
+	-
+	-
+	- **History:**
+	- There are many reasons why people fear the ruins. They are dangerous per se, with monsters and collapsing structures and the dark mana that alone can kill someone. But maybe the biggest reason why people avoid this place is the possibility of becoming a dark whisperer. No one is sure how it happens. But sometimes when someone is infected with enough dark mana, it doesn't kill them, it destroys their bodies and traps their souls into a new figure that barely resembles a silhouette of their old self a Dark Whisper of themselves. They do not remember the person who they were before. Wandering the world in search for answers. They are mischievous at best, evil at worst, in in their nature, you should no trust them, even when behind their silence there seems to be great knowledge.
+	-
+	-
+	- **Lifespan:**
+-
+- tags:: Race/Daemons

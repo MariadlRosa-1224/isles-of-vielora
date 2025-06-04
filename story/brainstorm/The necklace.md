@@ -1,3 +1,6 @@
+story:: Brainstorm
+
+-
 - One of the most important villains in this history is the leader of the cult of the Eye of Wisdom. She, a woman, a little bit old but not too old. She is incredible, powerful. By her hand, any fist she touches can be destroyed in a second.
   
   But this power is not an ability from her. It comes from her necklace, a beautiful, yet awful necklace that within itself contains a pocket dimension, a dimension that serves as a prison for the void, the lost half of the guardian of order, the dead and the nothingness. In the pocket dimension lies a tower eternally surrounded by light.
