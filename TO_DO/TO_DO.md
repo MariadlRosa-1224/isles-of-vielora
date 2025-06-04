@@ -96,8 +96,16 @@
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:43:48]--[2025-06-04 Wed 11:18:36] =>  1293:34:48
 		  :END:
-	- TODO [Nyxkins]([[Race/Nyxkins]])
-		- TODO [[shadowed]]
+	- LATER [Nyxkins]([[Race/Nyxkins]])
+	  :LOGBOOK:
+	  CLOCK: [2025-06-04 Wed 14:59:27]--[2025-06-04 Wed 14:59:31] =>  00:00:04
+	  CLOCK: [2025-06-04 Wed 14:59:31]--[2025-06-04 Wed 14:59:32] =>  00:00:01
+	  CLOCK: [2025-06-04 Wed 14:59:35]--[2025-06-04 Wed 14:59:35] =>  00:00:00
+	  :END:
+		- DOING [[shadowed]]
+		  :LOGBOOK:
+		  CLOCK: [2025-06-04 Wed 14:59:27]
+		  :END:
 	- TODO [Interwined]([[Race/Interwined]])
 		- TODO [[ouroboros]]
 	- TODO [Euphorians]([[Race/Euphorians]])
