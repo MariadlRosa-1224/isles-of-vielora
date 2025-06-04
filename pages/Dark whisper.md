@@ -28,7 +28,7 @@ Race:: Daemons
 	-
 	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be damaged with magic and they will be immediately be forced if blasted with a light source.
 	-
-	- **darkness magician** They can create and manipulate darkness, stripping light from an area and shaping dark mana into formations of darkness that exist for as long as they are supply with mana, these can take the shape of projectiles or small weapons and tools than when hitting a target weakens in 20% their physical attacks and speed.
+	- **Shadow puppets** They can created shadow puppets that move and acts on their order, unable to talk but able to interact with the world and execute most task. They can float, move and hide in shadows and use spells up to c rank the dark whisper knows.
 	-
 	- **Dark sense** Some dark whispers  perceive beyond themselves, as long as they are in the dark they don't need to perceive with sense to know what's happening around them, and they will know what hides behind walls and under b rank magic, but any sort of light source will mess with this ability,  Blinding the area around the light.
 	-
@@ -36,7 +36,7 @@ Race:: Daemons
 	-
 	- **The mischief** Some dark whisper can manipulate how others perceive reality, making it seem like the laws of reality were twisted,  disguise like someone else, making feel like the other moved when they did not, causing phantom pains, etc. But all is just an illussion
 	-
-	- **Shadow puppets** They can created shadow puppets that move and acts on their order, unable to talk but able to interact with the world and execute most task. They can float, move and hide in shadows and use spells up to c rank the dark whisper knows.
+	- **darkness magician** They can create and manipulate darkness, stripping light from an area and shaping dark mana into formations of darkness that exist for as long as they are supply with mana, these can take the shape of projectiles or small weapons and tools than when hitting a target weakens in 20% their physical attacks and speed.
 	-
 	- **The deceiver** They are convincing, whispering into the minds of others ideas that sound as if they were theirs, making suggestion people just feel inclined to accept.
 	-
@@ -56,8 +56,6 @@ Race:: Daemons
 	  **Torture of words** Dark whispers aren't mute, but for them talking in extremely painful, a pain none of them are able to describe, but that is enough to cause them to faint if they force themselves to talk for long periods of time. They can't scream and are unable to use voice based magic.
 	-
 	- **Torture of sound** They are very sensible to loud and sudden noices, attacks related to sound makes double the damage to them.
-	-
-	-
 	-
 	- **History:**
 	- There are many reasons why people fear the ruins. They are dangerous per se, with monsters and collapsing structures and the dark mana that alone can kill someone. But maybe the biggest reason why people avoid this place is the possibility of becoming a dark whisperer. No one is sure how it happens. But sometimes when someone is infected with enough dark mana, it doesn't kill them, it destroys their bodies and traps their souls into a new figure that barely resembles a silhouette of their old self a Dark Whisper of themselves. They do not remember the person who they were before. Wandering the world in search for answers. They are mischievous at best, evil at worst, in in their nature, you should no trust them, even when behind their silence there seems to be great knowledge.
