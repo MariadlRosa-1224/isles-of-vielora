@@ -20,9 +20,10 @@
 	- TODO [locations]([[Story/Setting/Locations]])
 	- TODO [Folklore]([[Story/Setting/Folklore]])
 - ## Races
-	- DOING [Remnants]([[Race/Remnants]])
+	-
+	- LATER [Remnants]([[Race/Remnants]])
 	  :LOGBOOK:
-	  CLOCK: [2025-05-07 Wed 11:35:51]
+	  CLOCK: [2025-05-07 Wed 11:35:51]--[2025-06-04 Wed 01:17:33] =>  661:41:42
 	  :END:
 		- DOING [[dwarf]]
 		  :LOGBOOK:
@@ -35,6 +36,7 @@
 		  :END:
 		- TODO [[living-toy]]
 		- TODO [[automata]]
+	-
 	- DOING [Ethereals]([[Race/Ethereals]])
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:50]
