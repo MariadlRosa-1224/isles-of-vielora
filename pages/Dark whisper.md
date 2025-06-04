@@ -24,10 +24,9 @@ Race:: Daemons
 	- **The Empath** Dark whispers just know what those in front of them are truly feeling, no matter how if they try to hide it. They are incredibly good interpreting people’s habits, likes, dislikes, and motives to gauge their thoughts.
 	-
 	-
-	-
 	- **(level 15:)**
 	-
-	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be damaged with magic and they will be inmediately be forced out with magic
+	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be damaged with magic and they will be immediately be forced if blasted with a light source.
 	-
 	- **darkness manipulation**
 	-
@@ -37,7 +36,7 @@ Race:: Daemons
 	-
 	- **The mischief** abc
 	-
-	- **Shadow puppets** They can created shadow puppets that move and acts on their order
+	- **Shadow puppets** They can created shadow puppets that move and acts on their order, unable to talk but able to
 	-
 	- **The deveiver**
 	-
