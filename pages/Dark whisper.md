@@ -38,9 +38,7 @@ Race:: Daemons
 	-
 	- **darkness magician** They can create and manipulate darkness, stripping light from an area and shaping dark mana into formations of darkness that exist for as long as they are supply with mana, these can take the shape of projectiles or small weapons and tools than when hitting a target weakens in 20% their physical attacks and speed.
 	-
-	- **The deceiver**
-	-
-	- In their silence a dark whisper is constantly absorbing and processing information from their surroundings – conversations, written words, observed interactions, even the unspoken anxieties and desires of those nearby. They understand and they learn stuff quickly, specially people. When the user wishes to influence someone, their whispers contain crafted ideas directly into the target's subconscious. These aren't forceful commands, but rather gentle nudges, presenting the user's suggestions as if they were epiphanies originating within the target's own mind.
+	- **The deceiver** In their silence a dark whisper is constantly absorbing and processing information from their surroundings – conversations, written words, observed interactions, even the unspoken anxieties and desires of those nearby. They understand and they learn stuff quickly, specially people. When the user wishes to influence someone, their whispers contain crafted ideas directly into the target's subconscious. These aren't forceful commands, but rather gentle nudges, presenting the user's suggestions as if they were within the target's own mind.
 	-
 	- **(level 30:)**
 	-
