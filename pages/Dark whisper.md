@@ -37,7 +37,7 @@ Race:: Daemons
 	-
 	- **Shadow puppets**
 	-
-	- **abi 2**
+	- **The deveiver**
 	-
 	- (level x:)
 	-
