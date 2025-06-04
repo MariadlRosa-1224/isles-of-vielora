@@ -28,7 +28,7 @@ Race:: Daemons
 	-
 	- **Shadow sneaker** They can teleport to shadows on sight and hide within them unnoticed, while on a shadow they can only be damaged with magic and they will be immediately be forced if blasted with a light source.
 	-
-	- **darkness magician** They can create and manipulate darkness, stripping light from an area and shaping dark mana into formations of darkness that exist for as long as they are supply with mana,
+	- **darkness magician** They can create and manipulate darkness, stripping light from an area and shaping dark mana into formations of darkness that exist for as long as they are supply with mana, these can take the shape of proyectiles or small weapons and tools than when hitting a target
 	-
 	- **Dark sense** Some dark whispers  perceive beyond themselves, as long as they are in the dark they don't need to perceive with sense to know what's happening around them, and they will know what hides behind walls and under b rank magic, but any sort of light source will mess with this ability,  Blinding the area around the light.
 	-
