@@ -7,15 +7,14 @@
 -
 - **tough body and mind:** Dwarves body despite being small has a strength, physical resistance, mental defence and stamina 3 times higher compared to a human, they are capable of working for many hours without needing to rest.
 -
-- **Artisan:** Dwarves have a natural ability to create all kinds of craft, from art to weapons and intricate magic artifacts with up to 2 abilities, this is an action that will consume half their mana and cannot be done in the middle of a battle. A weapon made by a dwarf will have an increase of 2 in the technique of the equipment
--
+- **Artisan:** Dwarves have a natural ability to create all kinds of craft, from art to weapons and intricate magic artifacts with up to 2 abilities, this is an action that will consume half their mana and cannot be done in the middle of a battle. A weapon made by a dwarf will have an increase of 2 in the technique of the equipment.
 -
 - **Mana attune** Dwarves have magic x2 times stronger than averange and x3 if it is written magic.
 -
 - **Unlockables:**
   
   **level 5:**
-- **Mana infusion:** the marks on their body absorb and infuse mana into their form, allowing them to blast mana into something they strike both offensively and for crafting purposes. This strike has a power equivalent to a c rank spell when used offensively and can be infused into crafts to improve their capabilities granting (increase in material) but only the first time used on a weapon . Regardless of use 2 mana charges will always be consumed.
+- **Mana infusion:** the marks on their body absorb and infuse mana into their form, allowing them to blast mana into something they strike both offensively and for crafting purposes. This strike has a power equivalent to a c rank spell when used offensively and can be infused into crafts to improve their capabilities being the equivalent to a mana crystal. Even when no other valable material was used, Regardless of use 2 mana charges will always be consumed.
   
   **level 8:**
 - **Mineral sense:** Talented dwarves have the ability to sense minerals in the vicinity making it easier for them to find what they are looking for, being in the wild in a market, if the mineral is one they have worked on they can pinpoint their location within 100 meters. Otherwise they can just feel it in a general direction.
