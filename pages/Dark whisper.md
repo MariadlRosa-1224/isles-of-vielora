@@ -40,7 +40,7 @@ Race:: Daemons
 	-
 	- **The deceiver**
 	-
-	- In their silence a dark whisper is constantly absorbing and processing information from their surroundings – conversations, written words, observed interactions, even the unspoken anxieties and desires of those nearby. This knowledge isn't simply stored; it's distilled and synthesized, granting the user a profound and intuitive understanding of situations, motivations, and potential outcomes.
+	- In their silence a dark whisper is constantly absorbing and processing information from their surroundings – conversations, written words, observed interactions, even the unspoken anxieties and desires of those nearby. They understand
 	- They are convincing, whispering into the minds of others ideas that sound as if they were theirs, making suggestion people just feel inclined to accept.When the user wishes to influence someone, the aura subtly projects carefully crafted ideas directly into the target's subconscious. These aren't forceful commands, but rather gentle nudges, presenting the user's suggestions as if they were epiphanies originating within the target's own mind. The suggestions resonate so perfectly with the target's existing mental framework that they feel intrinsically logical and desirable, leading to a strong inclination to accept. The more the user understands the target, the more potent and irresistible these "self-generated" ideas become. It's not mind control, but a masterful art of suggestion, leveraging the target's own mental landscape.
 	-
 	- **(level 30:)**
