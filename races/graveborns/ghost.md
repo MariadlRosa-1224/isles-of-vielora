@@ -23,9 +23,12 @@
   
   **weaknesses:**
 - **Mana dependant** If all the charges of a ghost are drained, it will fade.
+-
 - **magic drain** When hit by magic attack their mana charges are drained in proportion of the cost of the attack rather than its power.
-  
-  **History:**
+-
+-
+-
+- **History:**
   
   A ghost is a lingering soul who decided they are no ready to rest nor reincarnate, so they roam the world sustained only by their mana and will.
   
