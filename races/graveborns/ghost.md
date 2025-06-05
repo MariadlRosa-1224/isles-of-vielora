@@ -26,7 +26,7 @@
 -
 - **magic drain** When hit by magic attack their mana charges are drained in proportion of the cost of the attack rather than its power.
 -
--
+- **vulnerable soul**
 -
 - **History:**
   
