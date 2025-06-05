@@ -28,21 +28,21 @@
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:16:10]
 		  :END:
-		- DOING [[masked]]
+		- TODO [[masked]]
 		  :LOGBOOK:
-		  CLOCK: [2025-06-04 Wed 14:58:53]
+		  CLOCK: [2025-06-04 Wed 14:58:53]--[2025-06-04 Wed 22:52:40] =>  07:53:47
 		  :END:
 		- DONE [[remains]]
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:16:02]--[2025-04-11 Fri 13:16:03] =>  00:00:01
 		  :END:
-		- DOING [[living-toy]]
+		- TODO [[living-toy]]
 		  :LOGBOOK:
-		  CLOCK: [2025-06-04 Wed 14:59:14]
+		  CLOCK: [2025-06-04 Wed 14:59:14]--[2025-06-04 Wed 22:52:39] =>  07:53:25
 		  :END:
-		- DOING [[automata]]
+		- TODO [[automata]]
 		  :LOGBOOK:
-		  CLOCK: [2025-06-04 Wed 14:59:13]
+		  CLOCK: [2025-06-04 Wed 14:59:13]--[2025-06-04 Wed 22:52:38] =>  07:53:25
 		  :END:
 	- LATER [Ethereals]([[Race/Ethereals]])
 	  :LOGBOOK:
@@ -56,26 +56,26 @@
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:43:00]
 		  :END:
-		- DOING [[star-whisper]]
+		- TODO [[star-whisper]]
 		  :LOGBOOK:
-		  CLOCK: [2025-06-04 Wed 14:59:12]
+		  CLOCK: [2025-06-04 Wed 14:59:12]--[2025-06-04 Wed 22:52:35] =>  07:53:23
 		  :END:
-		- DOING [[phoenix]]
+		- TODO [[phoenix]]
 		  :LOGBOOK:
-		  CLOCK: [2025-06-04 Wed 14:59:12]
+		  CLOCK: [2025-06-04 Wed 14:59:12]--[2025-06-04 Wed 22:52:36] =>  07:53:24
 		  :END:
 	- LATER [Daemons]([[Race/Daemons]])
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:54]--[2025-06-04 Wed 14:59:07] =>  675:23:13
 	  :END:
-		- DOING [[abhorrent]]
+		- TODO [[abhorrent]]
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:43:05]--[2025-04-11 Fri 13:43:44] =>  00:00:39
-		  CLOCK: [2025-06-04 Wed 14:59:11]
+		  CLOCK: [2025-06-04 Wed 14:59:11]--[2025-06-04 Wed 22:52:33] =>  07:53:22
 		  :END:
-		- DOING [[distorted-one]]
+		- TODO [[distorted-one]]
 		  :LOGBOOK:
-		  CLOCK: [2025-06-04 Wed 14:59:11]
+		  CLOCK: [2025-06-04 Wed 14:59:11]--[2025-06-04 Wed 22:52:32] =>  07:53:21
 		  :END:
 		- DONE [[Dark whisper]]
 		  :LOGBOOK:
@@ -102,9 +102,9 @@
 	  CLOCK: [2025-06-04 Wed 14:59:31]--[2025-06-04 Wed 14:59:32] =>  00:00:01
 	  CLOCK: [2025-06-04 Wed 14:59:35]--[2025-06-04 Wed 14:59:35] =>  00:00:00
 	  :END:
-		- DOING [[shadowed]]
+		- TODO [[shadowed]]
 		  :LOGBOOK:
-		  CLOCK: [2025-06-04 Wed 14:59:27]
+		  CLOCK: [2025-06-04 Wed 14:59:27]--[2025-06-04 Wed 22:52:24] =>  07:52:57
 		  :END:
 	- TODO [Interwined]([[Race/Interwined]])
 		- TODO [[ouroboros]]
