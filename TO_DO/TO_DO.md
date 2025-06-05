@@ -106,8 +106,8 @@
 		  :LOGBOOK:
 		  CLOCK: [2025-06-04 Wed 14:59:27]--[2025-06-04 Wed 22:52:24] =>  07:52:57
 		  :END:
-	- TODO [Interwined]([[Race/Interwined]])
-		- TODO [[ouroboros]]
+	- DONE [Interwined]([[Race/Interwined]])
+		- DONE [[ouroboros]]
 	- TODO [Euphorians]([[Race/Euphorians]])
 	- TODO [Evolutions]([[Race/Evolutions]])
 		- TODO [[ethereal]]
