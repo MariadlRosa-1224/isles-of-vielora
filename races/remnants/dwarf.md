@@ -23,13 +23,13 @@
 - **weapon invocation:** Some dwarves are capable of summoning equipment of their own creation regardless of distance and even interchange the weapon they currently have for another. This action cannot increase the max number of equipment and will consume 5 charges per use. and has a cooldown of 7 turns.
   
   **level 18:**
-- **Great artisan:** As a dwarf become more experimented the quality of their technique increases to 4, they can add up to 3 abilities to a weapon. ()
+- **Great artisan:** As a dwarf become more experimented the quality of their technique increases to 4, they can add up to 3 abilities to a weapon. 
   
   **level 25:**
 - **Veil of beyond:** Some dwarves have a very strength ability to be able to move themselves into some sort of second plane of existance where they can travel faster into places while being invisible to the naked eye, while in this state they cannot be attacked, but they also cannot attack not interact with anything in their surroundings. Changing between stages takes 2 turns.
 -
 - **level 30:**
-- **Master artizan:** The technique on their creation is nearly unmatched, on 8 in value, dwarf on this level have increased power on their written magic of x5 and are able to create semi-intelligenr artifacts, able to act on their own and follow the orders of its owners
+- **Master artizan:** The technique on their creation is nearly unmatched, on 8 in value, dwarf on this level have increased power on their written magic of x5 and are able to create semi-intelligent artifacts, able to act on their own and follow the orders of its owners, they can own one without
 -
 - **level 35:**
 - **One with the weapon:** Powerful dwarves must choose or make a weapon, armor or artifact that will be tied to their very soul, the chosen artifact have its abilities with a permanent x4 boost and won't take equipment slots. This artifact acts as an extension of the dwarf, they can sense through it and control it no matter the distance, This weapon can have 2 extra abilities.
