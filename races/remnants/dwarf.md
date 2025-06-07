@@ -14,7 +14,7 @@
 - **Unlockables:**
   
   **level 5:**
-- **Mana infusion:** the marks on their body absorb and infuse mana into their form, allowing them to blast mana into something they strike both offensively and for crafting purposes. This strike has a power equivalent to a c rank spell when used offensively and can be infused into crafts to improve their capabilities being the equivalent to a mana crystal. Even when no other valable material was used, but only when used the first time. Regardless of use 2 mana charges will always be consumed.
+- **Mana infusion:** the marks on their body absorb and infuse mana into their form, allowing them to blast mana into something they strike both offensively and for crafting purposes. This strike has a power equivalent to a c rank spell when used offensively and can be infused into crafts to improve their capabilities, being the equivalent to a mana crystal. Regardless of use 2 mana charges will always be consumed.
   
   **level 8:**
 - **Mineral sense:** Talented dwarves have the ability to sense minerals in the vicinity making it easier for them to find what they are looking for, being in the wild in a market, if the mineral is one they have worked on they can pinpoint their location within 300 meters. Otherwise they can just feel it in a general direction.
