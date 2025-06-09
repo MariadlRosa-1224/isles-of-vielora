@@ -113,7 +113,7 @@
 	- ## Relevant lore
 	  background-color:: gray
 	- ## Spoiler notes
-	  background-color:: purple
+	  background-color:: gray
 -
 - # Event name
   template:: Event
