@@ -34,6 +34,7 @@
 -
 - ## CharacterName
   template:: Character
+  collapsed:: true
 	- characters::
 	  Affiliation::
 	-
