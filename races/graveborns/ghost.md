@@ -15,6 +15,10 @@
   
   **level x:** 
   
+  
+  
+  **level x:**
+  
   **level x:**
   
   **level x:**
@@ -33,7 +37,7 @@
 -
 - **magic drain** When hit by magic attack their mana charges are drained in proportion of the mana cost of the attack rather than its power.
 -
-- **vulnerable soul**
+- **vulnerable soul** Without a body to protect their souls, they are more vul
 -
 - **History:**
   
