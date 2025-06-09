@@ -23,7 +23,7 @@
 - **Description:** 
   id:: 68465920-0da2-4d5c-923e-0b0d2addfc29
   
-  
+  They are a glowing echo of who they truly felt they were in life. Their shapes a a wispy, moving cloud of light, not quite solid, and within this ethereal form, all sorts of beautiful colors swirl and pulse,
   
   **weaknesses:**
 - **Mana dependant** If all the charges of a ghost are drained, it will fade.
