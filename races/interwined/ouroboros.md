@@ -46,24 +46,15 @@ Race:: [[Ethereals]], [[Daemons]], [[Interwined]]
 -
 -
 	- ```mermaid
-	  graph TD;
-	  A-->B;
-	  A-->C;
-	  B-->D;
-	  C-->D;
+	  graph LR;
+	  
+	  BASE[Ouroboros] --> W[Winged];
+	  W --> DA[Dark armor] & Ni[Nightmarish];
+	  Ni --> M[Mana drakes];
+	  DA --> DB[Draconic blood];
+	  M --> DS[Darkness spread] & DR[Darkness realm];
+	  DB --> DS[Darkness spread];
 	  ```
 -
-- ```
-  graph LR;
-  
-  BASE[Ouroboros] --> W[Winged];
-  W --> DA[Dark armor] & Ni[Nightmarish];
-  Ni --> M[Mana drakes];
-  DA --> DB[Draconic blood];
-  M --> DS[Darkness spread] & DR[Darkness realm];
-  DB --> DS[Darkness spread];
-  ```
-	- ```mermaid
-	  ```
 -
 - #Race/Daemons #Race/Ethereals #Race/Interwined
