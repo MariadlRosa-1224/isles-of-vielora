@@ -39,7 +39,7 @@
 	-
 	-
 	- ## Basic info
-	  background-color:: purple
+	  background-color:: gray
 		- **Nicknames:** nicknames
 		  
 		  **Age:** age
@@ -53,7 +53,7 @@
 		  **Job:** job
 		-
 	- ## Physical description (humanoid form)
-	  background-color:: purple
+	  background-color:: gray
 		- **Height:** height
 		  
 		  **Weight:** weight
@@ -69,7 +69,7 @@
 		  **Typical clothing:** clothing
 		-
 	- ## Personality
-	  background-color:: purple
+	  background-color:: gray
 		- **Description:**
 		  
 		  **Positive traits:** positive traits
@@ -83,7 +83,7 @@
 		  **Motivations:** motivations
 		-
 	- ## Talents
-	  background-color:: purple
+	  background-color:: gray
 		- **Danger level:**
 		-
 		- **Special conditions:**
@@ -95,7 +95,7 @@
 		  **Equipment:** equipment
 		-
 	- ## Connections
-	  background-color:: purple
+	  background-color:: gray
 		- **Family:** family
 		-
 		- **Friends:** friends
@@ -107,11 +107,11 @@
 		- **Origin town/kingdom:** town/kingdom
 		-
 	- ## Additional information
-	  background-color:: purple
+	  background-color:: gray
 	- ## Background
-	  background-color:: purple
+	  background-color:: gray
 	- ## Relevant lore
-	  background-color:: purple
+	  background-color:: gray
 	- ## Spoiler notes
 	  background-color:: purple
 -
