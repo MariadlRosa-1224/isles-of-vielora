@@ -62,7 +62,6 @@
 		  CLOCK: [2025-06-07 Sat 17:02:44]--[2025-06-07 Sat 17:03:18] =>  00:00:34
 		  :END:
 	- DOING [Graveborns]([[Race/Graveborns]])
-	  collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:55]
 	  :END:
