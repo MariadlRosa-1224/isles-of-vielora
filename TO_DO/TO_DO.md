@@ -21,7 +21,6 @@
 	- TODO [Folklore]([[Story/Setting/Folklore]])
 - ## Races
 	- DOING [Remnants]([[Race/Remnants]])
-	  collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:51]
 	  :END:
