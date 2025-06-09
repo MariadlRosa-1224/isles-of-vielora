@@ -31,7 +31,7 @@
   **weaknesses:**
 - **Mana dependant** If all the charges of a ghost are drained, it will fade.
 -
-- **magic drain** When hit by magic attack their mana charges are drained in proportion of the cost of the attack rather than its power.
+- **magic drain** When hit by magic attack their mana charges are drained in proportion of the mana cost of the attack rather than its power.
 -
 - **vulnerable soul**
 -
