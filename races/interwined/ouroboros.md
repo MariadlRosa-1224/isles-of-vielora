@@ -44,6 +44,13 @@ Race:: [[Ethereals]], [[Daemons]], [[Interwined]]
 - In results of experiments made on himself, his body was mutated, changing it physically and mentally. A hunger for mana rather
 -
 -
+	- ```mermaid
+	  graph TD;
+	  A-->B;
+	  A-->C;
+	  B-->D;
+	  C-->D;
+	  ```
 -
 - ::: mermaid
   graph LR;
