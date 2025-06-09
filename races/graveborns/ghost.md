@@ -26,7 +26,7 @@
 - **Description:** 
   id:: 68465920-0da2-4d5c-923e-0b0d2addfc29
   
-  They are a glowing echo of who they truly felt they were in life. Their shapes are a wispy, moving cloud of light, not quite solid, within this ethereal form, all sorts of colors swirl and pulse, changing to represent what the ghost is feeling at any moment
+  They are a glowing echo of who they truly felt they were in life. Their shapes are a wispy, moving cloud of light, not quite solid, within this ethereal form, all sorts of colors swirl and pulse, changing to represent what the ghost is feeling at any moment, their appearance tend to change in the course of their afterlife as p
   
   **weaknesses:**
 - **Mana dependant** If all the charges of a ghost are drained, it will fade.
