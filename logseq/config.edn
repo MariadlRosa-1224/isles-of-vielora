@@ -428,4 +428,5 @@
  :link-dist 140}
  :feature/enable-journals? false
  :default-home {:page "index"}
- :editor/logical-outdenting? true}
+ :editor/logical-outdenting? true
+ :ui/show-brackets? false}

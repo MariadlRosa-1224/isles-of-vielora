@@ -46,7 +46,7 @@
 
  ;; Display all lines of a block when referencing ((block)).
  ;; Default value: false
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
@@ -423,6 +423,10 @@
  :builtin-pages? false
  :excluded-pages? false
  :orphan-pages? false}
- :graph/forcesettings {:charge-range 3500
- :charge-strength 600
- :link-dist 180}}
+ :graph/forcesettings {:charge-range 4000
+ :charge-strength -1000
+ :link-dist 140}
+ :feature/enable-journals? false
+ :default-home {:page "index"}
+ :editor/logical-outdenting? true
+ :ui/show-brackets? false}
