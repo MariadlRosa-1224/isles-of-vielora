@@ -27,6 +27,8 @@
   
   **Spiritual link** Link themself to a person strengthening both of them but at the cost that the ghost now depends on that person.
   
+  **The haunting** 
+  
   **level x:**
   
   **High spirit**
