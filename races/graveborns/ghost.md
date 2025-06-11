@@ -29,7 +29,7 @@
   
   **level x:**
   
-  **Spiritual link** Link themself to a person strengthening both of them but at the cost that the ghost will share the wounds of the person they linked themselves to.
+  **Spiritual link** Link themself to a person strengthening both of them but at the cost that the ghost will share the wounds of the person they linked themselves to. If the target is willing it allows temporary possession.
   
   **The curse** Links themself to a person to haunt them and feed off them as a parasite.
   
