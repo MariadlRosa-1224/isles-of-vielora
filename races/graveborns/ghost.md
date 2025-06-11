@@ -25,6 +25,8 @@
   
   **level x:**
   
+  **The torment**
+  
   **level x:**
   
   **Spiritual link** Link themself to a person strengthening both of them but at the cost that the ghost now depends on that person.
