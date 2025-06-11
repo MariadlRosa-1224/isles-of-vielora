@@ -25,7 +25,7 @@
   
   **level x:**
   
-  **Spiritual link** Ability 
+  **Spiritual link** Link themself to a person strengthening both of them but 
   
   **level x:**
   
