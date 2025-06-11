@@ -25,7 +25,7 @@
   
   **level x:**
   
-  **The torment**
+  **The torment** An attack that targets the mind rather than the body, inflicting mental pain
   
   **level x:**
   
