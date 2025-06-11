@@ -19,7 +19,7 @@
   
   **Invisibility** They can make themselves invisible by no magical means, and magical means below b rank.
   
-  **Telekinesis** 
+  **Telekinesis** They can move objects around them 
   
   **level x:**
   
