@@ -25,9 +25,7 @@
   
   **level x:**
   
-  **The torment** An attack that targets the mind rather than the body, induce torture onto a target with illusions and thoughts from past, 
-  present and future. It may be induced to all degrees of intensity, from 
-  mild to unbearable to full-on physical suffering.
+  **The torment** An attack that targets the mind rather than the body, induce torture onto a target with illusions and thoughts from past, present and imaginated futures. It may be induced to all degrees of intensity, from mild to unbearable to the illussion physical suffering.
   
   **level x:**
   
