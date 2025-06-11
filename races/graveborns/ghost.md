@@ -23,6 +23,8 @@
   
   **Screech** A loud scream that can cause a lot of damage
   
+  
+  
   **level x:**
   
   **The torment** An attack that targets the mind rather than the body, induce torture onto a target with illusions and thoughts and emotions. It may be induced to all degrees of intensity, from mild to unbearable to the illusion physical suffering.
@@ -32,6 +34,10 @@
   **Spiritual link** Link themself to a person strengthening both of them but at the cost that the ghost will share the wounds of the person they linked themselves to. If the target is willing it allows temporary possession.
   
   **The curse** Links themself to a person to haunt them and feed off them as a parasite.
+  
+  **level x**
+  
+  **weapon of soul**
   
   **level x:**
   
