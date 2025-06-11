@@ -37,7 +37,7 @@
   
   **level x**
   
-  **weapon of soul** 
+  **Soul touch** More than just see the ghost is able to somewhat interact with
   
   **level x:**
   
