@@ -37,7 +37,7 @@
   
   **level x**
   
-  **Soul touch** More than just see the ghost is able to somewhat interact with
+  **Soul touch** More than just see the ghost is able to somewhat interact with them
   
   **level x:**
   
