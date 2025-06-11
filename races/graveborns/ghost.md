@@ -17,6 +17,8 @@
   
   **Electric disruption**
   
+  **Invisibility**
+  
   **level x:**
   
   **level x:**
