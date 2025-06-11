@@ -15,9 +15,11 @@
   
   **level x:** 
   
-  **Electric disruption** They can cause malfuntioning in nearby machinery
+  **Electric disruption** They can cause malfunctioning in nearby machinery.
   
   **Invisibility** They can make themselves invisible by no magical means, and magical means below b rank.
+  
+  **Telekinesis** 
   
   **level x:**
   
