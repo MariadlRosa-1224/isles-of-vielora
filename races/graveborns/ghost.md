@@ -37,11 +37,11 @@
   
   **level x**
   
-  **weapon of soul**
+  **weapon of soul** 
   
   **level x:**
   
-  **High spirit**
+  **High spirit** makes the ghost more powerful, strengthening their very soul.
 -
 - **Description:** 
   id:: 68465920-0da2-4d5c-923e-0b0d2addfc29
