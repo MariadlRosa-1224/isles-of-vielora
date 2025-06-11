@@ -31,7 +31,7 @@
 	- (mdef) How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
 	- (mren) mana regeneration (level): How fast can mana regenerate.
 - ### Smithing stats
-	- (t)
+	- (tech) Technique (level): Increases the amount of materials you can add into a single equipment
 - ### Extra stats
   
   Now the stats mentioned above are the main ones, true, but that doesn’t mean they are the only ones. If you want your oc to excel at something that doesn’t fall in neither of this stats, you may create a stat for that in your bio.
