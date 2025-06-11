@@ -25,7 +25,7 @@
   
   **level x:**
   
-  **Spiritual link**
+  **Spiritual link** Ability 
   
   **level x:**
   
