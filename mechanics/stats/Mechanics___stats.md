@@ -15,22 +15,23 @@
   Example: an oc who has x2 strength, is twice as strong as the **average** human would be.
 - ## Categories of stats
   
-  Stats are divided in three categories physical, mental and magic
+  Stats are divided in categories physical, mental, magic and smithing
 - ### physical stats
-- (str) strength (multiplier): Physical strength
-- (spd) [[Speed]] (multiplier): speed and agility
-- (dur) Durability(multiplier): How much physical damage can someone handle.
+	- (str) strength (multiplier): Physical strength
+	- (spd) [[Speed]] (multiplier): speed and agility
+	- (dur) Durability(multiplier): How much physical damage can someone handle.
 - ### mental stats *More info in: [mental_stats](./mental-stats.md)*
-- (sens) senses (multiplier): Can either cover only one or all five senses
-- (rspd) reaction speed (multiplier): how fast can you react
-- (menDef) How much can you character can tank magical damage, (this doesn't allow you to ignore damage.)
-- (menStr)  mental strength (multiplier): Improve all magic related to mind. Doesn't stack with magic
+	- (sens) senses (multiplier): Can either cover only one or all five senses
+	- (rspd) reaction speed (multiplier): how fast can you react
+	- (menDef) How much can you character can tank magical damage, (this doesn't allow you to ignore damage.)
+	- (menStr)  mental strength (multiplier): Improve all magic related to mind. Doesn't stack with magic
 - ### magic stats *More info in: [magic_stats](./magic-stats.md)*
-- (mout) magic output (multiplier): It makes spells and runes x times stronger
-- (char) mana charges (level): Limits how much you can use magic in an amount of time
-- (mdef) How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
-- (mren) mana regeneration (level): How fast can mana regenerate.
--
+	- (mout) magic output (multiplier): It makes spells and runes x times stronger
+	- (char) mana charges (level): Limits how much you can use magic in an amount of time
+	- (mdef) How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
+	- (mren) mana regeneration (level): How fast can mana regenerate.
+- ### Smithing stats
+	- (t)
 - ### Extra stats
   
   Now the stats mentioned above are the main ones, true, but that doesn’t mean they are the only ones. If you want your oc to excel at something that doesn’t fall in neither of this stats, you may create a stat for that in your bio.
