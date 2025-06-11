@@ -30,6 +30,7 @@
 - (char) mana charges (level): Limits how much you can use magic in an amount of time
 - (mdef) How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
 - (mren) mana regeneration (level): How fast can mana regenerate.
+-
 - ### Extra stats
   
   Now the stats mentioned above are the main ones, true, but that doesn’t mean they are the only ones. If you want your oc to excel at something that doesn’t fall in neither of this stats, you may create a stat for that in your bio.
@@ -40,7 +41,7 @@
   
   Calculating level stats is easy is simply adding 1 to the stat per each boost no matter what.
   
-  *Example:* An oc who starts with 10 mana charges and have a level 5 in mana charges will have 15 mana charges.
+  *Example:* An oc who starts with 10 mana charges and have a x5 in mana charges will have 15 mana charges. no matter what
 - ### Multiplier stats
   
   Multiplier stats on the other hand, use a formula to calculate the multiplier.
