@@ -27,7 +27,7 @@
   
   **Spiritual link** Link themself to a person strengthening both of them but at the cost that the ghost now depends on that person.
   
-  **The haunting** Links themself to a person to haunt them and feed of the them as a parasite.
+  **The haunting** Links themself to a person to haunt them and feed off them as a parasite.
   
   **level x:**
   
