@@ -25,11 +25,15 @@
   
   **Screech** A loud scream that can cause a lot of damage
   
+  **ab2**
   
+  **ab3**
   
   **level x:**
   
   **The torment** An attack that targets the mind rather than the body, induce torture onto a target with illusions and thoughts and emotions. It may be induced to all degrees of intensity, from mild to unbearable to the illusion physical suffering.
+  
+  **The mischief**
   
   **level x:**
   
@@ -51,7 +55,7 @@
   They are a glowing echo of who they truly felt they were in life. Their shapes are a wispy, moving cloud of light, not quite solid, within this ethereal form, all sorts of colors swirl and pulse, changing to represent what the ghost is feeling at any moment, their appearance tend to change in the course of their afterlife as their perception changes.
   
   **weaknesses:**
-- **Mana dependant** If all the charges of a ghost are drained, it will fade.
+- **Mana dependant** If all the mana charges of a ghost are drained, it will fade.
 -
 - **magic drain** When hit by magic attack their mana charges are drained in proportion of the mana cost of the attack rather than its power. When hit with a magic attack, even one that doesn't cost mana and therefore can’t do actual damage, they can feel it as if it did.
 -
