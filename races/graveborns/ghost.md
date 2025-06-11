@@ -17,7 +17,7 @@
   
   **Electric disruption**
   
-  **Invisibility** They can make themse
+  **Invisibility** They can make themselves invisible by no magical means, and magical means below b rank.
   
   **level x:**
   
