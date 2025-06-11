@@ -25,6 +25,8 @@
   
   **level x:**
   
+  **Spiritual link**
+  
   **level x:**
   
   **High spirit**
