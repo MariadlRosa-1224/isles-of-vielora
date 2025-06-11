@@ -35,11 +35,15 @@
   
   **The mischief**
   
+  **The protector**
+  
   **level x:**
   
-  **Spiritual link** Link themself to a person strengthening both of them but at the cost that the ghost will share the wounds of the person they linked themselves to. If the target is willing it allows temporary possession.
+  **Spiritual link (Requires the protector)** Link themself to a person strengthening both of them but at the cost that the ghost will share the wounds of the person they linked themselves to. If the target is willing it allows temporary possession.
   
-  **The curse** Links themself to a person to haunt them and feed off them as a parasite.
+  **The curse (Requires the torment)** Links themself to a person to haunt them and feed off them as a parasite.
+  
+  **Free spirit (Re)**
   
   **level x**
   
