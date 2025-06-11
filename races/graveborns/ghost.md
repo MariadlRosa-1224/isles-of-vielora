@@ -15,7 +15,7 @@
   
   **level x:** 
   
-  **Electric disrup**
+  **Electric disruption**
   
   **level x:**
   
