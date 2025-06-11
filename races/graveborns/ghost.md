@@ -43,7 +43,7 @@
   
   **The curse (Requires the torment)** Links themself to a person to haunt them and feed off them as a parasite.
   
-  **Free spirit (Re)**
+  **Free spirit (Requires the mischief)**
   
   **level x**
   
