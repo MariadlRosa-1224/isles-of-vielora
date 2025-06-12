@@ -6,4 +6,4 @@ index:: Mechanics
 -
 - ## Technique
 -
-- The technique is another [stat]([[Mechanics/stats]]) an oc can upgrade, one that allows for the increment of both
+- The technique is another [stat]([[Mechanics/stats]]) an oc can upgrade, one that allows for the increment of both the abilities one can have in the equipment they create and
