@@ -6,6 +6,9 @@ index:: Mechanics
 -
 - ## Equipment
   background-color:: gray
+	- ### Limits
+		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
+		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment,
 	- ### Template
 		- Equipment name:
 		  Equipment tier: (based on smithing level)
@@ -14,9 +17,6 @@ index:: Mechanics
 		  History: (backstory of equipment)
 		  Abilities:
 		-
-	- ### Limits
-		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
-		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment,
 	-
 -
 - ## Technique
@@ -40,4 +40,6 @@ index:: Mechanics
 			- Ability: Allows time magic
 			-
 		- The power list the power of the material in a especific magic type, the ability list special properties of the material, not all material will have abilities.
+		-
+		- When you explore
 		-
