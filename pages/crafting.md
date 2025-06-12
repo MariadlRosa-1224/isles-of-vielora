@@ -6,4 +6,4 @@ index:: Mechanics
 -
 - ## Technique
 -
-- The technique is another stat an oc
+- The technique is another [stat]([[Mechanics/stats]]) an oc can upgrade
