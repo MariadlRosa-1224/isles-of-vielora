@@ -6,8 +6,6 @@ index:: Mechanics
 -
 - ## Equipment
   background-color:: gray
-	- ### Limits
-		-
 	- ### Template
 		- Equipment name:
 		  Equipment tier: (based on smithing level)
@@ -15,6 +13,9 @@ index:: Mechanics
 		  Materials: (list all materials and their stats/properties)
 		  History: (backstory of equipment)
 		  Abilities:
+		-
+	- ### Limits
+		- Everyone is allowed to make equipment, but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max. For more you need to either get a
 		-
 	-
 -
