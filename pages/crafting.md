@@ -41,5 +41,5 @@ index:: Mechanics
 			-
 		- The power list the power of the material in a especific magic type, the ability list special properties of the material, not all material will have abilities.
 		-
-		- When you explore
+		- When you explore and get material you will get
 		-
