@@ -7,4 +7,13 @@ index:: Mechanics
 - ## Technique
 	- The technique is another [stat]([[Mechanics/stats]]) an oc can upgrade, one that allows for the increment of both the abilities and the materials one can use for their equipment and by such making them more powerful
 	  
-	  this stat is a level one (completely additive) and max out at 50 for the max amount of materials and abilities
+	  this stat is a level one (completely additive) and max out at 50 for the max amount of materials and abilities.
+	  
+	  4: +1 ability,  (tier 1)
+	  10 +1 ability, +1 material (tier 2)
+	  22 +1 ability, +3 materials (tier 3)
+	  36 +1 ability, +4 materials (tier 4)
+	  50 +1 ability, +4 materials (tier 5)
+-
+-
+-
