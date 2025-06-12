@@ -35,5 +35,6 @@ index:: Mechanics
 		- **Craftabilily:**
 			- Power: (+2  illusion magic)
 			- Ability: Allows time magic
-		- The power list the power of the material in a especific magic type, the ability list sp
+			-
+		- The power list the power of the material in a especific magic type, the ability list special properties of the material, no.
 		-
