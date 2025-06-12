@@ -5,7 +5,6 @@ index:: Mechanics
   id:: 684a4e13-5a30-42f4-9e97-d242dc400322
 -
 - ## Equipment
-	- This is the template for summiting equipment
 -
 	- Equipment name:
 	  Equipment tier: (based on smithing level)
@@ -15,13 +14,15 @@ index:: Mechanics
 	  Abilities:
 	-
 		- Everyone is
-- ## Technique
-	- The
 -
+- ## Technique
+	- Technique is another stat one can up
 	- 4: +1 ability,  (tier 1)
 	  10 +1 ability, +1 material (tier 2)
 	  22 +1 ability, +3 materials (tier 3)
 	  36 +1 ability, +4 materials (tier 4)
 	  50 +1 ability, +4 materials (tier 5)
+-
 - ## Material
 	- Technique can only do much if you use basic materials
+- The
