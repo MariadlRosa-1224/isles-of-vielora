@@ -39,7 +39,7 @@
 	-
 	-
 	- ## Basic info
-	  background-color:: purple
+	  background-color:: gray
 		- **Nicknames:** nicknames
 		  
 		  **Age:** age
