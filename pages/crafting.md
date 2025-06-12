@@ -16,7 +16,7 @@ index:: Mechanics
 		-
 	- ### Limits
 		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
-		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment, still don't try to use 15 swords at the same time.
+		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment, still don't try to use 15 swords at the same time unless you have 15 arms.
 	-
 -
 - ## Technique
