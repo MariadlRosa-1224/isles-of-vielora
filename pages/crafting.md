@@ -23,4 +23,5 @@ index:: Mechanics
 -
 - ## Material
 	- Technique can only do much if you use basic materials, better materials increases the power of your equipment and some may grants it the ability to do something otherwise impossible.
-	- query-properties:: [:block :page]
+	- Each material has a craftability section that list its power and uses in crafting
+	  query-properties:: [:block :page]
