@@ -6,12 +6,14 @@ index:: Mechanics
 -
 - ## Equipment
   background-color:: gray
-	- Equipment name:
-	  Equipment tier: (based on smithing level)
-	  Information: (looks/info on it)
-	  Materials: (list all materials and their stats/properties)
-	  History: (backstory of equipment)
-	  Abilities:
+	- ### Template
+		- Equipment name:
+		  Equipment tier: (based on smithing level)
+		  Information: (looks/info on it)
+		  Materials: (list all materials and their stats/properties)
+		  History: (backstory of equipment)
+		  Abilities:
+	-
 	- Everyone is allowed to make equipment, but without the technique to do it you are only allowed to make equipment with one ability and 3 materials.
 -
 - ## Technique
@@ -26,6 +28,9 @@ index:: Mechanics
 - ## Material
   background-color:: gray
 	- Technique can only do much if you use basic materials, better materials increases the power of your equipment and some may grants it the ability to do something otherwise impossible.
-	- Each material has a craftability section that list its power and uses in crafting
-	  query-properties:: [:block :page]
+	- Each material has a craftability section that list its power and uses in crafting:
 	  id:: 684a7c28-e11a-4a96-b905-af1d1cfa9ee2
+	  query-properties:: [:block :page]
+		-
+		- **Craftabilily:**
+			- Power: (+2  illusion magic)
