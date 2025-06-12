@@ -34,3 +34,6 @@ index:: Mechanics
 		-
 		- **Craftabilily:**
 			- Power: (+2  illusion magic)
+			- Ability:
+		- The
+		-
