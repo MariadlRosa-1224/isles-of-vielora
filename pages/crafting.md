@@ -6,6 +6,8 @@ index:: Mechanics
 -
 - ## Equipment
   background-color:: gray
+	- ### Limits
+		-
 	- ### Template
 		- Equipment name:
 		  Equipment tier: (based on smithing level)
@@ -13,8 +15,8 @@ index:: Mechanics
 		  Materials: (list all materials and their stats/properties)
 		  History: (backstory of equipment)
 		  Abilities:
+		-
 	-
-	- Everyone is allowed to make equipment, but without the technique to do it you are only allowed to make equipment with one ability and 3 materials.
 -
 - ## Technique
   background-color:: gray
@@ -36,5 +38,5 @@ index:: Mechanics
 			- Power: (+2  illusion magic)
 			- Ability: Allows time magic
 			-
-		- The power list the power of the material in a especific magic type, the ability list special properties of the material, no.
+		- The power list the power of the material in a especific magic type, the ability list special properties of the material, not all material will have abilities.
 		-
