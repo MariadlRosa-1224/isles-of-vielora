@@ -15,7 +15,7 @@ index:: Mechanics
 		  Abilities:
 		-
 	- ### Limits
-		- Everyone is allowed to make equipment, but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max. For more you need to either get a
+		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
 		-
 	-
 -
