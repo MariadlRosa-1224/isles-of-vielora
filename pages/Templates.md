@@ -34,13 +34,12 @@
 -
 - ## CharacterName
   template:: Character
-  collapsed:: true
 	- characters::
 	  Affiliation::
 	-
 	-
 	- ## Basic info
-	  background-color:: gray
+	  background-color:: purple
 		- **Nicknames:** nicknames
 		  
 		  **Age:** age
