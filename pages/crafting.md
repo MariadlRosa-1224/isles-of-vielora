@@ -5,7 +5,7 @@ index:: Mechanics
   id:: 684a4e13-5a30-42f4-9e97-d242dc400322
 -
 - ## Equipment
--
+	- This is the template for s
 - ## Technique
 	- The technique is another [stat]([[Mechanics/stats]]) an oc can upgrade, one that allows for the increment of both the abilities and the materials one can use for their equipment and by such making them more powerful
 	  
