@@ -11,16 +11,16 @@ index:: Mechanics
 	  Materials: (list all materials and their stats/properties)
 	  History: (backstory of equipment)
 	  Abilities:
-	- Everyone is allowed to make the
+	- Everyone is allowed to make equipment,
 -
 - ## Technique
-	- Technique is another stat one can upgrade and list your experience making equipment, it allows someone
+	- Technique is another [stat]([[Mechanics/stats]]) one can upgrade and list your experience making equipment, it allows someone to use more materials and add more abilities to a single piece, a level stat that max out at 15.
 	- 4: +1 ability,  (tier 1)
 	  10 +1 ability, +1 material (tier 2)
 	  22 +1 ability, +3 materials (tier 3)
 	  36 +1 ability, +4 materials (tier 4)
 	  50 +1 ability, +4 materials (tier 5)
 -
-- The
 - ## Material
 	- Technique can only do much if you use basic materials
+- The
