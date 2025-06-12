@@ -22,4 +22,4 @@ index:: Mechanics
 	  50 +1 ability, +4 materials (tier 5)
 -
 - ## Material
-	- Technique can only do much if you use basic materials, better materials increases the power o your
+	- Technique can only do much if you use basic materials, better materials increases the power of your equipment and some may grants it the ability to do something otherwise impossible
