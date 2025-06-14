@@ -1,4 +1,4 @@
-- When you have very high speed stat, x20 or higher imagine stuff become trickier. So here is a ruleset on how to compare speed stats.
+- When you have very high speed stat, x50 or higher imagine stuff become trickier. So here is a ruleset on how to compare speed stats.
 - Speed and reaction due to their ability to easily win fights are balanced differently for fairness,
 - In a battle if your speed, reaction, or both are higher than your opponent you get a certain amount of advantage based on the percent difference between those stats
 - 0-5% (negligible advantage)

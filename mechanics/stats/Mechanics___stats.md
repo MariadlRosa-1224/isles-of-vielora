@@ -32,7 +32,7 @@
 		- **(mout) magic output (multiplier):** It makes spells and runes x times stronger
 		- **(char) mana charges (additive):** Limits how much you can use magic in an amount of time
 		- **(mdef) magic defense (multiplier):** How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
-		- **(mren) mana regeneration (additive):** How much mana can be regenerated.
+		- **(mren) mana regeneration (additive):** How much mana can be regenerated per turn.
 	- ### creative stats
 	  background-color:: green
 		- **(Tech) Technique (Additive):** Increases technique in equipment, the amount of materials and abilities you can add into a single equipment.
