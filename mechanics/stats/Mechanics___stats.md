@@ -63,8 +63,8 @@
 		  **Equipments/familiar** = Boost brought by an equipment or a familiar
 		  
 		  **Temporary** any other form of temporal boosting (potions, active abilities,  allies, spells, etc)
-		  
-		  *Example:*
+		-
+		- *Example:*
 		  
 		  Imagine we have Ghost. She is a remain a race of normal size
 		  Size = 1
