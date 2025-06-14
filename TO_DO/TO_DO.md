@@ -23,6 +23,9 @@
 	- TODO [[Website]]
 	- TODO [Discord bot]([[Server/bot]])
 	- TODO [[Server moderation]]
+		- TODO [[GM]]
+		- TODO [[Bio]]
+		- TODO
 	-
 - ## World book
   collapsed:: true
