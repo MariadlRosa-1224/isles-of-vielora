@@ -2,7 +2,7 @@ Monster_name::  Being of chaos
 
 - Aspect:: nature unknown
 - Temperament:: untamable
-- Danger_level:: N/A
+- Danger_levels:: N/A
 - **Strength:** N/A
   **Speed:** N/A
   **Durability:** N/A

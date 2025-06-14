@@ -1,4 +1,4 @@
-# Danger levels
+- # Danger levels
 - ## Standar Tier List
   
   > **Notes**
@@ -24,6 +24,7 @@
 	  
 	  Equivalent to a human with training, such as athletes or animals that are dangerous in most circumstances, such as bears, lions, wolves, etc. Without major magical traits that make them more dangerous than that.
 - ### C
+  collapsed:: true
 	- > Is not advised for the average civilian to deal with them alone. But encountering one in the wild isn't considered dangerous if they are left unbothered.
 	- #### *4*
 	  
@@ -35,6 +36,7 @@
 	  
 	  Can destroy small buildings such as houses with relative ease with either their physical or magical capabilities. Their capabilities greatly surpass those of humans.
 - ### B
+  collapsed:: true
 	- > Trained individuals are to even try to deal with one of the creatures of this category. Avoiding them is greatly suggested and there is no guarantee to survive an encounter with them.
 	- #### *7*
 	  
