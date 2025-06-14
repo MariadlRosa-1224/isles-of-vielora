@@ -2,9 +2,11 @@
   title:: TO_DO
 - #index
 - ## Server
-  collapsed:: true
 	- TODO Map
 	- TODO [[Mechanics]]
+		- DONE [[crafting]]
+		- TODO [stats]([[Mechanics/stats]])
+		-
 	- TODO [[Website]]
 	- TODO [Discord bot]([[Server/bot]])
 	- TODO [[Server moderation]]
