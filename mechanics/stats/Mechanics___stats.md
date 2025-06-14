@@ -18,40 +18,34 @@
   Stats are divided in categories physical, mental, magic and smithing
 	- ### physical stats
 	  background-color:: green
-	  collapsed:: true
 		- (str) strength (multiplier): Physical strength
 		- (spd) [[Speed]] (multiplier): speed and agility
 		- (dur) Durability(multiplier): How much physical damage can someone handle.
 	- ### mental stats *More info in: [mental_stats](./mental-stats.md)*
 	  background-color:: green
-	  collapsed:: true
 		- (sens) senses (multiplier): Can either cover only one or all five senses
 		- (rspd) reaction speed (multiplier): how fast can you react
 		- (menDef) How much can you character can tank magical damage, (this doesn't allow you to ignore damage.)
 		- (menStr)  mental strength (multiplier): Improve all magic related to mind. Doesn't stack with magic
 	- ### magic stats *More info in: [magic_stats](./magic-stats.md)*
 	  background-color:: green
-	  collapsed:: true
 		- (mout) magic output (multiplier): It makes spells and runes x times stronger
 		- (char) mana charges (level): Limits how much you can use magic in an amount of time
 		- (mdef) How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
 		- (mren) mana regeneration (level): How fast can mana regenerate.
 	- ### Smithing stats
 	  background-color:: green
-	  collapsed:: true
 		- (tech) Technique (level): Increases the amount of materials you can add into a single equipment
 		-
 - ## Stats calculation
   background-color:: gray
 	- ### Level stats
 	  background-color:: green
-	  collapsed:: true
 		- Calculating level stats is easy is simply adding 1 to the stat per each boost no matter what.
 		  
 		  *Example:* An oc who starts with 10 mana charges and have a x5 in mana charges will have 15 mana charges. no matter what
 	- ### Multiplier stats
 	  background-color:: green
-	  collapsed:: true
 		- Multiplier stats on the other hand, use a formula to calculate the multiplier.
 		  
 		  **Stat = (Size) X (Level X Passive+Racial+Boon) X (Equipment/familiar+Temporary)**
