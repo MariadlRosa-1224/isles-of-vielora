@@ -73,7 +73,7 @@
 		  Her racial ability Own talent give her x2 in speed.
 		  Racial = 2
 		  
-		  She has trained and her level is 2, granting them another x2 in speed.
+		  She has trained and has a, granting them another x2 in speed.
 		  Level = 2
 		  
 		  Her passive ability grants her a x3 in speed
