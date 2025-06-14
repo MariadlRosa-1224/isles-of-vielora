@@ -2,10 +2,20 @@
   title:: TO_DO
 - #index
 - ## Server
-	- TODO Map
-	- TODO [[Mechanics]]
+	- DOING Map
+	  :LOGBOOK:
+	  CLOCK: [2025-06-13 Fri 21:41:54]
+	  :END:
+		- TODO Ruins/
+	- DOING [[Mechanics]]
+	  :LOGBOOK:
+	  CLOCK: [2025-06-13 Fri 21:41:54]
+	  :END:
 		- DONE [[crafting]]
-		- TODO [stats]([[Mechanics/stats]])
+		- DOING [stats]([[Mechanics/stats]])
+		  :LOGBOOK:
+		  CLOCK: [2025-06-13 Fri 21:41:37]
+		  :END:
 		- TODO [[Progression]]
 		-
 	- TODO [[Website]]
