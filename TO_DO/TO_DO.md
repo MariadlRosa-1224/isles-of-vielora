@@ -6,6 +6,7 @@
 	- TODO [[Mechanics]]
 		- DONE [[crafting]]
 		- TODO [stats]([[Mechanics/stats]])
+		- TODO [[Progression]]
 		-
 	- TODO [[Website]]
 	- TODO [Discord bot]([[Server/bot]])
