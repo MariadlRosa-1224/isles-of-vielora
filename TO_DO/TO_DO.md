@@ -8,7 +8,8 @@
 	  :END:
 		- DONE Ruins/northen Frozen
 		- TODO The tundra (Justice)
-		- TODO
+		- TODO The dessert (Will)
+		- TODO The forest
 	- DOING [[Mechanics]]
 	  :LOGBOOK:
 	  CLOCK: [2025-06-13 Fri 21:41:54]
