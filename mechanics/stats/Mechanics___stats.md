@@ -35,7 +35,8 @@
 		- (mren) mana regeneration (additive): How fast can mana regenerate.
 	- ### creative stats
 	  background-color:: green
-		- (craft) Crafting (additive): Increases technique in equipment amount of materials and abilities you can add into a single equipment
+		- **(craft) Crafting (Additive):** Increases technique in equipment, the amount of materials and abilities you can add into a single equipment.
+		- (alch) Alchemy (Additive): Increases
 		-
 - ## Stats calculation
   background-color:: gray
