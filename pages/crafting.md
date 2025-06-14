@@ -31,6 +31,7 @@ Mechanics:: Oc
 -
 - ## Material
   background-color:: gray
+  collapsed:: true
 	- Technique can only do much if you use basic materials, better materials increases the power of your equipment and some may grants it the ability to do something otherwise impossible.
 	- Each material has a craftability section that list its power and uses in crafting:
 	  id:: 684a7c28-e11a-4a96-b905-af1d1cfa9ee2
@@ -42,3 +43,5 @@ Mechanics:: Oc
 			-
 		- The power list the power of the material in a especific magic type, the ability list special properties of the material, not all materials will have abilities.
 		-
+-
+- #Mechanics/Oc
