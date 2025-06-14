@@ -73,7 +73,7 @@
 		  Her racial ability Own talent give her x2 in speed.
 		  Racial = 2
 		  
-		  She has trained and has a, granting them another x2 in speed.
+		  She has trained and has added 2 level points in speed, granting them another x2 in speed.
 		  Level = 2
 		  
 		  Her passive ability grants her a x3 in speed
@@ -86,7 +86,7 @@
 		  
 		  At the end we have this.
 		  
-		  (1)x(2x2+3+0) = 15 Ghost have x15 speed compared to a human.
+		  (1)x(2x2+3+0) = 7 Ghost have x7 speed compared to a human.
 	-
 -
 -
