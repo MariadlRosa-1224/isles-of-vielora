@@ -25,7 +25,8 @@
 	- TODO [[Server moderation]]
 		- TODO [[GM]]
 		- TODO [[Bio]]
-		- TODO
+		- TODO [[Roleplay moderation]]
+		- TODO [[Staff]]
 	-
 - ## World book
   collapsed:: true
@@ -54,7 +55,6 @@
 		- TODO [[living-toy]]
 		- TODO [[automata]]
 	- DOING [Ethereals]([[Race/Ethereals]])
-	  collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:50]
 	  :END:
@@ -65,7 +65,6 @@
 		- TODO [[star-whisper]]
 		- TODO [[phoenix]]
 	- DOING [Daemons]([[Race/Daemons]])
-	  collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:54]
 	  :END:
