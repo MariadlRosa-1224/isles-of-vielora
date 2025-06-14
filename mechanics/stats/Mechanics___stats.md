@@ -15,7 +15,7 @@
 - ## Categories of stats
   background-color:: gray
   
-  Stats are divided in categories physical, mental, magic and smithing
+  Stats are divided in categories physical, mental, magic and creative.
 	- ### physical stats
 	  background-color:: green
 		- (str) strength (multiplier): Physical strength
@@ -33,9 +33,9 @@
 		- (char) mana charges (additive): Limits how much you can use magic in an amount of time
 		- (mdef) magic defense (multiplier): How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
 		- (mren) mana regeneration (additive): How fast can mana regenerate.
-	- ###  stats
+	- ### creative stats
 	  background-color:: green
-		- (tech) Technique (additive): Increases the amount of materials you can add into a single equipment
+		- (craft) Crafting (additive): Increases technique in equipment amount of materials and abilities you can add into a single equipment
 		-
 - ## Stats calculation
   background-color:: gray
