@@ -40,7 +40,7 @@
 		-
 - ## Stats calculation
   background-color:: gray
-	- ### Level stats
+	- ### Additive stats
 	  background-color:: green
 		- Calculating level stats is easy is simply adding 1 to the stat per each boost no matter what.
 		  
