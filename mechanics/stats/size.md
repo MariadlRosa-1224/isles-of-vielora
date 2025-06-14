@@ -17,4 +17,5 @@
   
   Titan: 762 cm - 2286 cm (25 ft - 75 ft)
   5× physical, 0.25× magic
+-
 - #stats
