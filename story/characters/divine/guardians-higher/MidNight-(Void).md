@@ -23,11 +23,11 @@
 		-
 	- ## Physical description (humanoid form)
 	  background-color:: gray
-		- **Height:** height
+		- **Height:** 3 meters
 		  
 		  **Weight:** weight
 		  
-		  **Eye color:** eye color
+		  **Eye color:** white, one shattered
 		  
 		  **Hair:** hair
 		  
