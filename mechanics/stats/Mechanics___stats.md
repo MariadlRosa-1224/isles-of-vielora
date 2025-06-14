@@ -25,18 +25,18 @@
 	  background-color:: green
 		- (sens) senses (multiplier): Can either cover only one or all five senses
 		- (rspd) reaction speed (multiplier): how fast can you react
-		- (menDef) mental defense (multiplier): How much can you character can tank mental damage, (this doesn't allow you to ignore damage.)
-		- (menStr)  mental strength (multiplier): Improve all magic related to mind. Doesn't stack with magic
+		- ![image.png](../../assets/image_1749870813777_0.png) (menDef) mental defense (multiplier): How much can you character can tank mental damage, (this doesn't allow you to ignore damage.)
+		- **(menStr)  mental strength (multiplier):** Improve all magic related to mind. Doesn't stack with magic
 	- ### magic stats *More info in: [magic_stats](./magic-stats.md)*
 	  background-color:: green
-		- (mout) magic output (multiplier): It makes spells and runes x times stronger
-		- (char) mana charges (additive): Limits how much you can use magic in an amount of time
-		- (mdef) magic defense (multiplier): How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
-		- (mren) mana regeneration (additive): How fast can mana regenerate.
+		- **(mout) magic output (multiplier):** It makes spells and runes x times stronger
+		- **(char) mana charges (additive):** Limits how much you can use magic in an amount of time
+		- **(mdef) magic defense (multiplier):** How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
+		- **(mren) mana regeneration (additive):** How fast can mana regenerate.
 	- ### creative stats
 	  background-color:: green
-		- **(craft) Crafting (Additive):** Increases technique in equipment, the amount of materials and abilities you can add into a single equipment.
-		- (alch) Alchemy (Additive): Increases
+		- **(Tech) Technique (Additive):** Increases technique in equipment, the amount of materials and abilities you can add into a single equipment.
+		- **(alch) Alchemy (Additive):** Increases the power of potions
 		-
 - ## Stats calculation
   background-color:: gray
