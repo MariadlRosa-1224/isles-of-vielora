@@ -1,5 +1,5 @@
 - # stats
-  title:: Mechanics/stats
+  title:: Mechanics/Oc/stats
 - index:: [[Mechanics]]
 - Stats dictates how can an oc perform in certain aspects.
 - ## Types of stats

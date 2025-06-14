@@ -13,5 +13,5 @@
 - In general speed and reaction are treated more abstract in battles compared to other stats, so please try to take this into account whenever battling, having advantage doesn't mean your unhittable even if on the higher side and you can't always outreact others unless the stat difference is immense.
 - speed advantage is also treated far more vague when numbers are low for example when starting a 1x speed and reaction oc fighting a 2x speed and reaction will be threated as it would be in real life, this till the x100
 -
-- tags:: stats
+- #Mechanics/Oc/stats
 -
