@@ -1,7 +1,7 @@
 -
 - Characters:: Divine
   affiliation:: Guardian
-- Once you Fight the leader of the Cult of the Eye of Wisdom, she will trap a few OCs inside her collar. Her necklace is not normal. There's a pocket dimension inside of it. And In the pocket dimension is where Midnight is inprisoned.
+- Once you Fight the leader of the Cult of the Eye of Wisdom, she will trap a few OCs inside her collar. Her necklace is not normal. There's a pocket dimension inside of it. And In the pocket dimension is where Midnight is imprisoned.
 -
 - Midnight is the missing half of order. The personification of the void and the nothingness. She looks and is a shadow. A shadow whose only features is her silhouette and her white eyes. One white, the other issimilar to Nisha's shattered. A clue of their connection.
 -
