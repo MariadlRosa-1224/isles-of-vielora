@@ -1,4 +1,5 @@
 index:: Mechanics
+Mechanics
 
 - # Danger levels
 - ## Standar Tier List
@@ -136,4 +137,4 @@ index:: Mechanics
 		  
 		  *God.*
 -
-- tags:: World_Book/general_information
+- tags:: World_Book/general_information #world
