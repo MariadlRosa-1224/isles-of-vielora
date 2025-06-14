@@ -1,5 +1,5 @@
-# Mental stats
-- Mechanics:: [[Mechanics/stats]]
+- # Mental stats
+- Mechanics:: [[stats]]
 - There are 4 main mental stats
 - Senses
 - Reaction speed
@@ -14,4 +14,4 @@
   
   How this work in practice is that we humans spent time just processing something happened and then react to it and if something is too fast, we may not be able to see it and act in time.
 -
-- #Mechanics/stats
+- #stats

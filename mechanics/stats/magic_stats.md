@@ -1,4 +1,4 @@
-# Magic stats
-- Mechanics:: [[Mechanics/stats]]
+- # Magic stats
+- Mechanics:: [[stats]]
 -
-- #Mechanics/stats
+- #stats

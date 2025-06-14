@@ -1,5 +1,5 @@
-# Size
-- Mechanics:: [[Mechanics/stats]]
+- # Size
+- Mechanics:: [[stats]]
 - Tiny: 8 cm - 30 cm (3 in - 11 in)
   0.25× physical, 3× magic
   
@@ -17,4 +17,4 @@
   
   Titan: 762 cm - 2286 cm (25 ft - 75 ft)
   5× physical, 0.25× magic
-- #Mechanics/stats
+- #stats
