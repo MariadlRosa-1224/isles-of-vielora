@@ -170,11 +170,13 @@
 		- TODO [Core island]([[Core island]])
 		-
 	- TODO Second Arc
+	  collapsed:: true
 		- TODO The whisper
 		- TODO Space onboard
 		- TODO [[Chaos And Order]]
 		-
 	- TODO Third Arc
+	  collapsed:: true
 		- TODO [[The Tower]]
 		- TODO [[A look into a past]]
 		- TODO [[The eyes]]
