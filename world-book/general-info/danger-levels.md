@@ -1,5 +1,5 @@
 index:: Mechanics
-Mechanics
+Mechanics:: World
 
 - # Danger levels
 - ## Standar Tier List
