@@ -1,4 +1,5 @@
 index:: Mechanics
+Mechanics:: Oc
 
 -
 - There's two important things to keep in mind. the experience or technique of the crafter and the materials used to make the equipment. Taking these in mind, you can make a better equipment.
@@ -6,9 +7,6 @@ index:: Mechanics
 -
 - ## Equipment
   background-color:: gray
-	- ### Limits
-		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
-		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment, still don't try to use 15 swords at the same time unless you have 15 arms.
 	- ### Template
 		- Equipment name:
 		  Equipment tier: (based on smithing level)
@@ -17,6 +15,9 @@ index:: Mechanics
 		  History: (backstory of equipment)
 		  Abilities:
 		-
+	- ### Limits
+		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
+		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment, still don't try to use 15 swords at the same time unless you have 15 arms.
 	-
 -
 - ## Technique
