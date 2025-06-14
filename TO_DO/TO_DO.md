@@ -12,7 +12,10 @@
 		- TODO The forest (nature)
 		- TODO The rainforest (Fire)
 		- TODO the badlands (Artizanry)
-		- TODO Th
+		- TODO The land of fantasia
+		- TODO (knowledge)
+		- TODO Core Island
+		- TODO The high islands
 	- DOING [[Mechanics]]
 	  :LOGBOOK:
 	  CLOCK: [2025-06-13 Fri 21:41:54]
