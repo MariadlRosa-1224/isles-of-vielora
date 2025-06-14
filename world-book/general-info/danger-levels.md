@@ -1,5 +1,8 @@
+index:: Mechanics
+
 - # Danger levels
 - ## Standar Tier List
+  background-color:: gray
   
   > **Notes**
   >
@@ -74,6 +77,8 @@
   collapsed:: true
 	- > Anything at this point and beyond is considered a potential bringer of the apocalypse.
 - ## Extended Tier List
+  background-color:: gray
+  collapsed:: true
   
   This tier list goes beyond the E-S+ one, it will be vague and not useful in most circumstances, is more a way to rank lore characters/fauna for gm purposes. The characters that fall here are few an in between, mayor allies or villains, mayor storyplots or what happens when you “fuck around and find out”.
 	-
