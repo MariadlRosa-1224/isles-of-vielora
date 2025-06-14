@@ -76,58 +76,59 @@
 - ## Extended Tier List
   
   This tier list goes beyond the E-S+ one, it will be vague and not useful in most circumstances, is more a way to rank lore characters/fauna for gm purposes. The characters that fall here are few an in between, mayor allies or villains, mayor storyplots or what happens when you “fuck around and find out”.
-- ### “If you tick a sleeping dragon’s tail, don’t be surprised if it wakes up”
-  
-  >Notes: - Just because their rank is lower doesn’t mean a character cannot beat a higher rank. Multiple fallen angels can fight a great concept god and win, for example. 
-  Just because 2 beings are in a certain rank, doesn’t mean they are equally as powerful. (God’s Knights are jacks or all trades, but in their specific domain a god beat them ten-fold)
-- ### SS
-  collapsed:: true
-	- #### *15*
+	-
+	- ### “If you tick a sleeping dragon’s tail, don’t be surprised if it wakes up”
 	  
-	  Can destroy continents and bring civilizations there to the edge of collapse.
-	  
-	  *Great mayors of Stargaze and the ruined city (no other ruler npc or not is nearly as powerful, they are neutral in anything outside their cities.).*
-- ### SSS
-  collapsed:: true
-	- #### *16*
-	  
-	  Can destroy the whole civilization and render a planet to a lifeless husk
-	  
-	  *Fallen angels, gods (lower or abstract concept) and eldritch gods (lower or abstract concept).*
-- ### World ending
-  collapsed:: true
-	- #### *17*
-	  
-	  Can destroy a planet solemnly by themselves.
-	  
-	  *gods (higher concept), eldritch gods (higher concept) , God’s knights.*
-- ### Stellar level
-  collapsed:: true
-	- #### *18*
-	  
-	  Can destroy a star and its system
-	  
-	  *gods (great concept), eldritch gods (great concept).*
-- ### galactic level
-  collapsed:: true
-	- #### *19*
-	  
-	  With a thought they can bring systems and galaxies to collapse, they can morph the laws of the universe to their desire.
-	  
-	  *Guardians, afterlife.*
-- ### Universe level
-  collapsed:: true
-	- #### *20*
-	  
-	  By their hands render the destiny of everything an anything, their thoughts changes the rules, their will creates new eras, their movement bring the whole universe with them. Their eyes are everywhere and no matter where you are, you sometimes feel their touch.
-	  
-	  *25 14 25 15 20 19 14 7 5 19 20 15 18 25 16 7 5 9 14 26 25 15 25 15 26 19 11 25 14 25 15 21 3 7 20 14 14 19 6 3 15 7 25 15 21 9 21 25 15 15 25 19 20 7 20 4 11 25 22 22 14 19 18 16 19 14 3 5 14 9 19 13 11 25 22 22 18 7 25 22 19 12 3 9 19 13 25 21 25 15 15 9 19 13 5 19 21 3 6 7 5 23 14 19 21 3 12 8.*
-- ### God
-  collapsed:: true
-	- #### *∞*
-	  
-	  All powerful
-	  
-	  *God.*
+	  >Notes: - Just because their rank is lower doesn’t mean a character cannot beat a higher rank. Multiple fallen angels can fight a great concept god and win, for example. 
+	  Just because 2 beings are in a certain rank, doesn’t mean they are equally as powerful. (God’s Knights are jacks or all trades, but in their specific domain a god beat them ten-fold)
+	- ### SS
+	  collapsed:: true
+		- #### *15*
+		  
+		  Can destroy continents and bring civilizations there to the edge of collapse.
+		  
+		  *Great mayors of Stargaze and the ruined city (no other ruler npc or not is nearly as powerful, they are neutral in anything outside their cities.).*
+	- ### SSS
+	  collapsed:: true
+		- #### *16*
+		  
+		  Can destroy the whole civilization and render a planet to a lifeless husk
+		  
+		  *Fallen angels, gods (lower or abstract concept) and eldritch gods (lower or abstract concept).*
+	- ### World ending
+	  collapsed:: true
+		- #### *17*
+		  
+		  Can destroy a planet solemnly by themselves.
+		  
+		  *gods (higher concept), eldritch gods (higher concept) , God’s knights.*
+	- ### Stellar level
+	  collapsed:: true
+		- #### *18*
+		  
+		  Can destroy a star and its system
+		  
+		  *gods (great concept), eldritch gods (great concept).*
+	- ### galactic level
+	  collapsed:: true
+		- #### *19*
+		  
+		  With a thought they can bring systems and galaxies to collapse, they can morph the laws of the universe to their desire.
+		  
+		  *Guardians, afterlife.*
+	- ### Universe level
+	  collapsed:: true
+		- #### *20*
+		  
+		  By their hands render the destiny of everything an anything, their thoughts changes the rules, their will creates new eras, their movement bring the whole universe with them. Their eyes are everywhere and no matter where you are, you sometimes feel their touch.
+		  
+		  *25 14 25 15 20 19 14 7 5 19 20 15 18 25 16 7 5 9 14 26 25 15 25 15 26 19 11 25 14 25 15 21 3 7 20 14 14 19 6 3 15 7 25 15 21 9 21 25 15 15 25 19 20 7 20 4 11 25 22 22 14 19 18 16 19 14 3 5 14 9 19 13 11 25 22 22 18 7 25 22 19 12 3 9 19 13 25 21 25 15 15 9 19 13 5 19 21 3 6 7 5 23 14 19 21 3 12 8.*
+	- ### God
+	  collapsed:: true
+		- #### *∞*
+		  
+		  All powerful
+		  
+		  *God.*
 -
 - tags:: World_Book/general_information
