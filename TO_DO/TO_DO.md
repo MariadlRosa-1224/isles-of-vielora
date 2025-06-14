@@ -9,7 +9,10 @@
 		- DONE Ruins/northen Frozen
 		- TODO The tundra (Justice)
 		- TODO The dessert (Will)
-		- TODO The forest
+		- TODO The forest (nature)
+		- TODO The rainforest (Fire)
+		- TODO the badlands (Artizanry)
+		- TODO Th
 	- DOING [[Mechanics]]
 	  :LOGBOOK:
 	  CLOCK: [2025-06-13 Fri 21:41:54]
