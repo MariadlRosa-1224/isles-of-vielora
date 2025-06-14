@@ -9,17 +9,17 @@
 	-
 	- ## Basic info
 	  background-color:: gray
-		- **Nicknames:** nicknames
+		- **Nicknames:** The guardian of void
 		  
-		  **Age:** age
+		  **Age:** 10'000 years
 		  
-		  **Birthdate:** birthdate
+		  **Birthdate:** undefined
 		  
-		  **Gender:** gender
+		  **Gender:** female
 		  
-		  **Race:** race
+		  **Race:** [[guardians]] 
 		  
-		  **Job:** job
+		  **Job:** guardian of void
 		-
 	- ## Physical description (humanoid form)
 	  background-color:: gray
@@ -73,7 +73,7 @@
 		-
 		- **Organizations/groups:** group - relationship with group
 		-
-		- **Origin town/kingdom:** town/kingdom
+		- **Origin town/kingdom:** None
 		-
 	- ## Additional information
 	  background-color:: gray
