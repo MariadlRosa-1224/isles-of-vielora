@@ -22,7 +22,7 @@
 	  CLOCK: [2025-06-13 Fri 21:41:54]
 	  :END:
 		- DONE [[crafting]]
-		- DOING [stats]([[stats]])
+		- DOING [stats]([[Mechanics/Oc/stats]])
 		  :LOGBOOK:
 		  CLOCK: [2025-06-13 Fri 21:41:37]
 		  :END:

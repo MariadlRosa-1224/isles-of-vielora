@@ -6,6 +6,9 @@ index:: Mechanics
 -
 - ## Equipment
   background-color:: gray
+	- ### Limits
+		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
+		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment, still don't try to use 15 swords at the same time unless you have 15 arms.
 	- ### Template
 		- Equipment name:
 		  Equipment tier: (based on smithing level)
@@ -14,14 +17,11 @@ index:: Mechanics
 		  History: (backstory of equipment)
 		  Abilities:
 		-
-	- ### Limits
-		- Everyone is allowed to make equipment, **but without the technique to do it you are only allowed to make equipment with one ability and 3 materials max.** For more you need to either get a better technique or get an oc or npc with better technique to make it for you.
-		- You can have up to 15 abilities among all your equipment, so assuming you got a single ability on them you could have up to 15 equipment, still don't try to use 15 swords at the same time unless you have 15 arms.
 	-
 -
 - ## Technique
   background-color:: gray
-	- Technique is another [stat]([[stats]]) one can upgrade and list your experience making equipment, it allows someone to use more materials and add more abilities to a single piece, a level stat (additive) that max out at 50.
+	- Technique is another [stat]([[Mechanics/Oc/stats]]) one can upgrade and list your experience making equipment, it allows someone to use more materials and add more abilities to a single piece, a level stat (additive) that max out at 50.
 	- 4: +1 ability,  (tier 1)
 	  10 +1 ability, +1 material (tier 2)
 	  22 +1 ability, +3 materials (tier 3)
