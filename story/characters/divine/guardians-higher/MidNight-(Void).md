@@ -9,4 +9,6 @@
 -
 - Once reunited with Nisha, they fight. It's been over 10,000 years and they cannot really remember the time they were one, another side effect of Alex memory forget. They cooperate, They might or might not eventually find a way to fuse back together into the original order. But at least for a good while, there's the two of them. Midnight and Nisha are also the people who refer to the first song of the prophet. The gem broken in half that learns to love.
 -
+-
+-
 - #Story/Characters/divine/guardians
