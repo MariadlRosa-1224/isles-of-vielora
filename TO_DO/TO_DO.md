@@ -15,7 +15,8 @@
 		- TODO The land of fantasia
 		- TODO (knowledge)
 		- TODO Core Island
-		- TODO The high islands
+		- TODO stargaze
+		- TODO world map
 	- DOING [[Mechanics]]
 	  :LOGBOOK:
 	  CLOCK: [2025-06-13 Fri 21:41:54]
