@@ -32,7 +32,7 @@
 		- **(mout) magic output (multiplier):** It makes spells and runes x times stronger
 		- **(char) mana charges (additive):** Limits how much you can use magic in an amount of time
 		- **(mdef) magic defense (multiplier):** How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
-		- **(mren) mana regeneration (additive):** How fast can mana regenerate.
+		- **(mren) mana regeneration (additive):** How much mana can be regenerated.
 	- ### creative stats
 	  background-color:: green
 		- **(Tech) Technique (Additive):** Increases technique in equipment, the amount of materials and abilities you can add into a single equipment.
@@ -44,7 +44,7 @@
 	  background-color:: green
 		- Calculating level stats is easy is simply adding 1 to the stat per each boost no matter what.
 		  
-		  *Example:* An oc who starts with 10 mana charges and have a x5 in mana charges will have 15 mana charges. no matter what
+		  ***Example:*** An oc who starts with 10 mana charges and have a x5 in mana charges will have 15 mana charges. no matter what
 	- ### Multiplier stats
 	  background-color:: green
 		- Multiplier stats on the other hand, use a formula to calculate the multiplier.
@@ -65,7 +65,7 @@
 		  
 		  **Temporary** any other form of temporal boosting (potions, active abilities,  allies, spells, etc)
 		-
-		- *Example:*
+		- ***Example:***
 		  
 		  Imagine we have Ghost. She is a remain a race of normal size
 		  Size = 1
