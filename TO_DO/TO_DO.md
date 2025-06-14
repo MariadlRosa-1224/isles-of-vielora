@@ -183,11 +183,13 @@
 		- TODO [[Vielora - Event]]
 		-
 	- TODO Forth Arc
+	  collapsed:: true
 		- TODO [[Dawn]]
 		- TODO [[We aren't meant to be here]]
 	- TODO Fifth Arc
 	-
 - ## Story lines
+  collapsed:: true
 	- TODO [[The inverted]]
 	- TODO [[The phoenix town]]
 	- TODO [[The spaces between]]
