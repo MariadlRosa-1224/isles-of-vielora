@@ -11,7 +11,7 @@
 - With minor advantage you may be able to move out of the way enough to reduce damage slightly, or hit first if you both strike at the same time but it's not enough to act before they can or autododge any move they try and counter before they can
 - The higher your advantage rank the more of these opportunities you get up until a 100% difference or higher where you can assume your fast enough to act before they can, and blitz them with speed
 - In general speed and reaction are treated more abstract in battles compared to other stats, so please try to take this into account whenever battling, having advantage doesn't mean your unhittable even if on the higher side and you can't always outreact others unless the stat difference is immense.
-- speed advantage is also treated far more vague when numbers are low for example when starting a 1x speed and reaction oc fighting a 2x speed and reaction oc can be treated comparable even though it's a 100% difference due to numbers being very low up until 20x stats or higher, opposite is true so use as a general rule of thumb
+- speed advantage is also treated far more vague when numbers are low for example when starting a 1x speed and reaction oc fighting a 2x speed and reaction will be threated as it would be in real life, this till the x100
 -
 - tags:: Mechanics/stats
 -
