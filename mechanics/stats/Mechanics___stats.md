@@ -18,14 +18,14 @@
   Stats are divided in categories physical, mental, magic and creative.
 	- ### physical stats
 	  background-color:: green
-		- (str) strength (multiplier): Physical strength
-		- (spd) [[Speed]] (multiplier): speed and agility
-		- (dur) Durability(multiplier): How much physical damage can someone handle.
+		- **(str) strength (multiplier):** Physical strength
+		- **(spd) [[Speed]] (multiplier):** speed and agility
+		- **(dur) Durability(multiplier):** How much physical damage can someone handle.
 	- ### mental stats *More info in: [mental_stats](./mental-stats.md)*
 	  background-color:: green
-		- (sens) senses (multiplier): Can either cover only one or all five senses
-		- (rspd) reaction speed (multiplier): how fast can you react
-		- ![image.png](../../assets/image_1749870813777_0.png) (menDef) mental defense (multiplier): How much can you character can tank mental damage, (this doesn't allow you to ignore damage.)
+		- **(sens) senses (multiplier):** Can either cover only one or all five senses
+		- **(rspd) reaction speed (multiplier):** how fast can you react
+		- **(menDef) mental defense (multiplier):** How much can you character can tank mental damage, (this doesn't allow you to ignore damage.)
 		- **(menStr)  mental strength (multiplier):** Improve all magic related to mind. Doesn't stack with magic
 	- ### magic stats *More info in: [magic_stats](./magic-stats.md)*
 	  background-color:: green
