@@ -6,7 +6,7 @@
   background-color:: gray
   
   There are 2 types of stats: **Levels** and **multipliers**
-	- **Levels:** The original stat is increased +1 each time a level is increased it ignores the formula, is just a plain sum of everything.
+	- **Additive:** The original stat is increased +1 each time a level is increased it ignores the formula, is just a plain sum of everything.
 	- **Multiplier:** They show an increase or a reduction of an stat based on a formula.
 	  
 	  Most of the time, this is based on how irl a human would perform. With some noted exceptions
@@ -30,12 +30,12 @@
 	- ### magic stats *More info in: [magic_stats](./magic-stats.md)*
 	  background-color:: green
 		- (mout) magic output (multiplier): It makes spells and runes x times stronger
-		- (char) mana charges (level): Limits how much you can use magic in an amount of time
-		- (mdef) How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
-		- (mren) mana regeneration (level): How fast can mana regenerate.
-	- ### Smithing stats
+		- (char) mana charges (additive): Limits how much you can use magic in an amount of time
+		- (mdef) magic defense (multiplier): How much can you character can tank an specific type of magical damage, (this doesn't allow you to ignore damage.)
+		- (mren) mana regeneration (additive): How fast can mana regenerate.
+	- ###  stats
 	  background-color:: green
-		- (tech) Technique (level): Increases the amount of materials you can add into a single equipment
+		- (tech) Technique (additive): Increases the amount of materials you can add into a single equipment
 		-
 - ## Stats calculation
   background-color:: gray
