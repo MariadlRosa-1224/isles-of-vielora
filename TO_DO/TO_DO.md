@@ -28,7 +28,8 @@
 		  :END:
 		- TODO [[Progression]]
 		- TODO Library
-		- TODO [[Souls]]
+		- DONE [[Souls]]
+		- TODO [[Alchemy]]
 		-
 	- TODO [[Website]]
 	- TODO [Discord bot]([[Server/bot]])
