@@ -27,6 +27,7 @@
 		  CLOCK: [2025-06-13 Fri 21:41:37]
 		  :END:
 		- TODO [[Progression]]
+		- TODO Library
 		-
 	- TODO [[Website]]
 	- TODO [Discord bot]([[Server/bot]])
