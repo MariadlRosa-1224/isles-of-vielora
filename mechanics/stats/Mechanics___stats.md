@@ -3,6 +3,7 @@
 - index:: [[Mechanics]]
 - Stats dictates how can an oc perform in certain aspects.
 - ## Types of stats
+  background-color:: gray
   
   There are 2 types of stats: **Levels** and **multipliers**
   
@@ -14,6 +15,7 @@
   
   Example: an oc who has x2 strength, is twice as strong as the **average** human would be.
 - ## Categories of stats
+  background-color:: gray
   
   Stats are divided in categories physical, mental, magic and smithing
 - ### physical stats
@@ -32,12 +34,9 @@
 	- (mren) mana regeneration (level): How fast can mana regenerate.
 - ### Smithing stats
 	- (tech) Technique (level): Increases the amount of materials you can add into a single equipment
-- ### Extra stats
-  
-  Now the stats mentioned above are the main ones, true, but that doesn’t mean they are the only ones. If you want your oc to excel at something that doesn’t fall in neither of this stats, you may create a stat for that in your bio.
-  
-  Who knows, maybe if enough people end up using it, it might be added in this list.
+	-
 - ## Stats calculation
+  background-color:: gray
 - ### Level stats
   
   Calculating level stats is easy is simply adding 1 to the stat per each boost no matter what.
