@@ -1,4 +1,5 @@
 Story:: Brainstorm
+Brainstorm_tittle:: EmeraldOfSoul
 
 - # Emerald of soul
   

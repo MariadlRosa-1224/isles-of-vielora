@@ -229,5 +229,11 @@
 	-
 	-
 -
--
--
+- story:: Brainstorm
+  brainstorm-tittle:: EmeraldOfSoul
+  template:: Brainstorm
+	-
+	- # Tittle
+	-
+	-
+	- #Story/BrainStorm
