@@ -1,5 +1,6 @@
 - Game Masters are probably the second most important role for the player's experience, right behind the roleplay moderation team.
-- Game Masters have two responsibilities they can take part in: they can fulfill the requests of other players by facilitating encounters and such. They can also review roleplays, create surprise encounters, and design events for multiple people to participate in.
+  
+  Game Masters have two responsibilities they can take part in: they can fulfill the requests of other players by facilitating encounters and such. They can also review roleplays, create surprise encounters, and design events for multiple people to participate in.
 - For all of these things, they will have almost complete freedom to do pretty much whatever they want with the events, with only two restrictions:
 - one, it is against the established rules, or
 - two, they are breaking the lore.
