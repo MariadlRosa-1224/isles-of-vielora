@@ -18,4 +18,4 @@
 	  
 	  **word points:** every word written by the gm in the session is worth 2 points.
 	  
-	  ****
+	  **Event points** If a gm creates an event themselve
