@@ -19,5 +19,5 @@
 		  
 		  **word points:** every word written by the gm in the session is worth 2 points.
 		  
-		  **Event points** If a gm creates an event themselves, when approved depending of the size of it they can get between 200 and 2000 points + the starting and word count
+		  **Event points** If a gm creates an event themselves, when approved depending of the size of it they can get between 200 and 2000 points + the starting and word points.
 -
