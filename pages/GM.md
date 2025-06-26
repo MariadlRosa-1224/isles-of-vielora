@@ -16,4 +16,4 @@
 	- Based on what they did in the roleplay and how many roleplays they made, they will receive their payment.
 	- Every gm session over 3 turns, regardless of length or void is worth 25 points per player in the session
 	  
-	  every word wrritten is worth 2
+	  every word written is worth 2 points
