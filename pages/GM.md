@@ -14,4 +14,4 @@
 -
 - ## Payment
 	- Based on what they did in the roleplay and how many roleplays they made, they will receive their payment.
-	- Every gm session
+	- Every gm session over 3 turns, regardless of length o void is worth 25 points
