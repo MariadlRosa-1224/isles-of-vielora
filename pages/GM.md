@@ -29,7 +29,7 @@
 	  But of course theres a procediment and rules.
 		- ### Procedure
 		- ### Rules
-			- **You're event cannot go against the server rules nor lore.** This is the main reason why the draft is asked for before hand. As much as you will have plenty of creative freedom I can't, for example, let you use a god that isn't even on the planet, much less an event give an excuse to break the rules.
+			- **You're event cannot go against the server rules nor lore.** This is the main reason why the draft is asked for before hand. As much as you will have plenty of creative freedom I can't, for example, let you use a god that isn't even on the planet, much less an event gives an excuse to break the rules.
 			  logseq.order-list-type:: number
-			- **You're event must not benefit you irp**
+			- **You're event must not benefit you irp** You are the one
 			  logseq.order-list-type:: number
