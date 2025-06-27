@@ -27,4 +27,7 @@
 	- Gm are allowed to make events for people to join in, with their own npcs and places, an event is a good way to get points, as you can attract more people to play on them.
 	  
 	  But of course theres a procediment and rules.
-		- ### S
+		- ### Procedure
+		- ### Rules
+			- You
+			  logseq.order-list-type:: number
