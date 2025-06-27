@@ -24,4 +24,7 @@
 		- **Session count** At the end of the month the gm receives 100 point per 3 rps done in the month and 300 per event made.
 -
 - ## Events
-	- Gm are allowed to make events for people to join in, with their own npcs and places, an event is a good way to get points, as you can atta
+	- Gm are allowed to make events for people to join in, with their own npcs and places, an event is a good way to get points, as you can attract more people to play on them.
+	  
+	  But of course theres a procediment and rules.
+		- ### S
