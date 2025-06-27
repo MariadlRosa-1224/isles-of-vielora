@@ -15,7 +15,7 @@
 - ## Payment
 	- Based on what they did in the roleplay and how many roleplays they made, they will receive their payment.
 	- **After a session**
-		- **Starting points:** Every gm session or encounter over 2 turns, regardless of length or void is worth 25 points per player in the session
+		- **Starting points:** Every gm session or encounter over 3 turns, regardless of length or void is worth 25 points per player in the session
 		  
 		  **word points:** every word written by the gm in the session is worth 2 points.
 		  
