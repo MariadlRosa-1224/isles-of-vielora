@@ -29,5 +29,5 @@
 	  But of course theres a procediment and rules.
 		- ### Procedure
 		- ### Rules
-			- You're event cannot go against the server rules nor lore. This is the main reason why the draft is asked for before hand. As much as you will have plenty of creative freedom I can't, for example, let you ue
+			- You're event cannot go against the server rules nor lore. This is the main reason why the draft is asked for before hand. As much as you will have plenty of creative freedom I can't, for example, let you use a god that isn't even on the planet, much less an event
 			  logseq.order-list-type:: number
