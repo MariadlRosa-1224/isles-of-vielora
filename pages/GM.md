@@ -31,5 +31,5 @@
 		- ### Rules
 			- **You're event cannot go against the server rules nor lore.** This is the main reason why the draft is asked for before hand. As much as you will have plenty of creative freedom I can't, for example, let you use a god that isn't even on the planet, much less an event gives an excuse to break the rules.
 			  logseq.order-list-type:: number
-			- **You're event must not benefit you irp** You are the one
+			- **You're event must not benefit you irp** You are the one making the story and deciding what will happen and what rewards to give. For this reason you cannot use the event to make a plot that
 			  logseq.order-list-type:: number
