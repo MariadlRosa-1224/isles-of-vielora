@@ -24,3 +24,4 @@
 		- **Session count** At the end of the month the gm receives 100 point per 3 rps done in the month and 300 per event made.
 -
 - ## Events
+	- Gm are allowed to make events for
