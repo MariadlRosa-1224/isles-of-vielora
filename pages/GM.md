@@ -21,5 +21,6 @@
 		  
 		  **Event points** If a gm creates and plays an event themselves, depending of the size of it they can get between 200 and 5000 points + the starting and word points.
 	- **Monthly**
-		- **Session count** At the end of the month the gm receives 100 point per 3 rps done in the month
+		- **Session count** At the end of the month the gm receives 100 point per 3 rps done in the month and 300 per event made.
 -
+- ## Events
