@@ -1,5 +1,5 @@
-- # Ghost to-do list
-  title:: TO_DO
+# Ghost to-do list
+title:: TO_DO
 - #index
 - ## Server
 	- DOING Map
