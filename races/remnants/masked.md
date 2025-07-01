@@ -12,6 +12,8 @@ race:: Remnants
   
   **level x:** 
   
+  ****
+  
   **Description:**
 	- Most masked share similar features. A black and white humanoid. that doesn't seem to have anything special outside of their mask is often plain white or plain black with no defined features than empty holes for eyes and mouth. 
 	  id:: 6863569d-9602-49a2-afe0-1a20bf9e4b64
