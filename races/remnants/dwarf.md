@@ -32,7 +32,7 @@
 - **Master artizan:** The technique on their creation is on 20 in value, dwarf on this level have increased power on their written magic of x5 and are able to create semi-intelligent artifacts, able to act on their own and follow the orders of its owners, but they still count towards the max amount of equipment.
 -
 - **level 35:**
-- **One with the weapon:** Powerful dwarves must choose or make a weapon, armor or artifact that will be tied to their very soul, the chosen artifact have its abilities with a permanent x4 boost and won't take equipment slots. This artifact acts as an extension of the dwarf, they can sense through it and control it no matter the distance, This weapon can have 2 extra abilities.
+- **One with the weapon:** Powerful dwarves must choose or make a weapon, armor or artifact that will be tied to their very soul, the chosen artifact have its abilities with a permanent x4 boost and won't take equipment slots. This artifact acts as an extension of the dwarf, they can sense through it and control it no matter the distance, This weapon can have 2 extra abilities not counted towards max amount.
 -
 - **Description:**
   
