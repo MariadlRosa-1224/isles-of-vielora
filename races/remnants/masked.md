@@ -3,7 +3,7 @@ race:: Remnants
 - ## Masked
 	- **Origin**
 	- **Base abilities:**
-		- **The shifter**
+		- **The shifter** By  default, their appearance is of a monochrome humanoid. But they can actually change their appearance by will, and take any shape no bigger than themselves. The only thing they cannot change are their masks and their colors. Anything a masked should shift into is black and white.
 		  id:: 6863588c-3943-4452-873f-da915ec8b228
 	- **Unlockables:**
 	- **level x:**
