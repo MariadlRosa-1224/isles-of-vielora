@@ -22,7 +22,7 @@ Race:: Ethereals
 	  
 	  **Description:** 
 	  
-	  There are many shapes a star whisperer can take, from humanoid to pretty much any creature they desire. Their bodies are bright, made out of small particles of light that shine brightly in the dark, with even brighter spots among them. Often, their eyes are colored like a void filled with stars, contrasting with the shine of their bodies. The colors of their bodies often relate to the god they worship under.
+	  
 	  
 	  **weaknesses:**
 	  
