@@ -12,9 +12,9 @@ race:: Remnants
   
   **level x:** 
   
-  **Description:** 
-  
-  **weaknesses:** 
+  **Description:**
+	- id:: 6863569d-9602-49a2-afe0-1a20bf9e4b64
+- **weaknesses:** 
   
   **History:**
 -

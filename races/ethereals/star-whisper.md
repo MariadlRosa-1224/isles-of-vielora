@@ -22,8 +22,6 @@ Race:: Ethereals
 	  
 	  **Description:** 
 	  
-	  
-	  
 	  **weaknesses:**
 	  
 	  **(Weakness)** abc
