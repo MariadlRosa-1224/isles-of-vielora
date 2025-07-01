@@ -22,12 +22,13 @@ Race:: Ethereals
 	  
 	  **Description:** 
 	  
+	  
 	  **weaknesses:**
 	  
 	  **(Weakness)** abc
 	  
 	  **History:**
-		- Star whispers are a race known to be all over the universe. Let's focus on the cult's magic that combines and makes their origin a race closer to the stars—eight stars that are believed to be the origin of this god. For this reason, star whispers are highly respected. They are pins of powerful magic, but in an unstable physical state.
+		- Star whispers are a race known to be all over the universe. a race with an origin a race closer to the stars that are believed to be the origin of this god. For this reason, star whispers are highly respected. They are pins of powerful magic, but in an unstable physical state.
 	- **Lifespan:**
 	-
 	- ## Characters of this race
