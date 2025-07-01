@@ -3,6 +3,8 @@ race:: Remnants
 - ## Masked
 	- **Origin**
 	- **Base abilities:**
+		- **The shifter**
+		  id:: 6863588c-3943-4452-873f-da915ec8b228
 	- **Unlockables:**
 	- **level x:**
 	- **level x:**
