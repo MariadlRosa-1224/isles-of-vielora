@@ -9,6 +9,7 @@
 		- [[Nisha-(Order)]]
 		- [[Deyanira]]
 		- [[Ael]]
+		- [[Akuma]]
 		-
 	- ## objective
 	  background-color:: purple
