@@ -5,13 +5,13 @@
 	-
 	- ## Basic info
 	  background-color:: gray
-		- **Nicknames:** Fifth Fallen, 
+		- **Nicknames:** Fifth Fallen
 		  
-		  **Age:** age
+		  **Age:** 10021
 		  
 		  **Birthdate:** birthdate
 		  
-		  **Gender:** gender
+		  **Gender:** Male
 		  
 		  **Race:** race
 		  

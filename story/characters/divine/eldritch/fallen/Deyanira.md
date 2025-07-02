@@ -11,7 +11,7 @@
   
   **Gender:** female?
   
-  **Race:** Fallen
+  **Race:** [[fallen]] 
   
   **Job:** n/a
 - ## Physical description
