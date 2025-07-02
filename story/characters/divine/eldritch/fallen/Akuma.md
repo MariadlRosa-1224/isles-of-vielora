@@ -13,7 +13,7 @@
 		  
 		  **Gender:** gender
 		  
-		  **Race:** race
+		  **Race:** [[fallen]] 
 		  
 		  **Job:** job
 		-
