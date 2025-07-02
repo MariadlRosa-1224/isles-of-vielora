@@ -1,5 +1,5 @@
 - # A look into the past
-	- After discovering, Nisha was split apart in at least two pieces. Eos gets Andrew into looking through the timeline to find what the hell happened. The clue they found is that the last time Andrew can see Nisha before splitting was at the times of humanity. They would send a mission, a group of characters travel to the past, to the last days of humanity, to try and finding out what happened to Nisha..
+	- After discovering, [Nisha]([[Nisha-(Order)]]) was split apart in at least two pieces. Eos gets Andrew into looking through the timeline to find what the hell happened. The clue they found is that the last time Andrew can see Nisha before splitting was at the times of humanity. They would send a mission, a group of characters travel to the past, to the last days of humanity, to try and finding out what happened to Nisha.
 	  id:: 6864a3d6-8f1a-42b7-9271-58a5a7ce6b38
 	-
 	- ## Characters
