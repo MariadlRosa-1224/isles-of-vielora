@@ -13,9 +13,9 @@
 		  
 		  **Gender:** Male
 		  
-		  **Race:** race
+		  **Race:** [[fallen]]
 		  
-		  **Job:** job
+		  **Job:** n/a
 		-
 	- ## Physical description (humanoid form)
 	  background-color:: gray
