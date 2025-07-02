@@ -1,5 +1,5 @@
-# Ghost to-do list
-title:: TO_DO
+- # Ghost to-do list
+  title:: TO_DO
 - #index
 - ## Server
 	- DOING Map
@@ -179,7 +179,6 @@ title:: TO_DO
 		- TODO [[Chaos And Order]]
 		-
 	- TODO Third Arc
-	  collapsed:: true
 		- TODO [[The Tower]]
 		- TODO [[A look into a past]]
 		- TODO [[The eyes]]
