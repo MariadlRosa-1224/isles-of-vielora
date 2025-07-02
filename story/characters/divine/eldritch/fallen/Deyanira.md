@@ -1,9 +1,9 @@
-# Deyanira
+- # Deyanira
 - Characters:: Divine
   affiliation:: Eldritch
 - ## Basic info
   
-  **Nicknames:** Lilith, First, Fallen, Beast of golden eyes
+  **Nicknames:** Lilith, First Fallen, Beast of golden eyes
   
   **Age:** 10035
   

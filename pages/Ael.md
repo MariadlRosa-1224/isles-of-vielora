@@ -5,7 +5,7 @@
 	-
 	- ## Basic info
 	  background-color:: gray
-		- **Nicknames:** Fi
+		- **Nicknames:** Fifth Fallen, 
 		  
 		  **Age:** age
 		  
