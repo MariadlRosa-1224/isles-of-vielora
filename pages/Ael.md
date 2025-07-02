@@ -1,11 +1,11 @@
-- ## CharacterName
+- ## Ael
 	- characters:: Divine
-	  Affiliation::
+	  Affiliation:: Eldritch
 	-
 	-
 	- ## Basic info
 	  background-color:: gray
-		- **Nicknames:** nicknames
+		- **Nicknames:** Fi
 		  
 		  **Age:** age
 		  
