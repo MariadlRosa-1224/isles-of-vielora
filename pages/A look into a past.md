@@ -4,7 +4,11 @@
 	-
 	- ## Characters
 	  background-color:: purple
-		- Eos
+		- [[Eos-(Chaos)]]
+		- [[Andrew-(time)]]
+		- [[Nisha-(Order)]]
+		- [[Deyanira]]
+		- [[Ael]]
 		-
 	- ## objective
 	  background-color:: purple
