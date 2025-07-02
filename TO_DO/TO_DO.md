@@ -1,7 +1,8 @@
-- # Ghost to-do list
-  title:: TO_DO
+# Ghost to-do list
+title:: TO_DO
 - #index
 - ## Server
+  collapsed:: true
 	- DOING Map
 	  :LOGBOOK:
 	  CLOCK: [2025-06-13 Fri 21:41:54]
@@ -50,6 +51,7 @@
 	- TODO [locations]([[Story/Setting/Locations]])
 	- TODO [Folklore]([[Story/Setting/Folklore]])
 - ## Races
+  collapsed:: true
 	- DOING [Remnants]([[Race/Remnants]])
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:51]
@@ -120,6 +122,7 @@
 	- TODO Review Kirby's races
 	-
 - ## Side Events
+  collapsed:: true
 	- TODO [First arc]([[Story/Timeline/First_Arc]])
 		- TODO [[The pupperteer]]
 	- Unsorted
