@@ -25,7 +25,7 @@
   
   A soul when uninjured is usually composed of 2 major parts, (except for certain races) one part being labeled the bulb and the other the aura.
   
-  The bulb is the core of the soul, a sort of container for the essence inside and the template that defines the race and power given which when damaged is cracked and causes essence to leak if too far broken.
+  The bulb is the core of the soul, a sort of container for the essence inside and the template that defines the race and power given by the god who first created it, which when damaged is cracked and causes essence to leak if too far broken.
   
   The other is the aura, a sort of glow or field given off by the bulb. When the bulb is damaged the aura weakens. 
   
