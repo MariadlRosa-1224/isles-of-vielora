@@ -1,10 +1,10 @@
-# Souls
-id:: 68102652-3593-40ba-b889-1b1f9bfd2413
-index:: [[Mechanics]]
-mechanics:: Soul
-index:: [[Mechanics]]
-Mechanics:: Soul
-mechanics:: Soul
+- # Souls
+  id:: 68102652-3593-40ba-b889-1b1f9bfd2413
+  index:: [[Mechanics]]
+  mechanics:: Soul
+  index:: [[Mechanics]]
+  Mechanics:: Soul
+  mechanics:: Soul
 - souls are the unintended consequense of consiousness, a window in which the universe can understand itself.  and from there can influence, that goes both ways, just living a life or even an afterlife is a new experience, a new perspective that is forever kept in the universe. and the universe "the will of creation" can influence souls.
 -
 - Lore and oc wise a soul is something of great value and importance, the very being of a person, something untouchable, damaging a soul, even more, destroying a soul is a crime only paid with death in most planets, Vielora is not the exception.
@@ -25,7 +25,7 @@ mechanics:: Soul
   
   A soul when uninjured is usually composed of 2 major parts, (except for certain races) one part being labeled the bulb and the other the aura.
   
-  The bulb is the core of the soul, a sort of container for the essence inside or the template which when damaged is cracked and causes essence to leak if too far broken.
+  The bulb is the core of the soul, a sort of container for the essence inside and the template that defines the race and power given which when damaged is cracked and causes essence to leak if too far broken.
   
   The other is the aura, a sort of glow or field given off by the bulb. When the bulb is damaged the aura weakens. 
   
