@@ -1,5 +1,5 @@
-# Ghost to-do list
-title:: TO_DO
+- # Ghost to-do list
+  title:: TO_DO
 - #index
 - ## Server
   collapsed:: true
@@ -140,6 +140,7 @@ title:: TO_DO
 		- TODO Wonderland
 		- TODO The great mad circus
 - ## Main story
+  collapsed:: true
 	- DOING Beta events
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:58]
