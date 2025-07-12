@@ -195,7 +195,6 @@
 	- TODO Fifth Arc
 	-
 - ## Story lines
-  collapsed:: true
 	- TODO [[The inverted]]
 	- TODO [[The phoenix town]]
 	- TODO [[The spaces between]]
