@@ -1,0 +1,15 @@
+- # Event name
+	- *description*
+	- ## Characters
+	- ## Objective
+	- ## Story
+		- ### Prelude
+		- ### Main part
+		- ### Post event
+	- ## Concepts and notes
+	-
+	-
+-
+- After [[6_Soul-chase]] or [[white-butterflies]] a man will appear talking about how the barrier in the [[hell door]] has been broken, and he is making a team to go there and see the [core island]([[Story/Setting/Locations/Core-island]]) back when the man
+-
+- #Story/Timeline/First_Arc #Events

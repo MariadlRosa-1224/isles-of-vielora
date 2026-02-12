@@ -1,0 +1,11 @@
+# Event name
+	- *description*
+	- ## Characters
+	- ## Objective
+	- ## Story
+		- ### Prelude
+		- ### Main part
+		- ### Post event
+	- ## Concepts and notes
+	-
+	-

@@ -1,0 +1,607 @@
+Story:: Brainstorm
+Brainstorm:: EmeraldOfSoul
+
+- ## Description
+	- A set of short histories regarding [[Emerald]] , [[Alma-(Soul)]] and their fusion [[Iris]]
+	  id:: 687b2dd6-bd78-4e84-bb23-be14ce46d7e0
+- # Emerald of soul
+  collapsed:: true
+	- When Emerald opened her eyes, it was as if the world was colored once again. The fog on her mind was lifted, the memories that felt so fractured, and all over the place, were finally in. The pain and the hunger she was feeling unstoppably was also finally gone. She was herself once again and that meant she recovered that empathy she always had and that also mean she finally understood what just happened All the horrible things she did. She looked at her father. She didn't say anything at first. Just looked at him before jumping at him, hugging, crying. Supplicating for sorry. And [the mayor]([[the mayor of Ruined City]]), also with tears on his eyes, comforted her, telling her it wasn't her fault. It wasn't her fault  everything that happened to her. She was hurt beyond comprehension. She was in pain and she lost her ability to feel.
+	  
+	  It wasn't her fault. He repeated once and again and again. 
+	  
+	  The body of Emerald was still cracked. They were still cracks all around, but they looked healed, as if gold was placed on top of her wounds, sealing them. She wasn't lost and drunk in essence anymore. She was healing.
+	  
+	  After they separated, finally giving the others a moment to look at her, it was clear there were a few changes, aside of the obvious before her body was placed in the bed. Her eyes. One of her eyes was back to her emerald green that gave her her name. The other was colored as a rainbow. Iridescent, changing color depending on were you look at. Her hair was no longer as straight as it was. Waves formed on it. and, her voice...
+	  
+	  The desperation of the beautiful moment was enough to make people ignore it, but it was clear there were two voices when she talked. One sounded like her, the other sounded like the spirit that promised to save her, as if they both were talking at the same time.
+	  
+	  Tears still of her eyes, but calmer than before. She said her thanks, repeating how much he was thankful for being safe. She was so, so, so guilty. Her hands were filled with so much blood, even when most of that blood from the same people that hurt her. There was the blood of innocents who fell under her monster self.
+	  
+	  Behind her, a second set of hands appeared. They were like the hands of a ghost, transparent, but kind. They held her hands and whispered to her ear. The same things her father told her. "It's not your fault. It's not your fault."
+	  
+	  "You were hurt, beyond belief. You were hurt so much that you weren't able to differentiate survival from reason. Everything is okay now, repeated the voice in her mind. And... Emerald smiled at her. She didn't know what happened. She didn't know what was this voice in her mind. But she just felt calm, hearing it. "So," she asked, "who are you?"
+	  
+	  A double voice escaping her mouth. And as an answer, she heard, "Call me, Vita. I help them saving you. I sealed the tears of your soul. And now I will be here with you."
+	  
+	  That just gave her more questions. But she was too tired to complain. Everything was okay. Honestly, she just was so tired and wanting to go back to sleep. She got worried about what everything of this means tomorrow. And before anyone said anything. She was already back asleep.
+	- ## Day 2
+		- The second time Emerald woke up, she was alone in the room. It was already well into the early morning. 3am, that was at least what the clock on the wall said. In front of her, she saw a ghostly figure. She didn't know how but she knew the figure was the same voice that the previous day talked to her. "Hey" She called. The figure turned around, many hands without an origin. A crown made of little stars. And the feeling the figure was smiling despite not having a face or a mouth. It was strange, but somehow Emerald knew she was safe around them. 
+		  
+		  "Do you know what happened?" The figure Asked. Emerald thought about it, but she couldn't find an answer. She knew how she got here. The whole mess was still in her mind. And just thinking about it made her eyes feel heavy and watery. But she didn't know how was she saved. She was so hungry, she was craving for essence. She felt her soul breaking into little pieces. She felt herself falling away. How? Why was she in her bed? Why was she herself again?
+		  
+		  The figure approached her. And in two of their many hands they held hers as the figure sat in her bed in front of her.
+		  
+		  "Your father doesn't know either the full context. I explained to him some of the details, but he was more desperate to save you than to think about what would be the consequences. We'll need to have a conversation with him later, but I first need to give you a bit of context, and you to not freak out."
+		  
+		  A move of her head was Emerald saying she wasn't understanding what the figure was talking about. She had already a feeling that however this person saved her it wasn't going to be cheap or without consequences. But she wasn't understanding what it meant.
+		  
+		  "I want you to look at your hands" Her hands glowing with cracks still visible, sealed with a gold like substance. With a strange texture to it. It didn't feel like the metal, but like some kind of wax, a golden glowing beautiful wax.
+		  
+		  "Do you know what this is?" Emerald knew. More because of instinct than anything else.
+		  
+		  It was essence in a strange solid state but essence. She didn't know it could take that form. For her it was that bluish liquid that made her body feel healed and full even when it was also destroying her.
+		  
+		  "Essence." She finally said.
+		  
+		  "I was able to use the essence in that pool of stolen one to seal the wounds of your soul and your body.
+		  That's how I prevented you from completely shattering. But just doing that wasn't be enough. You already lost too much of your own soul by then. So something else had to be done."
+		  
+		  The figure made a pause. As if looking for what to say to continue her story. Emerald knew that something was up. How could she recover the parts of herself that were already lost? How could this figure manipulate essence to seal the bounds of herself? And why? She never met the figure before. They had no reason to help her.
+		  
+		  "Bear with me and don't interrupt me till I finish. This will be strange and you'll probably have a lot of questions. So please listen.
+		  
+		  Emerald shut the words that were already in her mouth up.
+		  
+		  "You can call me Vita, that how everyone here has been calling me. I am many and one at the same time. I am a small little piece of something way bigger in the universe. And as a single piece, my power is very limited. But because of my nature, I can see. I feel the pieces. I can see other people's souls. And I can interact with them.
+		  
+		  If the damage wasn't already so profound, this would be enough to fix your soul. But it wasn't. And... There's no big reason for it, I didn't want it to see you dying. I didn't want your soul. One so beautiful and kind. Be lost into oblivion. So, as just a piece of myself, I propose a solution to your father.
+		  
+		  I tied the lost pieces into myself and use this part of me to be the glue to put the pieces together to the rest of you. This can repair your soul but in doing so we both we would be fusing them into a single soul, sharing a single body. You will still be yourself, I will still be myself, this doesn't have to change anything else."
+		-
+		- Vita paused, as if realizing that what she had just said sounded strange without context. She was still searching for how to explain everything, what was in her mind.
+		-
+		- "Sorry, this is the first time I ever had to explain something like this."
+		-
+		- Emerald's eyes looked even more suspicious than before, as if trying to decipher whether Vita's words truly meant what they implied. She wasn't really understanding much of what Vita meant with this fusion of a soul.
+		-
+		- After a long pause Vita continued.
+		-
+		- "Do you know how a soul is made out of essence? Right?."
+		-
+		- Emerald nodded.
+		-
+		- “And this essence is mixed up with the magic of the deity that created”
+		-
+		- Emerald nodded again.
+		-
+		- “okay, when a soul is broken, that is still true but there are cracks around its core, the bulb, holes that grow bigger until they cannot hold the pieces of soul anymore and so if a soul was a piece of glass the pieces get lost it, they exists but they can’t go back into the original place and that gets harder and harder the more pieces are broken, because they become small, very small, until they cannot be held closer and everything is lost”
+		-
+		- It felt right to Emerald, the description of feeling ever smaller and distant.
+		-
+		- "My body, my soul isn't like that. I'm pure essence. Something that can only be awoken when too much pure essence is in a single place. a single body that is. I cannot be awoken inside a lake of liquid... And because I'm essence without any tight holding it I can take the ever smaller pieces of a broken soul and tie them to me, And because they are tied to me, I can just use this body-soul of myself to be like a glue, sticking the pieces of soul together with bigger pieces forcing them to stay in the places they should be without separating.”
+		-
+		- Even without face Emerald could feel the ever growing distress in Vita's voice, she was making the explanation long, as if trying to justify herself for something that ashamed her.
+		-
+		- "How do I describe it?... Do you know how in artisanry a popular form of craft is taking a broken plate and using some metal like gold to stick the broken pieces together to fix it… that's the best way I can describe how your soul is now. Your-soul-and-everything-in-it-is-the plate-and-I-am-the-gold”
+		-
+		- The last sentence came fast, the admition of the wrong doing.
+		-
+		- "it's still you and me but together in something somewhat different yet not that different"
+		-
+		- Emerald still seemed lost,but extended her hand to pause the rambling of the being.
+		-
+		- "Okay, let me see if I'm following. My soul was a mess cracked it up like a piece of glass, you took your soul and use it to stitch it all together together so now my soul is my soul, but also your soul... what the hell?"
+		-
+		- Emerald made a pause gears running in hear mind putting in place what this meant.
+		-
+		- “...but my soul is me and if my soul is now me and you…"
+		-
+		- Vita interrupted. "Let me try something different. What's my name?"
+		-
+		- "You already told me. Your name is…”
+		-
+		- A Pause, another realization.
+		-
+		- "Not... Vita.”
+		-
+		- “Exactly”
+		-
+		- Emerald's eyes seemed lost for a second, as if taken a rush on information that was pushed into her mind.
+		-
+		- "Wha- uh how did I know that? What you…?"
+		-
+		- Vita stayed silent. And at the end just nodded.
+		-
+		- "It's like the plate. I am the broken plate and you are the gold. They are clearly different but they are also understood as one piece."
+		-
+		- Vita's tone lost that shame of before, more serious, yet still guilty
+		-
+		- "No secret will exist between one and the other, and we will inevitably influence each other. You will change, I will change. And maybe... If time is long enough, there might be a moment when it becomes difficult to differentiate what is you and what is me. The novelty of the fixed plate is eventually lost, is still two parts, but the plate is eventually just a beautiful plate, not gold and a broken plate... But you will still get to live. Your memories, your body, everything. You will still be with you. And... I will also get a benefit. A vessel. A place to hide from the eyes of someone who is always looking. This is the only thing I need. And I promise I will not interfere in your life. But for now on..."
+		-
+		- They were stuck together. They were complete strangers, and now they were stuck together, Emerald could now understand why would Vita be worried about how she would feel, but Emerald wasn’t nothing if not adaptable. She was sure the implications were way bigger than what she was imagining. But at the end…
+		-
+		- "I'm not mad, I don't mind you being here. I think I'll rather be this than be gone... You were right I have too many questions."
+		  
+		  "And I'll answer them the best as I can, but not now, there are still... more i have to say about this, but I don't want to repeat more than needed, I rather have your father here too, this isn't something we should hide from him, and you're not even awake. This is a dream we can use to talk to each other. When you wake up, I suggest you go see yourself in the mirror."
+		  
+		  And then she opened her eyes. She was still in the same room. But everything was just a little bit out of place. It was dark outside. And the clock marked only 5 am. Emerald felt heavy when she stood out of her bed, there was a weight on her back. There was a weight in her steps as she made her way out the room.
+		  
+		  She walked through the hallways that felt just a little bit smaller. Or maybe she was taller. It wasn't a big difference. But the sudden change still made her feel out of place. She walked into the bathroom.
+		  
+		  The light flashing into her eyes. The darkness suddenly turned into light. And she stared at the mirror. Vita was right in suggesting her to do this first. Because she truly looked different. It was clearly still her. It was still her face. Still her white hair. But at the same time. The glowing cracks on her face. Sealed with a dim glowing gold. Those she saw in her dream. then her right eye. Her eye she was sure she lost while in the chaos as her body crumbled into something shapeless. It was back, but with different colors. The weight of her back now was explained. With a set of 5 wings flopping as she tried to move them. It felt natural even though it was completely new and strange.
+		  
+		  She was definitely taller, no much taller. She could maybe guess 5 to 10 cm, noticeable, but she wasn't touching the ceiling anytime soon. She was spinning, looking for more differences. She had... A few extra marks in her body. lines that looked more like patches or a birth mark, rather than another scar. the tip of her fingers turned into claws that finished in white, her arms and legs felt just slightly longer, breaking the expected proportions of a human-like, there were less feathers around her body, the color of her new wings white to blue, purple and turquoise. But there was something more, something not visible but she knew was somehow different on her.
+		  
+		  "You evolved. Among your dips in those pools of essence, your body and soul grew stronger as it was also breaking. There's no name for what you are now. But in just seeing it, it tells a lot about yourself that you don't look all that different from before."
+		  
+		  Vita said, now in her mind again, her voice sounded indistinguishable from her own thoughts. Emerald would have probably believe her voice was something she thought about if she didn't knew better. It was a strange sensation, feeling she wasn't alone inside her own mind.
+		  
+		  "What do you mean? Evolution?"
+		  
+		  Emerald pause, surprised by her own voice. It sounded strange as if there were two voices coming out of her mouth instead of one. Her own voice and the voice of Vita. "I'm not sure if i can get used to this."
+		  
+		  "It's called an evolution when someone's race is changed to become something stronger, better, different."
+		  
+		  "I have never seen a nyphen evolving. I thought it was impossible... But now that I'm seeing this... you really love your home, do you? This underground city, the people around, the remnants."
+		  
+		  "They are the only family I ever knew. They always treated me as one of them regardless of my race or that I was just the adopted daughter of my dad. Even if I'm not as powerful or as good as a leader as him."
+		-
+		- Emerald could feel the smile of the being sharing her body, it felt, like the assurance this might not be as bad.
+		-
+		- "For me I have always been a winged remnant."
+		-
+		- ---
+		- Emerald was sure she wasn't going back sleeping anytime soon. The wave of new information she received from Vita was too much for her racing mind to rest on. So instead of wasting time in sleeping, she decided to go downstairs. get into the training room and maybe try some of the things Vita suggested about this evolution. As she went downstairs, she started hearing noises. The sound of fire cracking and burning. The sound of metal clashing, Emerald knew these sounds.
+		-
+		- Her father was awake and he was smithing. He doesn't usually do this at this hour. only when he was stressed and Emerald couldn't really blame him. Everything that happened must have been really stressful to him. And even now when everything seems to be over. Why would he relax? She was supposed to be sleeping but, after everything her monster self did, she was done sneaking around. So she opened the door to this smithing room where her father was working with an axe.
+		-
+		- "Dad?"
+		-
+		- His shoulders tensed but just for as long as he realised it was her voice. Then he turned around, he looked, insecure, it was the first time Emerald saw him like that, it didn’t change the fact he was a large man, but somehow he looked smaller, defenseless.
+		-
+		- “Emerald? Why are you awake so early?… You are usually still sleeping past eleven”
+		-
+		- Even his voice sounded smaller.
+		-
+		- “I couldn’t sleep”
+		-
+		- To that he father only could admit “Me neither”
+		-
+		- Both of them stared at each other, there was tension on both of their shoulders and the same tension made the light from the oil lantern and the metal her father was working on even thicker and the shadows sharper.
+		-
+		- Her father decided to continue working on the axe and Emerald sat on the corner against the wall, an uncomfortable silence, they both knew the other wanted to talk about what happened but none of them knew how to start.
+		-
+		- Emerald felt a ghostly hand place on her shoulder and Vita trying to comfort her.
+		-
+		- “I won’t take your place, but we both know it will be worse if you stall this”
+		-
+		- Her mouth move without being she the one who moved it, her doubled voice coming out of it, but not even she knew what it was coming out of it.
+		-
+		- “Vita told me about what happened after I was knocked out, not everything, she told me she would rather have both of us in this conversation”
+		-
+		- And just like that the ice was broken, and she felt again in control of her mouth, that was weird and Emerald didn’t like it at all, but she was thankful for the push.
+		-
+		- “You already know about Vita?”
+		-
+		- “I can hear her voice in my mind and we just shared a very lucid dream where she told me a few things”
+		-
+		- To that her father stopped hammering, the axe placed quickly on water, the piece wouldn’t be his best, but it would still be a good axe, he had enough experience for that, he didn’t move much after that, staring at Emerald.
+		-
+		- “She used her soul to force the pieces of mine together, in practice combining them together as one, she compared it to when you use gold to fix a broken plate.”
+		-
+		- “Kintsugi” The mayor corrected.
+		-
+		- “Kintsugi, is that another human name for something we still do now, right?”
+		-
+		- “It originated from a lost language that used symbols different that the letters we use today, it was popular apparently, is one of the few languages we found ways to decipher, but that is still a work in progress.”
+		-
+		- Not for the first time Emerald smiled to the idea of something from humanity that hasn’t changed in long.
+		-
+		- Another pause, the flames where somewhat softer now, but it was only a calm needed to talk.
+		-
+		- “How much can you remember?”
+		-
+		- And Emeralds face darkened.
+		-
+		- “Most of it? Ever since i was in that laboratory nothing made sense. It was as if I was a completely different person, but all of that were my thoughts and my actions… Everything hurt and in my mind, anything was worth stopping the hunger and the pain." She stared at the wall to an invisible monster in her memories.
+		  
+		  "I know I could have come to you after we got out of the laboratory, but then... It was as if the whole world became darker, everything, anyone could have come and kill what was left for me, I couldn't even remember how much you cared..."
+		  
+		  "It was all survival" The mayor completed, Emerald didn't feel so sure
+		  
+		  "I stood there at the very top of stargaze and just pointed the monsters where to go, knowing perfectly well people would die. And I smiled. In any city I stood, as the monsters I brought grew stronger and more vicious...” 
+		  
+		   "It wasn't your fault", she heard in her mind again.
+		-
+		- “How many-how many people died?
+		-
+		- “The wardens appeared, they will-”
+		-
+		- “thousands, at the very least" Emerald interrupted before the mayor tried to sugarcoat it. "You know wardens are a damage measure, if is not a warden city they won’t bother unless the damage was massive. And not everyone will be revived…  it would still be hundreds dead.”
+		-
+		- The mayor had to breath out to not fight the thoughts in his daughter's mind, knowing well a fight out of the stubbornness of both would hurt more.
+		-
+		- "I knew the cult would be looking for me. So I left you clues to get to it. I didn't know where it was specifically, but I knew I was getting close. I'll lead you there first, so you would fight them, so you would clear the way for me to arrive, for me to get to the pool of essence before they could catch me."
+		-
+		- She sighed, a smiled without joy “In the way to the pool I already ruined their plan, I got there thought another entrance and through all the chaos. Not many guards were on my way and those who were, I killed them all. I didn't even think to stop even as more bodies filled the hallways I just had to arrive at the pool of essence. And then I was there. And then you arrived."
+		-
+		- It was getting harder and harder for Emerald to Keep the tears inside her eyes. “It hurt, it hurt a lot I was in front of the pool and you arrived, you and all the others. I don't even remember what I said to you. My memories were a mess I remember pieces of pieces, I remembered fights and love and... I felt numb, but I remember your face. Please don't take seriously whatever I said there.”
+		-
+		- The mayor sat next to Emerald, both against the wall, in silence except for her voice relating her side of the story. His hand, large and toughened by centuries of hard work, it was placed on the girls shoulder.
+		-
+		- "You should know you couldn't have stopped me. Not matter what you could try to say. I was set in jumping, and After I jumped into that pool, everything became a blur, there were colors and pain and voices I could not understand, memories of memories collapsing. I couldn’t remember anything, I didn't know where I was, I for a moment forgot who I was, My only thought was to stay alive, and you were the menace in front of me. And then everything goes dark. The next thing I know is that I'm here with my soul fixed.”
+		-
+		- And that was the moment the mayor decided to say his part, what happened afterwards, after that bird creature that was also his daughter fell into his arms.
+		-
+		- “Over 80 percent of your soul was gone when we managed to retrieve you, pure essence was leaking from your body, but barely any of that was actually yours. I saw you falling apart. And no treatment seemed to work. I thought I would lose you, and forever.”
+		-
+		- “But then Vita appeared from that same essense that was leaking from you and told us, they could restore your soul, save you, stick all the broken but no gone pieces together, but that would leave you both intertwined, forever."
+		-
+		- The scene played in Emerald's mind. Her body was separated from her, from Vita’s perspective she was staring at her father. Trying to explain a short version of what all of this was going to mean.
+		-
+		- "You know I'm a paranoid man. I did ask what they wanted in exchange. But she said-" 
+		  
+		  "I kinda remind her of her sister” Another piece of information Emerald didn’t know till that moment. 
+		  
+		  “Yea... Exactly, You know that normally wouldn't have been enough. But I didn't want to lose you So I accepted it And you are here."
+		-
+		- “Saving you was not a mistake. I would have paid any price. But what does it mean that you are intertwined to them? That your souls are now combined? What if by accepting I just hurt you even more."
+		-
+		- A ghostly hand that came from  her back placed their fingers around hers. A cold touch against her warm skin. Something Emerald was sure she was going to feel a lot now onwards and then there was a question one that didn't come with words like the previous times Vita was talking to her yet despite the lack of words. Emerald knew exactly what Vita was asking for. It made her feel awkward. But she accepted.
+		-
+		- "Vita wants to explain, she will answer any question you have... please don't freak out."
+		-
+		- There was a change in Emerald's posture her back straightened, a tension on her shoulders, Her eyes fixed in something in front of her that wasn't really there. those eyes wide open, and turning around the look at her father's eyes with an empty expression yet no an emotionless one, more like the expression of someone unused to how a body should act. Her eyes expressed a lot of emotions insecurity, fear, doubt, determination It was clear for the Mayor's something has changed and it only was confirmed when words came from her daughter mouth.
+		-
+		- "I wanted to show you that I can do this now before there is any misunderstanding, Emerald is still here and she is listening just as I was listening before. I know there were too many emotions when we struck this deal. But now that everything has cooled down, I don't want you to be afraid of me or for Emerald. Ask anything you need to ask, I will answer with as much honesty as I can.”
+		-
+		- From an outsider nothing seemed to have changed, but for the mayor it was clear. person he was talking to, using the face of her daughter, wasn't her daughter.
+		-
+		- “You can just control her body whenever you want?!”
+		-
+		- Vita, now in control move her hand in a gesture that called the mayor to calm down, it was barely doing anything.
+		-
+		- “The short answer is yes, I wouldn't do this unless I really needed to, It is safer for me if I just keep quiet. And this is Emerald's body. I really shouldn't involve in her life unless she allows me."
+		  
+		  There was a thick frown not there before, the mayor was a man who needed certainty and the comversation he was having with Emerald left him with stuff he needed to know.
+		-
+		- “Emerald referred this as combining. Combining implies something very different to interwoven as you told me."
+		-
+		- “Combining is probably a more correct word, this is more than just a connection between me and Emerald. I know i somewhat lied, I couldn’t lose time explaining everything, her soul was degrading rapidly and there’s a limit in the damage i’m able to repair, past that there would be nothing even I could do.”
+		-
+		- “Then what is this really about? What does this means for Emerald?!”
+		-
+		- Vita hasn’t felt heat in a very long time, the forge was already quite hot but for a second the temperature raised, uncomfortably hot, nearly burning, but it immediately ceased. There was practiced self control there, he would never hurt his daughter.
+		-
+		- “What are you even, and what do you really want?!”
+		-
+		- But if he was afraid or skeptical of her, he might regardless.
+		-
+		- Vita’s voice grew louder and serious but there was no rage behind it, the voice sounding more like there a single one, Emerald’s voice degraded to an echo behind the clearly dominant one.
+		-
+		- “Cenizan… If there was another option, I wouldn’t have done this either. You don't have the power to see souls the way I do. The way Emerald does. So I can only describe how hers looked like. The collapsing kaleidoscope and dying world that desperately tries to keep the shape of a person, the desperation of a loosing fight, hanging on everywhere at the edge of exploding and escape past my grasp to where it cannot be found but for those who hold the threads of the universe. A glitching dying body is an horrible symptom that pales to the true horrors of the collapse of a soul!”
+		-
+		- In a swift move, one faster than what the man with hundreds of years of experience in combat could react to, one that should have been impossible for a young nyphen, Vita was on top of him, placing a single clawed finger on top of his mouth.
+		-
+		- “I’m not your enemy and I don’t pretend to cause any harm, neither to you, and much less to Emerald. I will answer to your questions, I will be precise and I will do my best to give us a course of action, but you must understand…” and Vita’s volume lowered back to the doubled voice of herself and Emerald “There’s no turning back from this… we cannot be separated without that destroying both of us first.”
+		-
+		- Vita then stood up and started walking to the door of the forge. There was heavy and deep breathing coming out of her, trying to keep her cool.
+		-
+		- “The Kintsugi is probably the best description I can come up with to describe this in simpler terms, but is a lot more complicated, souls aren’t glass and essence is only a liquid when is pure and outside a body. I do want to have this conversation with you both before I have to repeat myself and play some broken phone game, so what if we just sit, drink some hot chocolate and talk somewhere with less weapons?”
+		-
+		- The tension in her shoulders disappeared and Emerald looked at her father with a somewhat alarmed expression.
+		-
+		- “Souls are a delicate topic to her...”
+		-
+		- Her daughter was there again her expression softer, her movements more fluid.
+		-
+		- “Are you ok?”
+		-
+		- “I am, it was weird having my body moving without me doing it, but I’m okay, it was just like sitting in the backseat”
+		-
+		- ---
+		-
+		- The Major and Emerald sat in front of each other at the dining table. Emerald's eyes seemed lost, staring at the cup of hot chocolate that was slowly getting colder, yet not looking at it at all. The Major wondered if she and Vita were talking, having a conversation where he was an outsider , unable to hear. But soon, her daughter's softer eyes stared back at him, back into reality, back into a place where he could reach her.
+		-
+		- He didn't regret saving her. But that didn't mean he didn't have reservations about the spirit he let inside Emerald's body. They claim it to mean no harm, but they were also obviously hiding information, he doubted everything will come out now, and he has to admit it. He was afraid. He wanted to trust Vita. But he was a man too old for trust to come easily. He felt lost and dumb, dealing with something he could not understand.
+		-
+		- "It would be a bit confusing if if we are both talking over each other every single time so we decided to make it just a little bit easier for you I'm talking now, I'm emerald.”
+		-
+		- A ghostly hand appeared from behind emerald. It covered her left eye leaving only the irisent one visible The other changes were immediately noticed the loss of expression the tension of her posture.
+		-
+		- “And I’m Vita, no matter who is talking the other is always listening, you don't need to talk as the other wasn't there we are both here. Can we start over now?"
+		-
+		- The mayor nodded. Resisting the temptation to comment on how he knew who was talking regardless of the hand "We can start with the same question I asked in the forge, what does it actually mean for your souls to be combined, intertwined, however you decided to call it? What does this mean to Emerald? And how did it fix her soul?"
+		-
+		- “So we are going to start with the hard questions Okay, just please, listen and don't interrupt. Trying to explain this to someone who cannot see souls is already hard enough”
+		-
+		- A light appeared on Emerald's hands. The mayor took the note in his mind that Vita could also use Emerald's abilities. The light Started to take the shape of a person, A white silhouette of Emerald, the silhouette started to glitch out, It spammed, growing bigger, smaller Pressing outwards and inwards Soon it didn't look like Emerald at all, fragmented Pieces getting separated just to unite again And the movement of the figure Even though it already lost its human form was obviously trying to keep those pieces together, and then it got worse.
+		-
+		- The mayor sensed the mana change, the barely perceptible usage of a spell. sound mirage, the light showcase got a voice. There were howls, screaming, poor attempts at words, and weeping, all at the same time, in a terrible orchestra where someone had taken multiple recordings just to run them through terrible edits and static before mixing them all together again. The silhouette grew. It developed peaks and thorns. It was filled with colors. Passing broken, memories collapsing like what one could only described as a very old television glitching. It got faster and faster and faster, the screaming louder, the bursting extreme, it was going to explode at some point, and then it all stopped, the horrors of visuals and voices compressed into a small colorful sphere on Vita’s hands.
+		-
+		- “I don't think I can accurately describe, Even with this hologram How collapsing soul looks like It's too many things at the same time, this is the closest thing, No soul wants to die, and even if it hurts more, they’ll keep trying to keep themselves together, but it is a loosing fight.” With those last words The sphere  exploded into small pieces that Lingered all around the place.
+		-
+		- "Once it explodes it is what you call 100 percent and gone. Most pieces get lost and not even I can find them all to Reconstruct the soul. Is not impossible but is far out of what any of us, or even a god can reach, for all intents and purposes, gone forever.”
+		-
+		- And the light show was over, a tear fell from Emerald's face. The actual Emerald. She and her father stared at each other. There were no words. Both of them were still processing what they just saw. and after a minute of two the ghostly hand returned to cover Emerald's eye Vita was talking again.
+		-
+		- "This is why I lied. Time was running out. The soul already looked like that burst of colors and memories. The damage was already well past where I could just heal. And with every minute it was going to be harder. If it was to ever compress into that sphere, I don't even know if I could have done anything."
+		-
+		- "You... couldn't heal it? Then, what did you do?"
+		  
+		  Silence again, one the mayor hated.
+		  
+		  "Just keep an open mind, ok?"
+		  
+		  A silence the mayor hated a lot.
+		-
+		- “The reason why your treatment wasn't working was because on top of all of.. that, the soul was drenched in essence, essence is something that can strength the soul but it also destroys it, pure essence was consuming what was left of the soul, The treatment would have been useless, but essence is something I can use.”
+		-
+		- Vita paused again, staring at the ceiling. And not at the mayor like before. Looking for words to say. The mayor didn't like at all where this was going. But he was asking for the truth. It was the only thing that could help Emerald.
+		-
+		- "Don't try to put blue poppies on it. It will be what it is. Just tell me the truth."
+		-
+		- "My consciousness is something that can only be awoken when there's enough essence in a single body, I am dormant unless the conditions are right. I was able to stop the essence for consuming the rest of the soul as soon as i was awake, But it was already too late for me being able to heal the rest, if I let it as it was, the treatment would still not have worked. We would only be able to wait until it was over. So those were my only two options. I could stop the essence for consuming the rest, let the soul be and hopefully stop the pain until it was over…”
+		-
+		- Her arms moved, something that felt like Emeralds doing, it went and hugged her own body, something the mayor could only interpreted as she trying to comfort Vita from whatever she was going to say.
+		-
+		- "Or I could consume the rest of the soul, combining it with the essence in a single mesh, make her soul a part of me and do my best to keep that part distinct from myself."
+		-
+		- Emerald took control immediately. As the heat of the room was again rising. This wasn't a move planned by Vita, it was a surprise even for the spirit. Emerald knew it was going to be a shock as soon as Vita finished the phrase, and she preferred to be the one in front Instead of Vita. Just a second ago she didn't know anything about what Vita was trying to say. But again knowledge was pushed into her and she could understand it. She knew why Vita was so guilty back in the dream.
+		-
+		- Emerald looked at her father face. This wasn't as bad as it sounded, or at least it didn't feel as bad as what it sounded.
+		-
+		- Emerald pulled it into that information that she was just given and created another hologram. It was again the silhouette of her soul but it was what she understood was like. There were golden lines, crossing the white silhouette sealing the cracks akin to the kintsugi that Vita described and the way her own skin looked, emitting a dim light through the golden bounds, but there was a bit more than that, the gold enveloped the silhuette wholly forming sharp gradients of white and gold, you knew when one started and one ended, but there were no gaps, no way to separate one from the other.
+		-
+		- "That was the only way. It was the only way dad, I’m here, I'm okay, it doesn’t hurt anymore."
+		-
+		- But the Major didn't say anything. He pressed his hand against the hologram. Strangely solid for what would you expect of a figure of light. He pressed his fingers against the white parts that created a face and the gold that tied it together. as he did, the temperature of the room returned to normal and there was the sound of a defeated sight.
+		-
+		- "I didn't mean to scare you”
+		-
+		- He stood up from the table and walked around it to meet Emerald, he hugged her. It was a bit different from when she opened up her eyes up in the bed. peaceful, warm and accepting.
+		-
+		- “You are here that all that matters but, what will happen now? if there is only one soul, are you really two people?
+		-
+		- "I do feel like myself. But Vita said in that dream that, We'll be influencing each other, I'm still here, and I’m sure I’m not alone here, we are Together… we are two.”
+		-
+		- And that was probably the only thing the mayor could hope for, for Emerald to be okay and herself.
+		-
+		- "I don't want you to be angry at Vita or be scared of her. She is good. I know she is.”
+		-
+		- For how innocent her daughter could be sometimes, the mayor knew she was a good judge of people's character. “I’ll do my best."
+		-
+		- And to that Emerald smiled.
+		-
+		- ---
+		-
+		- "Emerald will get my abilities and eventually also the knowledge I have. and the same goes backwards, Between us, there will be no secrets. We'll get to know each other perfectly. Is too early too know if it is a good or a bad thing, but Emerald's secrets will be my secrets too and I will make respect of them"
+		-
+		- They moved to the arena. This was a scene that repeated once every month. Emerald would pick up a sword. Her father will pick a spear. They would fight, train and he will always come on top. The battle never lasted more than 5 minutes in which point he became a bit more serious, make Emerald fall, she would be too slow standing up and then the mayor would call it over, as he will always repeat. In a true fight, the enemy will just push forward if you fall. So don't fall.
+		-
+		- But now, there was one more person in the arena even if there were still the same 2 bodies about to fight, Emerald looked at the weapons. There was her trustable sword, but there was also a battle axe, She decided to grab it. Not for any reason in particular, it just felt right on her hands, a familiarity that she understood came from Vita. And it also felt a lot lighter than she remembered it was. It was possible it was because she had grown older since the last time she tried to pick it up, but she knew, she was also stronger now.
+		-
+		- It has been a long while since she decided to grab it. Her father looked at her weirdly for her change of choices but he didn't bother to discuss it. And so, He was the first to launch forward, as always, no warning.
+		  
+		   Emerald quickly moved to the sides. Once and again and again she repeated the same movements. She dodged the ever faster growing launches of the spear, it felt as if her senses were heightened. She felt lighter, faster, stronger. She continued dodging until she saw in the face of her father the surprise and doubt and she immediately used it to change her strategy. she launched forward, aiming not to the body of her mayor but to the spear and in a single slash she cut it in half.
+		-
+		- She knew the wood those lances were made of was a good one she didn't expect to break it, only planing to disarm her father, but the power behind her movement was also stronger than she expected. Half spear was on the floor now but instead of stopping Emerald pushed forward and aimed the axe straight into her father neck and when it was right in front of it Emerald stopped. She won the fight for the very first time.
+		-
+		- Father and daughter stood there looking impressed.
+		-
+		- "I... actually won." Emerald said as she finally escaped the impression.
+		-
+		- Her father took a bit longer, smiling
+		-
+		- "I don't think anyone has won against me in a hundred years."
+		-
+		- "You know I only won because you weren't actually serious, you would have destroyed me"
+		-
+		- "Maybe But you still did something very impressive there You became a lot stronger compared to last three month." He's commented, not mentioning more on the fact they could not fight the last two month.
+		-
+		- Usually these training sessions left Emerald tired. Her body was only used to defend herself by escaping. Not for these battles that lasted longer and she had to fight back. But now she felt exhilarating She felt like she could run and fight and continued going forever.
+		-
+		- A hand was placed in her shoulder again. "I know how it feels, but you still show rest a bit before using all that energy and you should get used to it. getting a lot of strength suddenly isn't exactly a fun experience when you aren't using it for combat."
+		-
+		- “You are talking by experience, right?”
+		-
+		- Vita giggled to that. “You could say so,
+	-
+- # A long enough time
+  collapsed:: true
+	- id:: 6822326e-f4e1-4fb8-bc64-052f594dd1d0
+	- Emerald was watching the horizon, the morning rising at the edge of the frozen ruins. she usually was here when she when something troubled her mind, it was different this time yet no that different, She was troubled, yes. But this time wasn't about the past. Or the present. But more about the future. she hasn't been here long since she and Vita got fused, her voice was always in the back of her mind telling her about how stuff was going to be right at the end that she was loved regardless of everything. She never felt the need to be back here. But now her mind was silent. And the words that were ever told to her Felt more like a natural knowledge than comfort.
+	-
+	- "It's been a while. You hasn't come here in years. Yet, I knew you would be here.”
+	-
+	- Emerald heard from behind there was her father. His calm demeanor always comforted her. He walked until he was next to her and he smiled. Also looking at the horizon.
+	-
+	- "This time I'm talking to Emerald or I'm talking to Vita?" he asked her. An Emerald would normally respond if Vita was in control or if it was her. Now she didn't answer. She didn't answer until a minute or two.
+	-
+	- "I... I don't know." She admitted. The expression of her father was worried. Yet somehow he didn't seem surprised. "I don't know. I feel like... Emerald? I am Emerald. But I'm also Vita. I try to hear her voice. I try to seek the lines, something that tells me who I am. I don't know who I am.”
+	-
+	- Tears started to fall from her face, different this time too. Tears of gold falling off her eyes.
+	-
+	- "I knew this would happen eventually. The more we stuck together the finer were be the lines that make us different Our thoughts and feelings were always different. But now they aren't I feel like both of them, I feel alone.”
+	-
+	- And her father hugged her. He started whispering, as he always did, that everything was going to be okay.
+	-
+	- "You started changing long ago. Then, I always knew when was Emerald and when it was Vita. But as years went by, I will admit, it started to become harder. Vita was always calmer, her moves rigid. Emerald, was way more used to her body, she was always excited, jumping around. As you grew older. You got calmer. Your movements were more fluid, regardless of who was in control. You started to forget when you were supposed to put your hand in front of your eye to tell me who was talking. Then sometimes I was sure I was talking to Vita just for you to say something that told me you were Emerald.
+	-
+	- I felt dumb for not realizing, for not taking seriously what Vita told me at the start of everything .You both were changing and the lines between each other were already blurring, I feared, I would lose you both. You, your soul would eventually become something different. And I feared that I would lose the Emerald and Vita I always knew.
+	-
+	- I feared that I only delayed the inevitable loss of my daughter. I didn't want to worry you about it, so I never told you what I figured out. I just wanted to keep living the moment. But as the years passed it struck me. I would never really lose you. You were you since the start. You were Emerald and Vita since the start, remember what you told me, you were a single souI since the start, but you also had two voices, two set of thoughts, I will never lose my daughter because she will always be in front of me, in a different form, souls are always meant to change. Wasn't that the whole ordeal? when we were together as Alma, all those centuries ago. You are always together. You will forever be together. And I love you. I love you both and I love you as you. Even if you decide to continue being Emerald, Vita or be something else.
+	-
+	- Emerald returned the hug of her father, understanding the truth behind his words, but the inevitability of Vita and Emerald becoming one single entity in all sense of the word wasn't the only thing she was afraid of.
+	-
+	- It was something else, something that she learned about a long time ago. In that same time when when Zenith fused all of them together, trying to get to Alma. "But what if this isn't he end?"
+	-
+	- Her father looked at her.
+	-
+	- "Vita was always a part Alma, no in the sense that everyone is a reflection of the will of the universe. But as literally Alma awoken by the essence in Emerald's body. What if the lines become more blurred? What if instead of Emerald, I'm just Alma? I know, I know, in some way everyone is Alma. But Alma as the identity of the will of the universe, she's also me. I never knew if I should tell anyone what happened when I was in front of her all those years ago. we knew we were meant to be one, I felt tempted, and I know they were too, to destroy each others bodies until all that it was left was the soul we would then consume until there was nothing that would tell anyone what is Emerald and what is Alma, but we knew we could only conform with being... close, from the start the fusion wasn’t Vita and Emerald, it was Alma and Emerald, I consumed Emerald's soul, I turned her into essence... we became both personifications of pure essence but in a different shape I'm here and I'm pure essence and Alma is wherever they are and they are also pure essence, two figures but we are both one and the same canvas of everything.
+	-
+	- What if someday I stop being me, what if Emerald is just a set of memories that were long ago consumed by Alma, by the essence she was drapped in when I jumped into that pool?..."
+	-
+	- The mayor placed a finger on top of Emeralds mouth, the message, to simply calm down.
+	  
+	  "And what if it is true? Would that made all these years fake, just a delusion?"
+	  
+	  "No but...-"
+	  
+	  "Then it does really need to matter? Now you are you, memories of Alma, Alma and Emerald, or something else entirely. You are my daughter, but also part of something bigger, both can be true. "
+	-
+	- And Emerald smiled, not sure of the truth, but deciding to trust her father, both of them staring into the horizon until the sun was completely up and gone into the clouds, just then they went back home.
+	-
+- # A meeting
+  collapsed:: true
+	-
+	- Emerald and Alma, Alma and Emerald, they would look into each other's eyes. But there were no words to be spoken. They already knew each other, even if they have barely talked to each other. Emerald moved one step forward. Alma did too. Before they were both uncertain, not sure what to make of this growing connection. But now they knew, they meant a lot for the other.
+	  id:: 68367146-1a1c-4cf0-b41f-3ec29179d2d4
+	-
+	- Their steps moved them close enough that they could grab each other's hands and hold them close to their chests. There were still no words; they knew what they were meant to be. There was no need to exchange words when, in that moment, every thought was already known by the other. They were two entities, clearly distinct from each other. But deep down, they were one and the same, in the essence of everything. They were one and the same, and they forever will be.
+	-
+	- There was, in both of them, a wish, a desire: to be closer than holding their hands as they were, closer than what their bodies would allow them to be, closer still. They wanted each other. They wanted that new piece that was never there before but now felt missing. The holding of hands became a hug, the kind of hug you only give to someone you've known your whole life, even if it was the first time they hugged. Behind the hug, both of them were pressing clawed hands into each other's skin, and when their bodies felt the pain, they were both freed from the stupor, abruptly separating and looking at each other in alarm.
+	-
+	- There were still no words. They both already knew what they almost did. They felt sadness and longing in that separation, but they both knew it was needed. It was too early for Emerald to commit to this. She had a whole life in front of her to walk into before deciding if she really wanted this, and Alma knew it was also not the time for her. She couldn't destabilize this spark of peace finally present in her life and the life of her family. They would eventually all understand, but not yet.
+	-
+	- So they would look at each other one last time. They approached and grabbed each other's hands one more time. Forehead meeting forehead, their faces close to the other but never quite touching, they separated again, quickly walking away from each other. They knew that they would meet again, no matter if it was soon or in millennia, but they will meet again, and they will finish this. It was another inevitability.
+- # The inevitability
+	-
+	- Everything that ever existed will exist forever, but it will never remain the same.
+	  id:: 6836773c-ec00-446f-8393-a144a958cd31
+	-
+	- Emerald knew this, and she knew this better than most. But that didn't mean she wasn't tearing up when she placed a bouquet of delusion flowers in front of the tombstone, Despite living a lot more than what most creatures could dream with. Her father was still a mortal, and mortality is always meant to end. Nothing remains the same forever. She was crying because she knew it was time to move on; she extended time of this inevitability for him.
+	-
+	- A hand pressed against her shoulder. Emerald already knew their owner, but still, she turned around. It was time to meet her destiny. A secret only her father knew. One it took years for him to accept, but as it were his words, Emerald would still be his daughter. Even if that stopped being her name, even if she became part of something else. Green iridescent eyes met an infinite rainbow, The finite met an infinite kaleidoscope, and they had been waiting for this moment for so, so long. Time almost made them forget the longing, but it never disappeared. The two figures didn't share a word as they walked away from the tombstone and the cemetery to a place where the universe would change once more.
+	-
+	- The place where their history started, a long-abandoned cave. Near the edge of a pool of never-decaying liquid, shining bright, they sat. It was more symbolic than anything. They didn't need the essence of this place, but in a way, doing this here felt like closing a cycle, this chapter in both of their existences.
+	- s
+	- This is the origin of all beauty, but also the origin of much pain and violence.
+	- The two figures held each other’s hand once more and for the last time, as they would never let the other go again, a soft dance followed, hand holding hand, spinning as the light of the first ethereal grew brighter, the remnants of the illusion of flesh lifting to give space for the liberation of the soul beneath it, once covered in the wounds that almost destroyed it, now it held proud its true nature, the everything that just like her companion, held in a mortal nature all of creation.
+	-
+	- The mortal made immortal and the inmortal made mortal.
+	-
+	- Finally, they could be what for so long were meant to. Closer. Free from any ties, free from the limitations, free as the universe they were, two halves finally made complete. The dance turned to a hug. Their gaze always in each other, they knew they couldn't be separated, even if they tried, but that was exactly what they wanted. Their bodies pressed against each other, as if a strong glue united them. Closer, closer, closer, both sets of eyes whispering to the other.
+	-
+	- "Closer, I want you to be closer, be with me."
+	-
+	- their souls met, pure essence tangling in the threads of what belonged to the other, their physical shape losing form as they held each other’s tighter, thoughts melting into feelings, warm tenderness in their touch, doubts turned into comfort, a felt smile and laughter, and above everything feeling of finally being back home, a rush of memories, belonging first to one, then to both, then to only one again.
+	-
+	- They lost themselves in a sea that was both them and the other, unable to be sure anymore where one began and the other ended, or who was one and the other, the names Emerald and Alma losing meaning for them as a new whole, they melted into the love of something new. Dormant in shared dream.
+	-
+	- ----
+	-
+	- Their eyes opened, not sure when they fell into the pool of essence, they felt alarmed but only till they remembered they were fine, they were this, they were everything, these water could not hurt them no more.
+	-
+	- they rose out of the essence, standing on top of it as if it wasn't a liquid, a new self, the illusion of skin wrapping around them less natural and more of a pearly tone and texture, a longer hair, a lighter brown with stripes of white, it fell in waves into the ground fading in a ghostly tail as it reached it. They wore a familiar jacket and scarf, that seemed to both have an end and be infinite.
+	-
+	- There was a single fear present in them before all of this, of how much they would change, but after everything they realised, nothing really felt that different, the love from families and friends, the love for all the universe. Their two identities finally reunited, finally complete, but not changed.
+	-
+	- They were asleep for long, in one barefooted step they were back into the surface, the cave disappearing into a colorful field of flowers and the night-sky illuminating them with its colors.
+	-
+	- Behind them suddenly six figures appeared. All of them registered with the love and care of family. The love and care they always had for them. A woman with scars just like hers, the existence and the void, her eldest sister, and the fist person who recognized her nature, Order.
+	  id:: 687700eb-43ae-4bea-b61c-bf14d3d21052
+	  
+	  Another woman, wild yet serene with an emotional smile that was holding back tears a lot worse than her first one, the growth and the decay, Chaos.
+	-
+	- A younger looking teen, a boy whose sight revealed more wisdom than what his appearance would suggests. Time.
+	-
+	- A man With a top hat, still disguised As the common folk he decided to become the mediator of and the one who hold the strings of the whole place they were, Space
+	-
+	- And then their parents, A woman with golden hair. tears of happiness and a smile of gold. The one who may have tailored this whole reunion to be as perfect and as beautiful as it was. Her mother, God themselves.
+	-
+	- And the older looking man who was among all of them the youngest, a large beard barely hiding the smile and tears of his face. The soul of the man who picked up a girl from the snow, never expecting that girl will become a part of one of the most powerful beings in the universe, her father, who despite not having any divine title, in the mind the new born and finally complete guardian of Soul couldn't help but call The mayor.
+	-
+	- They were all here, they've been waiting for her. And despite everything, this time they remained together. She hugged them, they hugged her, they held her hands and started telling their stories of those times she remained dormant again. Exited to enjoy the times to come with her daughter and littlest sibling.
+- # The other timeline of soul
+  collapsed:: true
+	- In another realm of possibility, there is one where no one saves Emerald inside the lab. Her soul was heavily fractured. Yet, she didn't lose her will to live. She knew, with her compassion already damaged, that she needed to escape, that she needed to survive. No one arrived for her—not the people that called her friend, nor her father who promised to always arrive. She had to escape, and the means of doing so didn't matter.
+	-
+	- In a laboratory, in a location that was never discovered, piles of bodies fell one behind the other, after what seemed to be a huge accident, And after the whole place was down, she was free, and the monsters roamed to the wild. In this timeline, there were more and more dangerous monsters roaming the cities. There was no huge plan behind their attacks. They were free, and Emerald told them to survive, to feed, but she would be doing so too.
+	-
+	- But her soul wasn't the only thing fractured. She herself was heavily damaged: walls fractured, wings broken, now free from the lab. She could only walk slowly to the only place she knew she would get help, despite not wanting to get there. Her father was safer, crying, saying his sorry. But there was no care in her anymore, she remained home, innocent looking, while she was healing in her so-called home.
+	- Despite the even more numerous and dangerous attacks during this timeline, many of the events leading to the pond of essence would remain mostly the same. Emerald eventually guided the group to the second lab. And then in an even more desperate attempt to reconstruct what was left of her soul, she will jump down into an even more broken version of the monster she would become and once defeated she will fall again and here is where everything will change By the time
+	-
+	- Vita awaken was too late. essence seeping through every single crack, replacing and consuming her soul until what was left were barely a few sharts. Emerald wouldn't be in a coma this time around. Her soul was straight up, destroyed. And her body slowly fading into nothingness. Vita knew there was nothing she could do but she just couldn't give up, she just couldn't let go the few sharts she goes barely safe While the rest of this soul exploded in a spar set.
+	-
+	- She... figure out something that could maybe save what remains of Emerald. or at least part of her. But it would be at the cost of both of them She told a lie to the Major just like in the other timeline of soul But this time around the lie wasn't that she could heal Emerald. The lie was that Emerald was still there. She told them she could be saved. She just needed help recovering the shards that dispersed all around. As if the time of chaos she gave everyone the power to locate them as she knew she couldn't go an find them. She needed to keep Emerald's body stable. She needed to protect the shards that remained. She knew she couldn't recover her soul, her whole soul exploded. Most was beyond the reach. But she just needed a few more pieces and it will be okay. it had to be okay.
+	-
+	- She didn’t understood why this girl she barely knew what so important, She wanted to help. She needed to help her. But... why she was so willing to sacrifice this much?
+	-
+	- It would take months. But finally, there were enough pieces to Recover… not even half of Emerald's soul. But if this worked it... it would be enough. The other shards will come back. If she just glued the pieces to herself. If she blended herself to all these shards, if she became one with them in a single mesh by, Maybe, just maybe, with just a little more power she could recover by herself, more shards.
+	-
+	- Vita made sure everything will be perfect. Got rid of everyone and spent days alone. To be alone with the pieces of Emerald's soul, each of those pieces, a part of her very being, a bulb that seemed to be made out of pure crystal, filled with curiosity, wonder, and love for those around them.
+	  id:: 68d2082d-e053-4b3d-858f-86a7c8565537
+	-
+	- She knew why, but still believed she would never understand how someone can pass a soul as simple a mean for power and trash the beauty of it.
+	-
+	- There was something more into this soul in specific, something that attracted here to it, something that conectad her into it, maybe the reason why she was even do this in the first place, something that just whispered to her from her inside.
+	-
+	- "Mine" 
+	  "closer"
+	  "together"
+	  "destiny"
+	-
+	- It was a very slow process: rebuilding the bulb, replacing the still-missing parts of it with her own essence. It was something Vita had never done before. But maybe it was because of her nature or something more, but the whole process felt natural.
+	-
+	- Soon , she was  fixing the cracks, shifting parts of her own soul to match and adapt to perfect it without even thinking about it, just following her instinct and very slowly welcoming this half-emerald's, half-her, new bulb into herself. It was a strange sensation. For moments, she felt as if she was in two places at once. On one side, she could recognize it as herself, as Vita. The other perspective was scared and confused. She found herself remembering memories that weren’t from her, her-.. Emerald’s father, holding her hand as he was teaching her how to traverse the ruins securely. Memories of a home, a family, of hopes and dreams, of being rejected by others of her kind, yet optimistic for a better future for those she loved so much.
+	  
+	  All those memories felt as if they were something she herself had lived, not something she just observed; Broken, confused with her pieces, they grew more personal. until wasn't sure what part of herself those fragments belonged to. Her thoughts and memories were a mess, Everything started to melt into feelings. It was fear, but it was also comfort. It was also safety. It was also hope. It was something she couldn't describe.
+	  
+	  she wasn't even sure if she was dreaming, at least she did not remember falling asleep, yet she found herself face to face with Emerald, Neither of them said anything. They somehow knew what the other wanted to say, and they knew the other knew too. They shared the fear, the regret, the sorrow of that girl. And they already knew the other would comfort her, tell her that none of this was her fault and that she was already willing to do this.
+	-
+	- Neither of them knew what would happen, but they knew they would be together. They would have each other... forever.
+	-
+	- It shouldn't be as comforting as it felt. In all reality, they never even got the chance to talk to each other, at least not as two different entities. Even so they knew, they belonged to each other. They were always meant to be this. Their thoughts, their voices, they grew more congruent. A strange harmony. It was feelings. It was warm. It was peace. It was home. It was right. Neither of them knew the moment they fell unconcious as for the very last time, the two of them.
+	-
+	- ----
+	-
+	- Who was she? She knew what happened, she knew what she was, she was a Emerald and Alma, and through a whole hour of reflecting trying to find the lines and the differences between both of them, going as far as to using her own power to inspect her own soul... she could not.
+	  id:: 68d4ae12-7f2b-4168-8c64-79d448abcbad
+	-
+	- "Vita actually did it... I did it."
+	-
+	- Alma? Emerald? She had the memories of both of them. She knew all of what Emerald was pretending to do and why she was hiding. And she knew everything about how Emerald felt through everything that happened. It was confusing.
+	  id:: 68d4ae09-5046-49b0-813d-51d3e6bd5672
+	-
+	- This was... She was... The result. She knew that if Emerald had a choice, she would have rejected this. Not because she didn't want to live, but because she wouldn't have wanted to be alive, if that meant someone had to alter their existence for her, merging with her. But it was also too late for that, and she felt… right.
+	-
+	- Not the right that the fusion worked, but the right that she, this combination, this amalgamation of two souls, one that belonged to a being that defied the laws of everything, just felt right. As if this was what she was meant to be.
+	-
+	- They were meant to be this, This was right. Neither Alma, much less Emerald, knew why, but this was right. This was what was meant to happen; she wasn't sure how this was meant to happen. But it was.
+	-
+	- She stood from the bed, walking around the room, staring at the mirror, checking her new look. Part of it had appeared before with the evolution: new pairs of wings and remaining-looking marks around her body.
+	-
+	- But there were still new things to see about her, the way she could control parts of her body to keep the ghostly appearance of Alma. She could make her feet and hair look almost like a ghostly tail or make her hands transparent, allowing them to pass through stuff, then make them solid again.
+	-
+	- Her eyes were now of two colors. The green was Emerald's, but the other was of a rainbow tone that glowed brightly. Her hair fell in waves, and although it was still white, if you looked at it from the right angle, it almost seemed to darken into a light brown color. And instead of a single white halo, two halos flew on top of her head
+	-
+	- She didn't need her wings to fly anymore, but she still could use them, and it felt weird not using them. As well, it would have been strange if she flew without her wings. She didn't want her dad to know about this... just yet.
+	- ----
+	- She felt the curiosity. There were many things about her not even Vita knew before this. Emerald used to be so curious and it seemed that was now a part of her. She wanted to know everything about this new body, and the new parts of her personality.
+	  id:: 68de16a1-c1c2-4a41-8862-751d590ba1bd
+	-
+	- But there would be time for that, a lot of time... right now she needed to deal with the aftermath, of what happened, if that included explaining what she-Vita has done, that time will tell.
+	-
+	- As she ran down the stairs, she started to notice some things. Her senses felt heightened, not even in a way Alma was used to. Scene growing in her mind, all the infinite ways she could run down the stairs , and she imagined all the different poses she could use. She imagined herself going down the stairs, skipping steps, falling down the stairs just to save herself with her wings, falling down the stairs and hitting her head hard. 
+	  id:: 68e47bc2-d152-4953-a239-2c6daa4bfca8
+	-
+	- She could see all the possible ways her father could be walking right now into the room, seeing her going down. She could imagine the many ways how someone people outside could come inside at this very moment, and the infinite amount of reasons why. It was overwhelming. It forced her to stop in her tracks and instead just sit on the stairs. There was silence in her movements as if her presence wasn't even noticed by reality. It worked to delay meeting her father and the millions of possibilities running through her head on how that conversation could go. Some included just a normal conversation. He feeling extreme relief about  she being fine. In others, he noticed immediately something was up and made everything many times harder.
+	-
+	- It took a moment for her to organize her head, to remind her of where she was. Was this something new? She knew for a fact that Emerald wasn't able to process information at this speed, but it was also far more than just Alma's power of understanding souls perfectly. It was even more than just souls; she could predict even how a speck of dust falling in front of her could fall and the incredibly unlikely amount of movements it would have to do to gather enough mass and energy to become a black hole. She saw in that small speck of dust, infinities over infinities.
+	-
+	- One breath after another, and she stood up again. She would have to analyze this carefully. It was overwhelming now. And she had the feeling it was going to become a lot worse.
+	-
+	- More silent steps brought her to the workshop. She saw many possibilities, but it felt most likely that her father would be there, as he usually was when he was stressed up, making weapon after weapon. She knew she came silently, but still, it was out of character for her father not to have noticed her presence as soon as she entered. He seemed hyperfocused on that one weapon he was making. All around the place, there were weapons of their own, weapons of multiple designs; many were a mess. It was the work of an obsession to escape reality.
+	  id:: 68e482be-11f5-469b-8905-d20525115c87
+	-
+	- Just how much time had actually passed? She was sure she had been asleep for a while. But she also couldn't remember how much time Alma spent on fixing her bulb.She knew her father was fast at making weapons, but not even him could make this many. Not in at least a month...
+	-
+	- "Dad?"
+	-
+	- And as if breaking a spell the eyes of the mayor turned to her. Disbelief, a few seconds checking if what he saw was real. The weapon he was working on falling carelessly from his hands. In a fast but careful step her father approached her and hugged her softly, it was as if she was made out of crystal, one wrong touch away from shattering and disappearing again.
+-
+-
+-
+- #Story/BrainStorm

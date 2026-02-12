@@ -1,0 +1,2 @@
+- There are two ways to obtain this timeline: Either you succeed in saving Emerald during the third side event, or you fail completely and her soul gets destroyed. In each outcome, Alma gains a lot more importance. In the next events, she decides it is finally time to finish what was started so many years ago.
+  id:: 683c95bb-4396-4964-9ad7-bbac3dc7dce0

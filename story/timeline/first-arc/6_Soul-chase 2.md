@@ -1,0 +1,151 @@
+# Soul chase
+collapsed:: true
+	- Soul chase introduces a underground group that will be of great important through all story, a feared organization seeking to utilize the essence of a soul to artificially grow stronger, for that they experiment on people till nearly o completely destroying them.
+	  
+	  A breakthrough occurred and now their most powerful experiments, near of fully shattered monsters roam free.
+	  
+	  This event is not about that organization, is about the monsters and their greatest success.
+	-
+- ## Characters
+  background-color:: purple
+	- mayor of ruined city
+	- god of will
+	- [Alma]([[Alma-(Soul)]]) first appearance as Vita
+	- [[Emerald]]
+	- 7 kingdoms rulers
+	- [[Deyanira]] and [[Akuma]] , first and fourth of the fallen
+- ## objective
+  background-color:: purple
+	- Introduce soul mechanics, soul shattering, Vita, deepen roles of the cities, formally introduce the ruined city, formally introduces evolution. Is the trigger to core island
+	  
+	  Is the real introduction to the story.
+- ## Story
+  background-color:: purple
+	-
+	- ### Prelude
+	  background-color:: pink
+		- Just as the dwarf Emerald is introduced as early as GMF, she is a Nyphen whose adopted father is one of the most feared people in the whole world, only because of that she is respected, as she is also considered among nyphen society an outcast.
+		  
+		  Emerald wishes to introduce the beauty of her hometown to the world and to make real friends, this attitude, brings her to the center of many side and main events, most notably, her role as a peace maker during DGA.
+		  
+		  After DGA she simply banishes, if you weren’t already a friend of her you wouldn’t hear anything. If you were and if you were given a hidden Ruined pass you will soon know she is gone and you will be “asked” (forced) to help. Here lies the only chance to actually save her. It will be already too late when she returns on her own. And the damage only worsens the longer you take.
+	- ### Main part
+	  background-color:: pink
+		- The main part of the event takes place either after you find her or after 5 side events, when she escapes. And what happens depends on when you find her. If you find her early you will find her soul damaged and her drunk of essence wishing for more.
+		  
+		  If you are too late she will return, broken bones and wings, blood splattered but alive, eventually physically healed. But she is hiding the true extent of her wounds.
+		  
+		  There are routes in between depending on when you find her, but as a general rule. If her hair is tied up, she will be the enemy.
+		-
+		- #### Possibility one, found after 3 events
+		  background-color:: gray
+			- The event will be divided in nine phases. The first seven phases will have each monster as their protagonist. An enemy the players have to hunt and defeat. They don't look for people per se. They attack and leave as if they were strategizing. As if they didn't want to be caught. As if they had an objective. Something that the researchers about shattered monsters never seen before. At this point they were usually so out of themselves that they wouldn't differentiate an strategy for fighting animalistic. And they were killing a lot of people, acting like this.
+			-
+			- Each monster is different as they were different people before. Now more powerful and aggressive. Now with the capability to damage a soul. The objective will be to either capture and somehow heal them if there's a chance or to end their suffering.
+			-
+			- ##### Intro
+				- Hunger was all she knew walking disoriented around her room for the first time in months. It felt known, yet so unfamiliar. The man that picked her up, her father promised a lot of things, food, protection, he said he would protect her, she would never be hurt again.
+				  
+				  He was crying, so happy and hopeful, yet scared as if touching her meant she would disappear again.
+				  
+				  It was so touching, despite her broken memories, Elisabeth was sure she never saw her father cry.
+				  
+				  So why couldn’t she feel anything about it? Why this room, the room she slept on since she was a baby, didn’t feel like more than hotel room?
+				  
+				  She needed to leave, she needed to feed, she was so hungry it was painful, and that was the lesser of her pain.
+				  
+				  But she couldn't leave now now.  If she did, if she did anything near here, it would be noticed by her father and she would be in a real problem.  She had to be discreet about this. She had to find the other monsters that escaped with her.
+				  
+				  They would hear her. They would hear her voice. She was just like them.  
+				  
+				  Emerald sat on her bed. She couldn't leave. She had to pretend to be asleep till morning arrives.  Even with her memories  distorted, she knew if she left very early in the morning.  Her father will be in his laboratory. And will be there till at least noon.
+				  
+				  Normally, she would be awake a lot later than that.  She was nocturnal after all, as remnants in this city usually are.  If she returned before noon, her father wouldn't notice anything.  It wouldn't be enough time.  But...  It would be...  Giving her some insights on what she should do.
+				  
+				  " I'm so so hungry. I need to go back to the club. I need to... It hurts. It hurts a lot. I'm so hungry. He wouldn't understand it. No, no, no, no, no. This cannot be fixed. I need to go back to the lab. I need the essence. I need... It will be very problematic if he notices. I need to be discreet about this. I need a distraction..."
+				  
+				  Before all of this, she always hated lying to her father. He wasn't perfect, he was overprotective and too afraid of the external world for the power he had. But he was a good father.
+				  
+				  It was weird for Emerald to not feel anything at all about those words. It became a routine. She would pretend everything was going better. She couldn't pretend everything was like before. The changes in her personality were obvious even for her, but everyone blamed that on what happened.
+				  
+				  Her experience would have broken most people. Broken completely. But she wasn't most people. She survived. And she will continue surviving. Whatever is the cost.
+				  
+				  The hunger just wouldn't stop. She was craving for something. And she knew exactly what. It was easy to conclude why the monsters normally wouldn't look for this. The knowledge about essence was so limited that even at this point of desperation for it, broken people would search for the closest thing, mana.
+				  
+				  But mana wasn't essence. Not even close. It barely did enough to numb the hunger. The monsters without essence would eventually break. And call it a little sense of morality left in her or plain opportunism. She didn't know. But she could give them a bit more time. She could give them the essence they needed. If they so... Help her in her little mission.
+				  
+				  She could give them just a tiny little taste of what they want. It would be everything she needed to have them under her control. It would be everything she needed to cause Mayhem to all the planet. But in that Mayhem, she would find the lab. And she would get what she wanted.
+				  
+				  "Those monsters will do just fine. They are just as broken as I am."
+			- ##### phases 1-7
+				-
+				- **Phase 1:** The first attack occurs in [the Kingdom of Will]([[Will kingdom]]). It serves as a clue to the origin of these monsters. The Kingdom of Will is the closest country to the ruined city, and unlike the Kingdom of Justice where the high-security prison on the way there, the Kingdom of Will is a desolate desert. Getting there quickly and discreetly is easy, and in this constant chaos, one more strange creature isn't  rare to see. The first attack is very unexpected. The monsters seemingly appear in the center of the square and begin killing people. Several of the monsters are fractured people who still have a conscience, just close enough to the breaking point to be violent. You can convince them that you can heal them, tell them they will be alright. These people don't know how or why they are there. Their memories of the event are fragmented; they remember a white glitch in their head, a smile, and being putting on them collars from which a voice told them that if they went to the city and started causing chaos, they would be healed, so they obey. Inside the collar these people wore is the symbol of the assassin of the Approaching Winter: a black eye weeping a universe.
+				-
+				-
+				- The first of the monsters she will use, the monsters she helped escape, will be those who are the least broken. They needed people to have some compassion about them, to see a possibility of healing them and maybe do so. That may be the only way to make sure they will check the collars. One commonly used by people in the ruins  when hunting dangerous fauna. She never agreed with those. not even now. But they will give her an opportunity to deliver her message. She wore a disguise each moment she interacted with the with the shattered souls. There was a chance they couldn't even recognize or remember her face after this. But she couldn't risk it. She couldn't risk being recognized. So a mask and a hood it was. Then she took the collars, she modified them to be as different as she could make it from the ones used in the ruins and then painted a symbol she was sure everyone would recognize. After all, the escape of the Wintercoming assassin was in the global news. What wasn’t in the global news is the fact that he was part of the cult, she knew because she saw him talking with... that woman... right before she was dipped in essence once again.
+				- Emerald whispered in soft voice to the ears of the monsters. I know how to heal you. Go to the Will city. and do whatever you need to do. If you are able to come back here, I will give you what you need, and so the monsters left.
+				- She wasn lying when she says she will give them what they needed. Too much essence was dripping from her own body, so much, it was easy to collect. She had multiple bottles that she would use to make these monsters summit to her.
+				- She could, but it would be worthless to drink it, she was losing too much essence, much faster that what she could store and drink. It would be worthless if she couldn't get to the lab. So she wouldn't drink it. She would use this tool to survive.
+				-
+				-
+				- **Phase 2:**
+			- ##### phase 8
+				- The eighth phase will have Emerald. It will be the revelation that she was behind all of this. But she's different from all the other monsters. She doesn't have any empathy. But she knew what she needed. She knew what she wanted. She knew how to get it. And she manipulated the monsters too. To aid her looking for the lab. Looking for the clues.
+				  
+				  She finally... finally found it.  What she was so craving for. It was a pool of it. The stuff the cult was storing for centuries. She knew it was a trap.
+				  
+				  It was obvious. They went specifically for her for a reason. She didn't know the reason. She didn't care about it. She knew they wanted her to be here. And they behind the scenes guided her here So... She manipulated the scenery. She also gave clues to the people on where was the new laboratory.
+				  
+				  She Told them somehow how to find it. And let them fight her fight. So she could get closer to the source. She will kill a lot of people in her way. Bodies staggering on top bodies of cultists.
+				  
+				  Crystal claws, three set of wings As a high nyphen, all broken and deforming She was a monster. She already knew it. It didn't matter, It was finally in front of her there was the room. There was the pool. There was the essence. And no one on her way.
+				  
+				  At this point the players would arrive. Finding Emerald broken crack on her body and face. She would turn around. And reveal herself, her head was barely on top of her neck, glitchening and breakening more, then she talks about nonsense and her pain and then... Just jumping into the pool. Smiling, cracking. She was shattering more and more. Too much essence. But she was all for it. She needed it. She needed it. She needed it. No matter if this was her last moment. She needed to stop the hunger. And so... her old self broke. Emerald wasn't there. There was a creature. A creature with five sets of wings. Colorful in everything you could see. Broken as cracks covered her body. Shining brighter and brighter.
+			- ##### phase 9
+				- The creature only had two thoughts on their head. For that... Her essence... Eradicate the enemy. This will be the final fight. A monster That was Recovering Their empathy little by little by the amount of essence they was consuming. But it was also being Shattered and shattered more and more. As the same essence was consuming the rest of her soul. No matter the outcome. It will depend on how early The players were able to save her. What determines her destiny after this fight. She can evolve. Being fused with With the guardian of the soul. As a new entity. That resemble both of them. She call entering into a coma. Vita Desperate trying to save what remains of her soul, introducing the inverted. She could be completely shattered. With No new appearances of her or what she could be. Until the very end .
+	- ### Post
+	  background-color:: pink
+		- The end will depend on the beginning. When she escaped:
+		-
+		- **after first event:**
+		  collapsed:: true
+			- she will be mostly fine, traumatized and with a new connection with alma, as her living vessel, she will continue being important, and a lot more powerful. An undecided timeline
+		-
+		- **After second event:**
+		  collapsed:: true
+			- Emerald gets a connection with Vita.  She grows powerful, more than she is able to control alone.  So Vita hovers over her, helping out whenever she can.  They learn a lot about each other, but secrets are still secrets.  And Emerald is sure Vita is hiding something.  The power Emerald gained became too much after a while.  And in a burst of power, the sea rumbles, the eyes staring at her.  A scream echoes.  And she learns, she just knew.  For a second, she understood.  Too much information is her mind to process.  Past, present.  She felt she could hold the souls of everyone in her hand if she wanted.  But it wasn't her what she felt.  It was Vita.  It was...
+			-
+			- "Your name is not Vita.  It's..."
+			-
+			- A hand covered her mouth. Vita screamed at her to not call for her real name.  But a damage was already done.  Not the one Vita feared, but that burst of power was noticed, far, far away.  The eyes of a woman with white silvery hair.  A repressed memory she couldn't unlock but she knew was important. She whispered to her right man.
+			-
+			- "You felt it too, right?  Send the spies.  We need to investigate.” 
+			  
+			  Saving Emerald at this point will unlock events that it wouldn't be happening otherwise. Unlocks  [[The timeline of order]]
+		-
+		- **After third event:**
+		  collapsed:: true
+			- She and Vita share a body, no one has more control than the other and when one talks the other's voice sounds in echo. This was the only wa to stop Emerald from shattering or revolving back into her monster self. She has evolved, the first Ethereal one that keeps the looks of a winged remain, what she always saw herself as.
+			  
+			   She and Vita have constant internal conversations, and she learns a lot more than she is suppose to. with her newfound power, is her who calls for power, triggering a rip that causes the [white crystal butterflies](../unsorted/white-butterflies.md) to arrive.
+			-
+			- This is the expected timeline, [[The timeline of Soul]]
+		-
+		- **After forth event:**
+		  collapsed:: true
+			- She is somewhat alive, but only because of Vita, she enters in a coma, with her soul struggling to be kept together. This outcome leads to a much earlier clue into the inverted, as there lies the most powerful revival magic after God and her full self. And [core-island](./core-island.md) is called earlier. Unlocks [[The timeline of chaos]]
+		-
+		- **After fifth event:**
+		  collapsed:: true
+			- She doesn't survive, her soul is too shattered and Vita as only a single piece, cannot do more that give here more lucid time to stay with her father and talk about what happened. Vita will only then reveal that souls still exists despite being destroyed, but collecting all pieces to revive someone is near impossible for someone not her on her full power. She cannot help, and she is scare, so she calls for [Power]([[Alex-(Power)]]) seeing in the eyes of her father and in the passion and bravery of this almost goner soul, the determination that will allow them to survive their long postponed destiny. [Core island](./core-island.md) is called earlier. A modified [timeline of soul]([[The timeline of Soul]])
+- ## Lore Notes
+  background-color:: purple
+	- **[[The eyes of Wisdom]]**
+		- An underground organization experimenting with souls, using stolen leftovers of gods ritual collected over centuries.
+		  
+		  For years they were kidnapping and experimenting on people, but something happened and a multitude of people both in process of shattering and shattered monsters escaped.
+	-
+	- **[[essence]]**
+		- A substance gods seem to be able to make infinitely, yet they know next to nothing about it, and the main component of a soul.
+-
+- #Story/Timeline/First_Arc #Events

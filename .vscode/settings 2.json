@@ -1,0 +1,36 @@
+{
+    "cSpell.words": [
+        "Aereal",
+        "Akuma",
+        "aromantic",
+        "Chitnoids",
+        "Chronos",
+        "CRYS",
+        "demoman",
+        "Deyanira",
+        "dragonkin",
+        "dragonkins",
+        "Graveborn",
+        "Graveborns",
+        "mdef",
+        "mout",
+        "mren",
+        "Neutronium",
+        "Nyphen",
+        "Nyxkins",
+        "racials",
+        "rspd",
+        "taned",
+        "truesight",
+        "Unlockables",
+        "Vielora",
+        "Wolfrayet"
+    ],
+    "cSpell.enabledFileTypes": {
+        "markdown": true
+    },
+    "cSpell.enabled": true,
+    "files.exclude": {
+        "logseq/*": true
+    }
+}

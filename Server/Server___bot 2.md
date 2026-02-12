@@ -1,0 +1,12 @@
+- This page is made to collect information about the server bot, being relevant links, documentations, suggestions and planned features
+- ## TODO Features
+	- TODO Stat calculation
+	- TODO Mana calculation
+	- TODO RP channel announcement spam
+	- TODO Mod team work summision
+	- TODO [[GM request]]
+	- TODO GM event list
+	-
+-
+-
+-

@@ -1,0 +1,4 @@
+- They weren't used to be late. Being too late was a feeling that they always consider horrible. Especially because they were never late. But when a trust was evolved there's a chance to relate and this was the worst case They ran in the direction of order and soul. they were paralyzed as if they weren't expecting them to appear Maybe they even forgot about them, They did. They totally did. A quick look into what happened behind the trust, revealing the reality that was slowly but horribly sinking in. pushed order away with a force so strong she went crashing into edge of the new crater, kilometers away
+  id:: 680da9e6-46b5-47e6-af6e-2c7075449ac5
+-
+- tags:: Story/Timeline/Pre_lore

@@ -1,0 +1,3 @@
+- This place includes channels, moderation notes and information, reminders, etc
+-
+- #Server/moderation

@@ -1,0 +1,17 @@
+- When you have very high speed stat, x50 or higher imagine stuff become trickier. So here is a ruleset on how to compare speed stats.
+- Speed and reaction due to their ability to easily win fights are balanced differently for fairness,
+- In a battle if your speed, reaction, or both are higher than your opponent you get a certain amount of advantage based on the percent difference between those stats
+- 0-5% (negligible advantage)
+- 5%-15% (minimal advantage)
+- 15-25% (minor advantage)
+- 25-60% (advantage)
+- 60-99% (major advantage)
+- 100+% (speed blitz)
+- This applies differently if the advantage is for speed, reaction or both but in general the higher you advantage level the more leeway you can have in your actions in battle
+- With minor advantage you may be able to move out of the way enough to reduce damage slightly, or hit first if you both strike at the same time but it's not enough to act before they can or autododge any move they try and counter before they can
+- The higher your advantage rank the more of these opportunities you get up until a 100% difference or higher where you can assume your fast enough to act before they can, and blitz them with speed
+- In general speed and reaction are treated more abstract in battles compared to other stats, so please try to take this into account whenever battling, having advantage doesn't mean your unhittable even if on the higher side and you can't always outreact others unless the stat difference is immense.
+- speed advantage is also treated far more vague when numbers are low for example when starting a 1x speed and reaction oc fighting a 2x speed and reaction will be threated as it would be in real life, this till the x100
+-
+- #Mechanics/Oc/stats
+-
