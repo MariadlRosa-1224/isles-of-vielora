@@ -6,7 +6,7 @@ Story:: Brainstorm
 - Once he was done, once he understood everything there was to understand about the flames, he hunted the god the fire.
 -
 - The legend says the fight destroyed whole landscapes and turned everything in vincinity into ashes. But at the end the man was victorious, he avenged his son. But it wasn't over. as he stood on top of the now dead body of the eldritch.
-- something in him started to change the reason he was there wasn't important suddenly who he was before he even started to study the art of flames felt like a well distant memory, he gave up his own life to become fire itself.
+- something in him started to change, his victory, something that should have been celebrated, or at least, a moment that marked the before and after in his life, it became just that, a moment in infinite time, he spent so long mastering the flames that, the man who was before it all started felt like a  distant memory, he gave up his own life to become fire itself.
 - If you beat what it is on itself, the very essence of something in their own game, what does that make you? If you beat them in their own domain, doesn't that mean you are the better incarnation?
 - The man was now the better incarnation of fire. So he became that. became the new Eldritch God of Fire and the cycle repeated.
 -

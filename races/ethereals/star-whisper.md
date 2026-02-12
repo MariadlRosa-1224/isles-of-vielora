@@ -1,3 +1,6 @@
+banner:: "https://i.pinimg.com/736x/8a/23/fc/8a23fc92cdffa0660e3f439ec8227e66.jpg"
+page-icon:: 🌟
+
 Race:: Ethereals
 
 - # Star whisper
@@ -20,15 +23,15 @@ Race:: Ethereals
 	  
 	  **(Ability)** abc
 	  
-	  **Description:** 
+	  **Description:** Their appearance change to match the races of the planet they inhabit, often with different colors that make them quite noticeable, any color is possible, but having pitch black skin with bright colors in different spots or as hair is quite common, and they have star shaped bright spots spread over different parts of their body.
 	  
 	  **weaknesses:**
 	  
 	  **(Weakness)** abc
 	  
 	  **History:**
-		- Star whispers are a race known to be all over the universe. a race with an origin a race closer to the stars that are believed to be the origin of the power of the gods. For this reason, star whispers are highly respected. They are pins of powerful magic, but in an unstable physical state.
-	- **Lifespan:**
+		- Star whispers are a race known to be all over the universe, not necessarily the most numerous, but maybe one of the most wide spread. Born when mana from space mixed with stardust and the energy of a star fall into a planet with life in the form of a shooting star. For the way they are born they get some control over space magic. Which make them a very respected race in most places, their magic being seen as a rare yet powerful blessing.
+	- **Lifespan:** 2500 years
 	-
 	- ## Characters of this race
 - #Race/Ethereals

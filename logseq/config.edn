@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["TO_DO"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -426,7 +426,7 @@
  :graph/forcesettings {:charge-range 4000
  :charge-strength -1000
  :link-dist 140}
- :feature/enable-journals? true
+ :feature/enable-journals? false
  :default-home {:page "index"}
  :editor/logical-outdenting? true
  :ui/show-brackets? false}

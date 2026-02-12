@@ -1,4 +1,4 @@
-- # Races
+# Races
 - #index
 -
 - ## [Graveborns]([[Race/Graveborns]])
@@ -27,19 +27,16 @@
 	  query-properties:: [:page]
 -
 - ## [Lore]([[Race/Lore]])
-  collapsed:: true
 	- {{query (property :race "Lore")}}
 	  query-table:: true
 	  query-properties:: [:page]
 -
 - ## [Nyxkins]([[Race/Nyxkins]])
-  collapsed:: true
 	- {{query (property :race "Nyxkins")}}
 	  query-table:: true
 	  query-properties:: [:page]
 -
 - ## [Remnants]([[Race/Remnants]])
-  collapsed:: true
 	- {{query (property :race "Remnants")}}
 	  query-table:: true
 	  query-properties:: [:page]

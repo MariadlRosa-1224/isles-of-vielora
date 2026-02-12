@@ -1,0 +1,12 @@
+## Magic
+- [[Mind control]]
+-
+- ## Ailments
+	- In vielora one will sometimes encounter a large variety of aliments beyond simple physical damage. Many of these ailments work differently from each other and thus are split into 3 categories within the world codex. [[world_book/magic/sicknes-curses-poisons]].
+	- Most non physical ailments fall into one of these categories, and when inflicted with one a oc has different possible treatments for each.
+		- [[Poison]] : (normal or magical compounds that cause damage and varying symptoms to the body either chemically or through other means related to what the material is)
+		- [[Sickness]] : (Diseases caused by bacteria or creatures varying from normal to magic. Unlike poisons these ailments are caused by something living. Though most commonly physical sickness can also be incurred through mana or other magical/non physical aspects of the OC being infected or harmed.)
+		- [[Curse]] : (Different from magical sickness curses are magic used directly to curse a opponent with some sort of negative ailment. Usually not subsiding until broken unless it's directly written into the curse. Due to being magical they are often capable of things the other two simply aren't such as forcing rules on a person. A negative magical contract sort to say, curses can also be inflicted through cursed items or weapons instead of being struck by one)
+		-
+-
+-

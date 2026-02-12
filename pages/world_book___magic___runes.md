@@ -1,0 +1,11 @@
+## A rank
+- [[Telephathy]]
+- ## B rank
+-
+- ## C rank
+- [[darkness]]
+- [[healing-area]]
+- ## D rank
+- [[recording-rune]]
+-
+-

@@ -1,10 +1,10 @@
-- # Souls
-  id:: 68102652-3593-40ba-b889-1b1f9bfd2413
-  index:: [[Mechanics]]
-  mechanics:: Soul
-  index:: [[Mechanics]]
-  Mechanics:: Soul
-  mechanics:: Soul
+# Souls
+id:: 68102652-3593-40ba-b889-1b1f9bfd2413
+index:: [[Mechanics]]
+mechanics:: Soul
+index:: [[Mechanics]]
+Mechanics:: Soul
+mechanics:: Soul
 - souls are the unintended consequense of consiousness, a window in which the universe can understand itself.  and from there can influence, that goes both ways, just living a life or even an afterlife is a new experience, a new perspective that is forever kept in the universe. and the universe "the will of creation" can influence souls.
 -
 - Lore and oc wise a soul is something of great value and importance, the very being of a person, something untouchable, damaging a soul, even more, destroying a soul is a crime only paid with death in most planets, Vielora is not the exception.
@@ -33,6 +33,6 @@
   
   The aura is like a transparent view of what the person views themselves as, it’s not very detailed, fuzzy unless you have a powerful soul sight, the bulb is always visible somewhere inside of the aura shaped by the gods template and growing different as the soul gets older. It doesn’t need to be humanoid nor look like the person at all but is common for people to view themselves as what they grew as.
 -
-- tags:: Mechanics/Soul
+- #Mechanics/Soul
 -
 -

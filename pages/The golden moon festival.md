@@ -9,6 +9,7 @@
 	- Introduction to the main lore, introduce clues to main events. As well as some possible objectives for ocs.
 	- ## Story
 		- ### Prelude
+			- During the beta events it is mentioned a lot the festival an for a reason, every 100 years all 5 moons become a full moon the main one, called the old moon, as it was the original moon of earth gain a faint golden color and a festival is celebrated in the very place, one of the most importand events in all the kingdoms.
 		- ### Main part
 		- ### Post event
 		- The first few side events are also pretty chill. You can hunt monsters, travel the world, learn a few legends, learn more mechanics, and meet a mage who teaches you how to understand spells and learn about the story of the world. You also get a glimpse into the daily life of the world. This is the kind of stuff one can do without getting too ambitious, allowing you to train and become greater in your life, because soon enough, everything will get chaotic.

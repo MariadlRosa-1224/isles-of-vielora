@@ -1,0 +1,6 @@
+-
+- There are five main types of mana being arcane or typeless mana, mana of order, mana of chaos, mana of time and mana of space.
+- All these types of mana branch infinitely to make pretty much any other type of magic one can imagine. but only a limited section of these kinds of mana these kinds of magic can actually be learned and used by the common people. From these types of useful mana come the magic schools such elemental magic or music related magic, mind magic or anything else.
+- Essence and soul related magic are their own thing. Essence isn’t mana, it contains mana. No one is really sure what exactly essence is.
+-
+- #Mechanics

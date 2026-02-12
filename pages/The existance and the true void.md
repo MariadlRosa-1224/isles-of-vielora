@@ -1,5 +1,6 @@
-- story:: Brainstorm
-  brainstorm-tittle:: EmeraldOfSoul
+story:: Brainstorm
+brainstorm:: The existence and the true void
+
 	-
 	- # What once was two then it was one again
 	-
@@ -12,13 +13,13 @@
 	  
 	  "What happened wouldn't have been possible if I didn't have the power I had, the power to destroy everything. I could still could do what I meant to do: protect the universe. But protecting doesn't mean they have to destroy anything. I didn't want to be a destroyer. I didn't want to have my power entrusted to me." Then it was Nisha who talked.
 	  
-	  "But neither of us knows all of history, right?" Then they both continued, "I'm scared. We are scared. What will happen? Then, will we lose ourselves? We don't remember much. Ten thousand years. We have been ourselves. Will all of that be lost for someone who has lived since the start of everything?"
+	  "But neither of us knows all of history, right?" Then they both continued, "I'm scared. We are scared. ?"
 	-
 	- .
 	-
 	- id:: 6853866e-2b5f-4298-8758-a3784f00baef
 	- And when the light dispersed, the figure of an incomprehensible deity took the shape of a simpler woman. Tall, even taller than Eos, her features were familiar, yet they were also different, a her skin was slightly darker. She wore a dress the hue of infinity, mainly black and white, but also filled with many colors, some stronger, some closer to pastels.
 	- A transparent cape flowed with her very long silver hair, decorated with many different trinkets. The woman looked very eerily perfect. In the bare of her eyes, one was white with a pure black iris; the other was a void illuminated by a single bright light. But two features stood out among all the beauty of this godly being: three sets of wings. There was a pair of pure white wings that extended far away, ending in a bright light. Another set was darkness, the purest of darkness, waving something more akin to the bones of a bat’s wings, standing through the shadows in the middle—a tree of dark bones with leaves of bright light.
-	- And the other thing, a lot less visually impressive but maybe a lot more important, a gem that stood proudly on her chest. A perfect circle, a complete gem without separations, without any cracks. The two sides were together as a single piece, looking as if they had not been separated in the first place.
+	- And the other thing, a lot less visually impressive but maybe a lot more important, a gem that stood proudly on her chest. A perfect circle, a complete gem without separations, but with a scar traversing the middle of them
 	-
 	- #Story/BrainStorm

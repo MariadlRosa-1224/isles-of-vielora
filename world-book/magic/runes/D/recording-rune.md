@@ -12,6 +12,5 @@
   **Requirements:**
   
   None
--
-tags:: world_book/magic/runes/D-rank
+- tags:: world_book/magic/runes
 -

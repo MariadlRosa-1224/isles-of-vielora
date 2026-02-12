@@ -1,6 +1,6 @@
-- # RaceName
-  template:: Race
-  collapsed:: true
+# RaceName
+template:: Race
+collapsed:: true
 	- **Origin:** origin 
 	  
 	  **Base abilities:**
@@ -280,7 +280,7 @@
 -
 -
 - story:: Brainstorm
-  brainstorm-tittle:: EmeraldOfSoul
+  brainstorm:: EmeraldOfSoul
   template:: Brainstorm
 	-
 	- # Tittle

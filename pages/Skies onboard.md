@@ -20,6 +20,13 @@
 			  id:: 681c2cc0-aa69-4e16-868c-72ebbaf6df07
 		-
 			- #### Activities
+				- **Monster fights** in the ship you will be able to fight holografic monsters of different parts of the worlds, this hologram version as safe and you can't die fighting them but it give you ideas of the fighting mechanics.
+				- **Flight above the stargaze mana-train** Unless you can flight particularly fast or you are an expert in portals and teleportation, the quickest way to get from one continent to anorther is using the train, this train can get you to any continent in maximun 2 hours, and that if if you are traveling to two complete opossite parts of the planet. The train flies above the ocean and start in one edge of the ruins, makes a circle and multiple stops around the continents and stops at the other side of the ruins. 
+				  
+				  The train doesn't cross the ruins beyond the start and finish stop and it cannot get you to the northen frozen.
+				- **Legends** As people approaches multiple parts of the continent there will be tourist guides talking about different legends and mysteries, one example is the story of the uknown area of the ruins [[The eye of the storm]] as well as fauna or entities considered legends.
+				-
+			-
 		-
 			- #### continent stops
 		-

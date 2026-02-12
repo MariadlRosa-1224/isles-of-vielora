@@ -1,9 +1,12 @@
+page-icon:: 📌
+
 - # Ghost to-do list
   title:: TO_DO
 - #index
 - ## Server
   collapsed:: true
 	- DOING Map
+	  collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2025-06-13 Fri 21:41:54]
 	  :END:
@@ -19,6 +22,7 @@
 		- TODO stargaze
 		- TODO world map
 	- DOING [[Mechanics]]
+	  collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2025-06-13 Fri 21:41:54]
 	  :END:
@@ -35,6 +39,7 @@
 	- TODO [[Website]]
 	- TODO [Discord bot]([[Server/bot]])
 	- TODO [[Server moderation]]
+	  collapsed:: true
 		- TODO [[GM]]
 		- TODO [[Bio]]
 		- TODO [[Roleplay moderation]]
@@ -47,7 +52,6 @@
 	  CLOCK: [2025-04-11 Fri 13:42:56]
 	  :END:
 - ## Setting
-  collapsed:: true
 	- TODO [locations]([[Story/Setting/Locations]])
 	- TODO [Folklore]([[Story/Setting/Folklore]])
 - ## Races
@@ -65,56 +69,58 @@
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:16:02]--[2025-04-11 Fri 13:16:03] =>  00:00:01
 		  :END:
-		- TODO [[living-toy]]
-		- TODO [[automata]]
-	- DOING [Ethereals]([[Race/Ethereals]])
-	  :LOGBOOK:
-	  CLOCK: [2025-05-07 Wed 11:35:50]
-	  :END:
-		- DOING [[nyphen]]
+		- DONE [[living-toy]]
 		  :LOGBOOK:
-		  CLOCK: [2025-04-11 Fri 13:43:00]
+		  CLOCK: [2025-07-17 Thu 00:22:22]--[2025-07-17 Thu 14:51:27] =>  14:29:05
 		  :END:
-		- TODO [[star-whisper]]
-		- TODO [[phoenix]]
-	- DOING [Daemons]([[Race/Daemons]])
+	- DONE [Ethereals]([[Race/Ethereals]])
 	  :LOGBOOK:
-	  CLOCK: [2025-05-07 Wed 11:35:54]
+	  CLOCK: [2025-05-07 Wed 11:35:50]--[2025-12-18 Thu 21:23:39] =>  5409:47:49
 	  :END:
-		- TODO [[abhorrent]]
+		- DONE [[nyphen]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-11 Fri 13:43:00]--[2025-07-14 Mon 22:59:20] =>  2265:16:20
+		  :END:
+		- DONE [[star-whisper]]
+		- DONE [[phoenix]]
+	- DONE [Daemons]([[Race/Daemons]])
+	  :LOGBOOK:
+	  CLOCK: [2025-05-07 Wed 11:35:54]--[2025-12-18 Thu 21:23:42] =>  5409:47:48
+	  :END:
+		- DONE [[abhorrent]]
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:43:05]--[2025-04-11 Fri 13:43:44] =>  00:00:39
 		  :END:
-		- TODO [[distorted-one]]
+		- DOING [[distorted-one]]
+		  :LOGBOOK:
+		  CLOCK: [2025-07-17 Thu 00:22:16]
+		  :END:
 		- DONE Dark whisper
 		  :LOGBOOK:
 		  CLOCK: [2025-06-07 Sat 17:02:40]
 		  CLOCK: [2025-06-07 Sat 17:02:44]--[2025-06-07 Sat 17:03:18] =>  00:00:34
 		  :END:
-	- DOING [Graveborns]([[Race/Graveborns]])
+	- DONE [Graveborns]([[Race/Graveborns]])
 	  :LOGBOOK:
-	  CLOCK: [2025-05-07 Wed 11:35:55]
+	  CLOCK: [2025-05-07 Wed 11:35:55]--[2025-07-17 Thu 00:22:07] =>  1692:46:12
 	  :END:
 		- DONE [[frost-walker]]
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:43:48]--[2025-06-07 Sat 17:02:18] =>  1371:18:30
 		  :END:
-		- DOING [[ghost]]
+		- DONE [[ghost]]
 		  :LOGBOOK:
 		  CLOCK: [2025-06-07 Sat 17:03:07]
+		  CLOCK: [2025-07-12 Sat 14:52:33]--[2025-07-16 Wed 21:55:32] =>  103:02:59
 		  :END:
-	- TODO [Nyxkins]([[Race/Nyxkins]])
-	  collapsed:: true
-		- TODO [[shadowed]]
-	- TODO [Interwined]([[Race/Interwined]])
-	  collapsed:: true
+	- DONE [Nyxkins]([[Race/Nyxkins]])
+		- TODO [[Awaken shadow]]
+	- DONE [Interwined]([[Race/Interwined]])
 		- TODO [[ouroboros]]
-	- TODO [Euphorians]([[Race/Euphorians]])
+	- DONE [Euphorians]([[Race/Euphorians]])
 	- TODO [Evolutions]([[Race/Evolutions]])
-	  collapsed:: true
 		- TODO [[ethereal]]
 	- TODO [[Race/Lore]]
-	  collapsed:: true
 		- TODO [[archon]]
 		- TODO [[fallen]]
 		- TODO [[guardians]]
@@ -140,7 +146,6 @@
 		- TODO Wonderland
 		- TODO The great mad circus
 - ## Main story
-  collapsed:: true
 	- DOING Beta events
 	  :LOGBOOK:
 	  CLOCK: [2025-05-07 Wed 11:35:58]
@@ -151,7 +156,6 @@
 		  :END:
 		- TODO [[Festivities]]
 		- TODO [[The merchants]]
-		- TODO [[Fauna hunt]]
 		- TODO [[The observatory]]
 		- TODO [[The bard]]
 		- TODO [[The world library]]
@@ -164,7 +168,7 @@
 		- TODO  [[A nature's relic]] wilders - nature kingdom
 		- TODO [[The inverted piramid]] Graveborns - will kingdom
 		- TODO [[The zoo]]  nyxkins/fallen -
-		- TODO [[WintersComing]] Daemons - Justice kingdom
+		- TODO [[WintersComing]] disphorian - Justice kingdom
 		- DOING [The dwarf, the goblin and the automata]([[5_DGA]]) Remnants - Artisanry kingdom
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:06:31]
@@ -177,9 +181,10 @@
 		- TODO [Core island]([[Core island]])
 		-
 	- TODO Second Arc
-	  collapsed:: true
 		- TODO The whisper
-		- TODO Space onboard
+		- TODO Space travel
+		- TODO The mirror
+		- TODO [[The inverted]]
 		- TODO [[Chaos And Order]]
 		-
 	- TODO Third Arc
@@ -195,6 +200,7 @@
 	- TODO Fifth Arc
 	-
 - ## Story lines
+  collapsed:: true
 	- TODO [[The inverted]]
 	- TODO [[The phoenix town]]
 	- TODO [[The spaces between]]
@@ -209,6 +215,3 @@
 	-
 	-
 	-
--
--
--

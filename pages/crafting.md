@@ -1,5 +1,7 @@
 index:: Mechanics
 Mechanics:: Oc
+page-icon:: ⚒️
+banner:: "https://i.pinimg.com/1200x/1f/33/23/1f33239bf5a385288481151951239173.jpg"
 
 -
 - There's two important things to keep in mind. the experience or technique of the crafter and the materials used to make the equipment. Taking these in mind, you can make a better equipment.
@@ -22,7 +24,7 @@ Mechanics:: Oc
 -
 - ## Technique
   background-color:: gray
-	- Technique is another [stat]([[Mechanics/Oc/stats]]) one can upgrade and list your experience making equipment, it allows someone to use more materials and add more abilities to a single piece, a level stat (additive) that max out at 50.
+	- Technique is another [stat]([[Mechanics/Oc/stats]]) one can upgrade and list your experience making equipment, it allows someone to use more materials and add more abilities to a single piece, an additive stat that max out at 50.
 	- 4: +1 ability,  (tier 1)
 	  10 +1 ability, +1 material (tier 2)
 	  22 +1 ability, +3 materials (tier 3)
@@ -31,7 +33,6 @@ Mechanics:: Oc
 -
 - ## Material
   background-color:: gray
-  collapsed:: true
 	- Technique can only do much if you use basic materials, better materials increases the power of your equipment and some may grants it the ability to do something otherwise impossible.
 	- Each material has a craftability section that list its power and uses in crafting:
 	  id:: 684a7c28-e11a-4a96-b905-af1d1cfa9ee2

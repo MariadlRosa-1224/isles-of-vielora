@@ -14,4 +14,4 @@
 - Although this will never be explicitly mentioned unless someone discovers it, it has a few impacts on history. As an example, in [Soul Chase]([[6_Soul-chase]]), Emerald is able to evolve so fast because she was almost drowned in essence. However, this also shows its side effects: essence can increase power very fast, but it can also directly damage or even destroy the soul if handled incorrectly.
 -
 -
-- tags:: Mechanics/Soul
+- #Mechanics/Soul

@@ -21,4 +21,15 @@ index:: [[Race]]
   
   Another lesser known definition is of beings who inherited a human soul and/or their ability to create a human-like soul for themselves and their descendants without the intervention of a god.
 -
+- ## Final racials
+-
+- The idea for all the "true" human races (remains, cenizan, kindling, helian, and if you make them a race archon)
+  
+  Is that their final racials are so strong because they effectively feel all their brethren both post and pre war
+- And also why they have a ??? Racial
+- A remains final racials makes them feel and channel the will of all human races 
+  
+  A cenizan feels the heartache and pain all humans causing their flames to burn with immense power they cannot fully control 
+  
+  And kindling can feel a mix of both those and grit allowing them to keep on storing energy and power even ifs beyond what their body can handle and to the point of pain
 -

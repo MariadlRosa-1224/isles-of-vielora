@@ -1,1 +1,13 @@
 - #index
+-
+- ## Mechanics
+- [[Mechanics/Oc]]
+- [[Mechanics/Bio]]
+- [[Mechanics/Soul]]
+- [[Mechanics/Others]]
+-
+-
+-
+-
+-
+-

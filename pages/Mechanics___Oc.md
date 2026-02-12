@@ -1,0 +1,3 @@
+- [[Mechanics/Oc/stats]]
+- [[Mechanics/Oc/condictions]]
+- [[Mechanics/Oc/Magic]]

@@ -3,7 +3,7 @@ race:: Remnants
 -
 - # Remain
   
-  **origin** Remnants
+  **origin** [[Race/Remnants]] 
   
   **Size:** normal
   

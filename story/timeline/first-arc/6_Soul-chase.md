@@ -1,5 +1,5 @@
-- # Soul chase
-  collapsed:: true
+# Soul chase
+collapsed:: true
 	- Soul chase introduces a underground group that will be of great important through all story, a feared organization seeking to utilize the essence of a soul to artificially grow stronger, for that they experiment on people till nearly o completely destroying them.
 	  
 	  A breakthrough occurred and now their most powerful experiments, near of fully shattered monsters roam free.
@@ -10,7 +10,7 @@
   background-color:: purple
 	- mayor of ruined city
 	- god of will
-	- [Alma](../../characters/divine/guardians-higher/Alma-(Soul).md) first appearance as Vita
+	- [Alma]([[Alma-(Soul)]]) first appearance as Vita
 	- [[Emerald]]
 	- 7 kingdoms rulers
 	- [[Deyanira]] and [[Akuma]] , first and fourth of the fallen

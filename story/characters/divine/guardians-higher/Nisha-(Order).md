@@ -24,13 +24,13 @@
 -
 - **Eye color:** eye color
   
-  **Hair:** silky long white hair 
+  **Hair:** silky long silver hair 
   
   **Skin:** soft skin with symmetric patches of other tones.
   
   **Markings:** a yin yang mark on the center of her chest.
   
-  **Typical clothing:** A dress black and white, completely symetric, in layers and with large sleeves, yet allowing movement comfortably.
+  **Typical clothing:** Past - A dress black and white, completely symetric, in layers and with large sleeves, yet allowing movement comfortably.
 -
 - ## Personality
   
@@ -41,7 +41,7 @@
 		- She is responsible, perfectly disiplinated and with a unmatched patience and composture
 	- **Negative traits:**
 		- Her world is square and black and white, everything either works or doesn't, and if something is wrong she will go to any length to correct it.
-		- She is unable to trust in anyone, in her eyes, even her siblings and God themselves just make her work harder, paradoxes, spae dilations, ever moving changes that forever threatens to break the delicate balance she is set to get. And God won't do anything other than the bare minimum, and spoil this dangers.
+		- She is unable to trust in anyone, in her eyes, even her siblings and God themselves just make her work harder, paradoxes, space dilations, ever moving changes that forever threatens to break the delicate balance she is set to get. And God won't do anything other than the bare minimum, and spoil this dangers.
 		- She is almost incapable to show any emotions, seaming completely neutral most of the time, her smiles are short and she doesn't admit caring.
 		- She will push others away in favor of her mission, she doesn't think about the effects of her words and desicions over others
 		- She is too proud to admit her mistakes
@@ -56,9 +56,9 @@
   
   **Skills:** She can do many things, secretly, she always loved to play the violin.
   
-  **Abilities:** Existence and void, she can move the tide to make something be born or be gone in absoluteness;
+  **Abilities:** Existence and void, she has the power of absolute creation and the manipulation of all laws, if she deems it anything can be created or be gone in absoluteness;
   
-  **Equipment:** none as she is not here
+  **Equipment:** none
 - ## Relationships
   
   **Family:** God and the other guardians they are the only people she lets herself care about.
@@ -68,7 +68,7 @@
   **Enemies:** Everyone and no one, she had hurt and pushed people away enough there are many who hate her, but none she considers actual enemies.
 - ## Additional information
   
-  she is not in the events of the story after God got divided in 2 [Zenith]([[Zenith-(vision)]]) broke her trust into two and stole the black piece before being banished into [[The Tower]] this part eventually trappen in [[The necklace]] would wake up as [[MidNight-(Void)]], the white part holding the mission of keeping existence going was banished from earth by [Alex]([[Alex-(Power)]]) before she lost her memories, a part that kept a twisted version of her mission and took her name as [Nisha]([[Nisha-(existence)]])
+  she is not in the events of the story after God got divided in 2 [Zenith]([[Zenith-(vision)]]) broke her trust into two and stole the yang piece before being banished into [[The Tower]] this part eventually trappen in [[The necklace]] would wake up as [[MidNight-(Void)]], the white part holding the mission of keeping existence going was banished from earth by [Alex]([[Alex-(Power)]]) before she lost her memories, a part that kept a twisted version of her mission and took her name as [Nisha]([[Nisha-(existence)]])
 - ## Background
 - My sister, loved but misguided, she is existence, the eternity among an ever-changing universe, the guardian of peace and stability, of atomic structures that reaches the equilibrium needed to grow, but also the black stop when everything exist but don't move anymore,  she is the law of the universe, the hard limits and the one who prevents everything to go out of hand.
 -
@@ -80,9 +80,9 @@
 -
 - No one really won that fight and it costed both of us greatly. I lost my vessel, she lost half of her trust over vision, and mom, unaware of the conflict till the very end, she got herself broken in half too.
 -
-- Once someone who only focussed of the mission she was created for beyond any of us, she pushed us away, sent chaos to her own realm to no mess with her perception of order, denied the attempts of space and time to get closer and even fought mother over the perception that she wasn't doing her job in preventing the collapse of her own creation.
+- Once someone who was only focussed of the mission she was created for, she pushed us away, sent chaos to her own realm to no mess with her perception of order, denied the attempts of space and time to get closer and even fought mother over the perception that she wasn't doing her job in preventing the collapse of her own creation.
 -
-- She did too much, even when not asked too, took the role of the leader of the gods to have them under control, became a leader that was strict, unpredictable and way too powerful to try to overcome, a string of control you would not notice, unless she got and eye on you, and that usually wasn't good, she didn't bother with the people, just the great scheme of things. So if she believed a civilization needed to be gone, she had the power to do it herself, with no one to stop her. Everyone feared her presence.
+- She did too much, even when not asked too, took the role of the leader of the gods to have them under control, became a leader that was strict, unpredictable and way too powerful to try to overcome, a string of control you would not notice, unless she got and eye on you, she didn't bother with the people, just the great scheme of things. So if she believed a civilization needed to be gone, she had the power to do it herself, with no one to stop her. Everyone feared her presence.
 -
 - I always wondered if she somehow understood I was the personification of the universe she was trying to protect, she was strict but she also was kinder and softer with me than with anyone else, treating me more like a child who puts themselves in danger rather than a menace.
 -
@@ -90,7 +90,7 @@
 -
 - But i couldn't be saved, and now she is broken in two pieces.
 -
-- The guardian of existence, a mission of preserving everything that exist, a kinder ruler who lost her original mission for something she wasn't meant to do.
+- The guardian of existence, a mission of preserving everything that exist, a kinder ruler who distorted her original mission for the protection of everything that exist.
 -
 - And the void, the guardian of nothingness trapped as a weapon, whose mission is lost and only search for closure and freedom.
 -

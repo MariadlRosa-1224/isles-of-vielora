@@ -1,0 +1,2 @@
+## Curing a Poison
+	- Poison: Poisons like other aspects have ranks. Any rank poison (except D and S+) can have its effect reduced by 50% by a healing spell of one rank lower, and for all poisons they can be healed by a healing spell of the same rank or higher. Certain antidotes or potions will have their healing rank stated and certain special methods may break this rule. Some higher rank poisons may have very quick acting time making it far more difficult to be treated.

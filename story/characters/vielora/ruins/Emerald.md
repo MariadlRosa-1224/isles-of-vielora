@@ -1,4 +1,4 @@
-- ## Emerald
+## Emerald
 	- characters:: Vielora
 	  Affiliation:: Ruined city
 	-
@@ -24,13 +24,13 @@
 	  
 	  **Eye color:** Emerald green
 	  
-	  **Hair:** white with the slightest ting of purple
+	  **Hair:** white with the slightest tint of purple
 	  
 	  **Skin:** white and pinkish
 	  
 	  **Markings:** before [[6_Soul-chase]] only freckles, after soul chase multiple scars shaped like cracks on cracks colored in gold 
 	  
-	  **Typical clothing:** a overside long dark blue jacket closed most of the time, a mustard yellow sweater, a long scarf of the two mentioned colors, grey pants and long dark boots
+	  **Typical clothing:** a oversizede long dark blue jacket closed most of the time, a mustard yellow sweater, a long scarf of the two mentioned colors, grey pants and long dark boots
 	- ## Personality
 	  
 	  **Description:**

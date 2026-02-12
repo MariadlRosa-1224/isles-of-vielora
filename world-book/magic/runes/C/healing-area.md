@@ -13,5 +13,4 @@
   **Requirements:**
   
   None
--
-tags:: world_book/magic/runes/C-rank
+- tags:: world_book/magic/runes

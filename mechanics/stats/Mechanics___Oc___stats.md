@@ -1,5 +1,5 @@
-- # stats
-  title:: Mechanics/Oc/stats
+# stats
+title:: Mechanics/Oc/stats
 - index:: [[Mechanics]]
 - Stats dictates how can an oc perform in certain aspects.
 - ## Types of stats
@@ -21,6 +21,7 @@
 		- **(str) strength (multiplier):** Physical strength
 		- **(spd) [[Speed]] (multiplier):** speed and agility
 		- **(dur) Durability(multiplier):** How much physical damage can someone handle.
+		- **(Ren)** Regeneration(multiplier): How fast can one recover for wounds.
 	- ### mental stats *More info in: [mental_stats](./mental-stats.md)*
 	  background-color:: green
 		- **(sens) senses (multiplier):** Can either cover only one or all five senses

@@ -81,7 +81,7 @@
 	  background-color:: gray
 		- Once you Fight the leader of the Cult of the Eye of Wisdom, she will trap a few OCs inside her collar. Her necklace is not normal. There's a pocket dimension inside of it. And In the pocket dimension is where Midnight is imprisoned.
 		  
-		  Midnight is the missing half of order. The personification of the void and the nothingness. She looks and is a shadow. A shadow whose only features is her silhouette and her white eyes. One white, the other issimilar to Nisha's shattered. A clue of their connection.
+		  Midnight is the missing half of order. The personification of the void and the nothingness. She looks and is a shadow. A shadow whose only features is her silhouette and her white eyes. One white, the other similar to Nisha's shattered. A clue of their connection.
 		  
 		  Midnight remembers. When Alex wipes everyone's memories about Soul, Midnight was already trapped in the necklace by Zenila. And that made her unable to forget. Once freed from the collar, she tries. She tries a lot to talk about what truly happened. But  there's a force that just prevents her to even mention  a clue about who is this person she cares so much and she's so worried about.
 		  
