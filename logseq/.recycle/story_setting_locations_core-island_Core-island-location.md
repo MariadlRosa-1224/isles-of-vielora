@@ -1,2 +1,0 @@
--
-- #Story/Setting/Locations/Core-island

@@ -1,4 +1,8 @@
-logseq/
-.obsidian/
-.vscode/
+# macOS
 .DS_Store
+**/.DS_Store
+
+# Editors / tools
+.vscode/
+.obsidian/
+logseq/
