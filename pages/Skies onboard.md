@@ -6,7 +6,7 @@
 	- *This event showcases different mechanics of the world. It introduces the world as a whole, showing players the different things they can do in the hope that they get interested.*
 	- *It is also an event made to collect feedback, as it is the very first of the beta events. People can give feedback about what they think about the races, the combat mechanics, and the stats. Everything is free to change at this point. Of course, most things were already being considered, so it's not like we'll make a whole overhaul, but big changes are still allowed.*
 	- ## Characters
-	- [[Charlie]] , Charlie will be a recurring character no one that will be all that important but that face you will see in  [[A nature's relic]]  in the start of the [core island]([[core-island]]), maybe afterwards he often leads adventure groups he's a man famous for his adventure spirit and wish to learn. If players are interested in him he may appear more but that will depend on them, I'm not planning to push this character like a few others
+	- [[Charlie]] , Charlie will be a recurring character no one that will be all that important but that face you will see in  [[A nature's relic]]  in the start of the [core island]([[core-island]]), maybe afterwards he often leads adventure groups he's a man famous for his adventure spirit and wish to learn. If players are interested in him he may appear more but that will depend on them.
 	  id:: 681ae33b-1996-465c-b5cd-f5aceeb5ccab
 	- ## Objective
 	- Show people the world. Show people what they can do. Get feedback and interest. Introduce a few mysteries. And more importantly, teach people that the main mechanic in this in this world is that you grow money by yourself.

@@ -181,8 +181,8 @@ page-icon:: 📌
 		- TODO [Core island]([[Core island]])
 		-
 	- TODO Second Arc
-		- TODO The whisper
-		- TODO Space travel
+		- TODO [[The whisper]]
+		- TODO [[The outer visitor]]
 		- TODO The mirror
 		- TODO [[The inverted]]
 		- TODO [[Chaos And Order]]

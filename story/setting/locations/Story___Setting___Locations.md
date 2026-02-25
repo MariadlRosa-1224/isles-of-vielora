@@ -1,6 +1,7 @@
 story:: Setting
 
 -
+- # Continents
 - ## [The ruins]([[story/setting/locations/Ruins]])
 	- {{query (property :location "Ruins")}}
 	  query-table:: true

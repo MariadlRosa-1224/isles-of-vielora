@@ -34,6 +34,7 @@ collapsed:: true
 -
 - ## CharacterName
   template:: Character
+  collapsed:: true
 	- characters::
 	  Affiliation::
 	-
@@ -278,6 +279,44 @@ collapsed:: true
 	-
 	-
 -
+- # Spell/Runes
+  template:: Spell/Rune
+	- Type::
+	  Rank::
+	  School::
+	  Classification::
+	-
+	- Name: Name
+	- Classification:
+	- School:
+	- Rank:
+	-
+	- Mana cost:
+	- Additional costs:
+	- Caliber: how much you need for it to be multipled
+	-
+	- Description:
+	-
+	- Requirements: N/a
+	-
+-
+- # Mineral
+  template:: Mineral
+	- Rarity::
+	  Region::
+	-
+	- Name:
+	- Rarity:
+	- Region:
+	-
+	- Archetype:
+	- Durability:
+	- Solubility: Neutral/Mana reactive/Reactive/Noble/innert
+	- Reactivity:
+	- Melting point:
+	-
+	- Description:
+	- Item stats:
 -
 - story:: Brainstorm
   brainstorm:: EmeraldOfSoul
