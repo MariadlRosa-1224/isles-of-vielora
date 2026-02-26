@@ -152,6 +152,7 @@ collapsed:: true
 		  background-color:: pink
 			- description
 	-
+	- tags:: Story/Timeline/Side-events, Story/Setting/Locations/Badlands, side-events
 -
 - # Fauna name
   template:: fauna

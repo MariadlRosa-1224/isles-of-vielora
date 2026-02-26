@@ -1,0 +1,12 @@
+# Event name
+	- *A dangerous criminal has escaped imprisonment. A criminal that was known by the name of the WinterComing. A dark whisper. A daemon able to manipulate those around me as puppets with strings. And use this ability to get rid of whatever gets on his way. A criminals say to be tied to even deeper and darker organizations all around the world and who for years was captured inside of a mass security prison inside of the justice kingdom. Now he escaped and is loose. Committing assassinations everywhere, but there seems to be a deeper reasoning in his weirder growing actions.*
+	- ## Characters
+		- ** [[WintersComing]] :** No one knows his real name, WintersComing got the nickname because because of the cold and snow that follows his movement, a shadow in a blizzard of his own making that dissapeared as soon as he appeared, leaving death or a puppet
+	- ## Objective
+	- ## Story
+		- ### Prelude
+		- ### Main part
+		- ### Post event
+	- ## Concepts and notes
+	-
+	- tags:: Story/Timeline/First_Arc, Events

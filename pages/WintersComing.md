@@ -1,11 +1,81 @@
-# Event name
-	- *A dangerous criminal has escaped imprisonment. A criminal that was known by the name of the WinterComing. A dark whisper. A daemon able to manipulate those around me as puppets with strings. And use this ability to get rid of whatever gets on his way. A criminals say to be tied to even deeper and darker organizations all around the world and who for years was captured inside of a mass security prison inside of the justice kingdom. Now he escaped and is loose. Mudering people all around the world, but there seems to be a deeper reasoning in his weirder growing actions.*
-	- ## Characters
-	- ## Objective
-	- ## Story
-		- ### Prelude
-		- ### Main part
-		- ### Post event
-	- ## Concepts and notes
+## CharacterName
+	- characters:: Vielora
+	  Affiliation:: Eyes of wisdom
 	-
-	- tags:: Story/Timeline/First_Arc, Events
+	-
+	- ## Basic info
+	  background-color:: gray
+		- **Nicknames:** nicknames
+		  
+		  **Age:** age
+		  
+		  **Birthdate:** birthdate
+		  
+		  **Gender:** gender
+		  
+		  **Race:** race
+		  
+		  **Job:** job
+		-
+	- ## Physical description (humanoid form)
+	  background-color:: gray
+		- **Height:** height
+		  
+		  **Weight:** weight
+		  
+		  **Eye color:** eye color
+		  
+		  **Hair:** hair
+		  
+		  **Skin:** skin
+		  
+		  **Markings:** markings
+		  
+		  **Typical clothing:** clothing
+		-
+	- ## Personality
+	  background-color:: gray
+		- **Description:**
+		  
+		  **Positive traits:** positive traits
+		  
+		  **Negative traits:** negative traits
+		  
+		  **Quirks:** quirks
+		  
+		  **Sexuality:** sexuality
+		  
+		  **Motivations:** motivations
+		-
+	- ## Talents
+	  background-color:: gray
+		- **Danger level:**
+		-
+		- **Special conditions:**
+		-
+		- **Skills:** skills
+		  
+		  **Abilities:** abilities
+		  
+		  **Equipment:** equipment
+		-
+	- ## Connections
+	  background-color:: gray
+		- **Family:** family
+		-
+		- **Friends:** friends
+		-
+		- **Enemies:** enemies
+		-
+		- **Organizations/groups:** group - relationship with group
+		-
+		- **Origin town/kingdom:** town/kingdom
+		-
+	- ## Additional information
+	  background-color:: gray
+	- ## Background
+	  background-color:: gray
+	- ## Relevant lore
+	  background-color:: gray
+	- ## Spoiler notes
+	  background-color:: gray

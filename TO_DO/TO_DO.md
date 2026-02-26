@@ -4,7 +4,6 @@ page-icon:: 📌
   title:: TO_DO
 - #index
 - ## Server
-  collapsed:: true
 	- DOING Map
 	  collapsed:: true
 	  :LOGBOOK:
@@ -46,7 +45,6 @@ page-icon:: 📌
 		- TODO [[Staff]]
 	-
 - ## World book
-  collapsed:: true
 	- DOING Review Kirby's items
 	  :LOGBOOK:
 	  CLOCK: [2025-04-11 Fri 13:42:56]
@@ -128,7 +126,6 @@ page-icon:: 📌
 	- TODO Review Kirby's races
 	-
 - ## Side Events
-  collapsed:: true
 	- TODO [First arc]([[Story/Timeline/First_Arc]])
 		- TODO [[The pupperteer]]
 	- Unsorted
@@ -141,10 +138,10 @@ page-icon:: 📌
 		- TODO volcano eruption
 		- TODO Sun festival
 		- TODO atlantis
-		- TODO the machine revolution
 		- TODO the crsytal castle
 		- TODO Wonderland
-		- TODO The great mad circus
+		- TODO [[The great mad circus]]
+		-
 - ## Main story
 	- DOING Beta events
 	  :LOGBOOK:
@@ -168,7 +165,7 @@ page-icon:: 📌
 		- TODO  [[A nature's relic]] wilders - nature kingdom
 		- TODO [[The inverted piramid]] Graveborns - will kingdom
 		- TODO [[The zoo]]  nyxkins/fallen -
-		- TODO [[WintersComing]] disphorian - Justice kingdom
+		- TODO [[The WintersComing]] disphorian - Justice kingdom
 		- DOING [The dwarf, the goblin and the automata]([[5_DGA]]) Remnants - Artisanry kingdom
 		  :LOGBOOK:
 		  CLOCK: [2025-04-11 Fri 13:06:31]
