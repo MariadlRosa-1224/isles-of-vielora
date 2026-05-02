@@ -57,5 +57,6 @@
   **Enemies:** enemies
 - ## Additional information
 - ## Background
-  
-  tags:: Story/Characters/divine/Knights
+	- ### Related stories
+		- [[The girl and the fire angel]]
+- tags:: Story/Characters/divine/Knights
