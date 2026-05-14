@@ -58,5 +58,5 @@
 - ## Additional information
 - ## Background
 	- ### Related stories
-		- [[The girl and the fire angel]]
+		- [[The fire angel]]
 - tags:: Story/Characters/divine/Knights
